@@ -32,7 +32,8 @@ DarkRP.createEntity("T0 Printer", {
     model = "models/props_c17/consolebox01a.mdl",
     price = 500,
     max = 2,
-    cmd = "bymoneyprinter0"
+    cmd = "bymoneyprinter0",
+    category = "Money Printers"
 })
 
 DarkRP.createEntity("T1 Printer", {
@@ -40,7 +41,8 @@ DarkRP.createEntity("T1 Printer", {
     model = "models/props_c17/consolebox01a.mdl",
     price = 1500,
     max = 2,
-    cmd = "buymoeyprinter1"
+    cmd = "buymoeyprinter1",
+    category = "Money Printers"
 })
 
 DarkRP.createEntity("T2 Printer", {
@@ -48,7 +50,8 @@ DarkRP.createEntity("T2 Printer", {
     model = "models/props_c17/consolebox01a.mdl",
     price = 3000,
     max = 2,
-    cmd = "buymoneprinter2"
+    cmd = "buymoneprinter2",
+    category = "Money Printers"
 })
 
 DarkRP.createEntity("T3 Printer", {
@@ -56,7 +59,8 @@ DarkRP.createEntity("T3 Printer", {
     model = "models/props_c17/consolebox01a.mdl",
     price = 5000,
     max = 2,
-    cmd = "buymoneyprnter3"
+    cmd = "buymoneyprnter3",
+    category = "Money Printers"
 })
 
 DarkRP.createEntity("T4 Printer", {
@@ -64,7 +68,8 @@ DarkRP.createEntity("T4 Printer", {
     model = "models/props_c17/consolebox01a.mdl",
     price = 10000,
     max = 2,
-    cmd = "buymoneypinter4"
+    cmd = "buymoneypinter4",
+    category = "Money Printers"
 })
 
 DarkRP.createEntity("T5 Printer", {
@@ -72,7 +77,8 @@ DarkRP.createEntity("T5 Printer", {
     model = "models/props_c17/consolebox01a.mdl",
     price = 25000,
     max = 2,
-    cmd = "buymoeyprinter5"
+    cmd = "buymoeyprinter5",
+    category = "Money Printers"
 })
 
 DarkRP.createEntity("T6 Printer", {
@@ -80,7 +86,8 @@ DarkRP.createEntity("T6 Printer", {
     model = "models/props_c17/consolebox01a.mdl",
     price = 45000,
     max = 2,
-    cmd = "buymoeypnter6"
+    cmd = "buymoeypnter6",
+    category = "Money Printers"
 })
 
 
@@ -90,5 +97,6 @@ DarkRP.createEntity("Bitcoin Mining Server", {
     price = 25000,
     max = 4,
     cmd = "buyserverprinter",
+    category = "Bitcoin Mining",
     allowed = {TEAM_BITCOIN}
 })
