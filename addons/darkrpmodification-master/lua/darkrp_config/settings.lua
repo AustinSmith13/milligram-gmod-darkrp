@@ -342,6 +342,7 @@ GM.Config.DefaultWeapons = {
     "gmod_camera",
     "gmod_tool",
     "pocket",
+    "weapon_arc_atmcard",
     "weapon_physgun",
 }
 
