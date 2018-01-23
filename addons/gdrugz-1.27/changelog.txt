@@ -1,0 +1,56 @@
+1.27
+---
+- Fixed itemstore again
+- Added white wine
+- Added custom red/white wine bottle models
+
+1.26b
+---
+- Fixed itemstore
+
+1.26
+---
+- GD.Itemstore config option (use this if you get conflicts with itemstore, temporary fix)
+- GD.XPMultiplier config option
+
+1.25
+---
+- Itemstore support
+- GD.ItemStoreStackable config var
+
+1.24
+---
+- Fixed jobs having no effect/DarkRP messing up
+- Fixed bug when drug labs/etc are damageable
+
+1.23
+---
+- Added brewery, alongside Lab and Pot
+- Added Red Wine to celebrate!
+- Added DRUG.MinLevel - if a drug has DRUG.MinLevel set, players need to be that level to make the drug
+- Added Tobacco
+- Added GD.FreezeNPCs to config - if NPCs are moved from their original position, they are teleported back
+- Added GD.Font to config - if you have a translation that causes blank spaces in text, you can change the font here
+- Misc bugfixes
+
+1.22
+---
+- Added morphine
+
+1.21
+---
+- Added GD.TestKitEnabled
+
+1.20
+---
+- Potential fix for DarkRP category error
+
+1.19
+---
+- Added GD.DrugDespawnTime - time before drugs automatically despawn
+- Potential fix for getting stuck in 3rd-person cook mode
+
+1.18
+---
+- Added GD.DealersTakeDrugs
+- Fixed progress bar on labs not showing when flashlight is on

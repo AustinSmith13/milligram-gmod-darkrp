@@ -1,0 +1,9 @@
+Sun Jan 21 11:47:41 2018	Griff (STEAM_0:0:51599729) has joined the game
+Sun Jan 21 11:47:41 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 11:47:46 2018	Bob Ross (STEAM_0:1:54818617) has joined the game
+Sun Jan 21 11:47:46 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 11:48:02 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 11:48:53 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 11:48:54 2018	Bob Ross (STEAM_0:1:54818617) disconnected
+Sun Jan 21 11:49:13 2018	Bob Ross (STEAM_0:1:54818617) has joined the game
+Sun Jan 21 11:49:13 2018	Bob Ross (STEAM_0:1:54818617) spawned

@@ -1,0 +1,99 @@
+"STEAM_0:0:66617318"	
+{
+	"name"	"Hyper"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:0:51599729"	
+{
+	"name"	"Griff"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:54672897"	
+{
+	"name"	"chrisman0325"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:0:17131489"	
+{
+	"allow"	
+	{
+	}
+	"name"	"DTSpartan"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:46746400"	
+{
+	"name"	"Kim Josh Un"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:1:20129756"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Hell Fire"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:188481945"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Akihiro | 太糟了"
+	"deny"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:1:54818617"	
+{
+	"name"	"Bob Ross"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:0:18354638"	
+{
+	"name"	"A1steaksa"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}

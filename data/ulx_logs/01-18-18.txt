@@ -1,0 +1,685 @@
+[02:31:14] New map: rp_bangclaw
+[12:01:50] Client "Bob Ross" connected.
+[12:02:46] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 56 seconds).
+[12:04:50] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate5x6.mdl
+[12:04:55] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate4x7.mdl
+[12:07:15] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate2x4.mdl
+[12:07:19] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate2x5.mdl
+[12:07:21] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate2x4.mdl
+[12:07:27] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x4.mdl
+[12:08:29] Client "Griff" connected.
+[12:08:32] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/cs_assault/moneypalleta.mdl
+[12:08:45] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/de_nuke/ibeams_bombsitec.mdl
+[12:09:00] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 31 seconds).
+[12:10:55] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/cs_militia/bar01.mdl
+[12:26:28] Griff: t
+[12:31:10] Tyler Gates: .calc 400
+[12:33:07] Tyler Gates: .CALC 400
+[12:33:12] Tyler Gates: .calc 400
+[12:33:51] Tyler Gates: .calc oqihd
+[12:33:54] Griff: .calc 100
+[12:34:08] Griff: .calc 100
+[12:34:20] Griff: .calc 200
+[12:34:22] Griff: .calc 100
+[12:34:24] Tyler Gates: .calc 200
+[12:34:24] Griff: .calc 200
+[12:34:38] Tyler Gates: .calc 100
+[12:34:45] Griff: .calc 1
+[12:34:49] Tyler Gates: .calc 1
+[12:34:50] Griff: .calc 2
+[12:34:53] Griff: .calc 3
+[12:34:56] Griff: .calc 10
+[12:34:58] Griff: .calc 9
+[12:35:01] Griff: .calc 7
+[12:35:03] Griff: .calc 6
+[12:36:46] Tyler Gates: .calc 20
+[12:37:08] Tyler Gates: .calc 20000
+[12:37:13] Griff: .calc 2000
+[12:38:19] Griff: /dro
+[12:38:21] Griff: /drop
+[12:45:16] Tyler Gates: .calc 200
+[12:50:51] Griff: t
+[12:50:54] Griff: t
+[12:51:06] Griff: t
+[12:51:21] Tyler Gates: .calc 200
+[12:51:27] Tyler Gates: .calc 5
+[12:51:40] Griff: t
+[12:51:59] Griff: t
+[12:52:01] Griff: t
+[12:58:06] Client "Kim Josh Un" connected.
+[12:58:31] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate2x3.mdl
+[12:58:41] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x4.mdl
+[12:59:23] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x3.mdl
+[12:59:33] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x4.mdl
+[12:59:37] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x3.mdl
+[13:00:22] Client "Kim Josh Un" spawned in server <STEAM_0:1:46746400> (took 136 seconds).
+[13:01:23] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:01:31] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:01:42] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:02:42] Griff added Kim Josh Un to group admin
+[13:05:39] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:05:47] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:06:33] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x4.mdl
+[13:06:33] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:06:58] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:07:01] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:07:04] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x5.mdl
+[13:07:09] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x4.mdl
+[13:07:51] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:07:59] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:08:14] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x2.mdl
+[13:08:20] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:08:31] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x2.mdl
+[13:08:37] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:10:18] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:10:59] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_phx/construct/metal_tube.mdl
+[13:11:27] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/plates/plate1x1.mdl
+[13:11:29] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/plates/plate2x6.mdl
+[13:11:33] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/plates/plate2x3.mdl
+[13:12:38] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/plates/plate1x1.mdl
+[13:13:10] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/plates/plate4x6.mdl
+[13:13:10] Kim Josh Un was killed by prop_physics
+[13:14:00] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/plates/plate1x1.mdl
+[13:14:13] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/plates/plate1x1.mdl
+[13:14:23] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/plates/plate1x1.mdl
+[13:14:27] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/plates/plate1x1.mdl
+[13:14:34] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/plates/plate1x1.mdl
+[13:14:39] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/plates/plate1x1.mdl
+[13:14:47] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/plates/plate1x1.mdl
+[13:14:57] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/plates/plate1x1.mdl
+[13:15:02] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/plates/plate1x1.mdl
+[13:15:18] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/plates/plate1x8.mdl
+[13:15:22] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/blocks/cube025x5x025.mdl
+[13:15:52] Kim Josh Un: !stop
+[13:15:54] Kim Josh Un: /me Checking door for traps
+[13:15:56] Kim Josh Un: /me Strips weapons and comms
+[13:15:58] Kim Josh Un: yes sir
+[13:15:59] Kim Josh Un: /advert Mug over
+[13:16:09] Kim Josh Un: /advert Mug over
+[13:16:17] Kim Josh Un: /me Checking door for traps
+[13:16:19] Kim Josh Un: !stop
+[13:16:21] Kim Josh Un: /me Salutes
+[13:16:22] Kim Josh Un: /advert Die in name of allah
+[13:16:34] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:17:14] Griff: /setmoney kim 1000000
+[13:17:38] Tyler Gates: .dist 50
+[13:17:50] Tyler Gates: .dist 75
+[13:18:59] Tyler Gates: .add Griff
+[13:19:56] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:20:39] Griff: /forceunarrest
+[13:20:54] Griff: /unarrest griff
+[13:21:05] (TEAM) Kim Josh Un: !menu
+[13:21:30] Griff killed Tyler Gates using player
+[13:21:56] Tyler Gates killed Griff using player
+[13:22:08] Griff killed Tyler Gates using rpg_missile
+[13:22:17] Griff killed Tyler Gates using player
+[13:22:20] Tyler Gates: /license Griff
+[13:22:33] Tyler Gates: /weaponslicense griff
+[13:24:14] Tyler Gates: .setguard
+[13:26:29] Griff killed Tyler Gates using player
+[13:26:35] Griff killed Kim Josh Un using player
+[13:26:39] Griff killed Tyler Gates using player
+[13:26:50] Griff: /unarrest griff
+[13:27:06] Griff killed Tyler Gates using player
+[13:27:13] Griff killed Tyler Gates using player
+[13:27:45] Griff: /drop
+[13:27:52] Tyler Gates killed Griff using player
+[13:28:07] Griff killed Tyler Gates using player
+[13:28:21] Tyler Gates: /pm girff lick my nuts
+[13:28:28] Tyler Gates: /pm griff
+[13:28:35] Tyler Gates: /pm griff test
+[13:28:40] Griff: /pm tyler ye
+[13:29:01] Kim Josh Un: /me Salutes
+[13:29:03] Kim Josh Un: yes sir
+[13:29:03] Kim Josh Un: /advert Mug over
+[13:29:13] Kim Josh Un: /advert Mug over
+[13:29:19] Kim Josh Un: /advert Mug over
+[13:29:19] Griff: /advert test
+[13:29:20] Kim Josh Un: /advert Die in name of allah
+[13:29:21] Kim Josh Un: /advert Mug over
+[13:29:22] Kim Josh Un: /advert Mug over
+[13:29:23] Kim Josh Un: /advert Mug over
+[13:29:28] Kim Josh Un: /advert Die in name of allah
+[13:29:55] Griff: /advert TySoft This is TySoft H.Q. Home of TyCoin
+[13:30:37] Client "chrisman0325" connected.
+[13:30:37] Griff killed Kim Josh Un using player
+[13:33:08] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x4.mdl
+[13:33:08] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:33:08] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:33:08] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x4.mdl
+[13:33:08] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x4.mdl
+[13:33:08] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x4.mdl
+[13:33:08] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:33:08] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:33:08] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:33:08] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:33:15] Client "chrisman0325" spawned in server <STEAM_0:1:54672897> (took 158 seconds).
+[13:33:23] Griff: !menu
+[13:33:26] Griff added chrisman0325 to group admin
+[13:33:53] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x4.mdl
+[13:33:53] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:33:53] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:33:53] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x4.mdl
+[13:33:53] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:33:53] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x4.mdl
+[13:33:53] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:33:53] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:33:53] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[13:33:53] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x4.mdl
+[13:34:39] chrisman0325 suicided!
+[13:34:39] Griff: !slay chris
+[13:34:46] Dropped "chrisman0325" from server<STEAM_0:1:54672897>
+[13:34:52] Tyler Gates suicided!
+[13:35:30] Kim Josh Un killed Griff using player
+[13:35:46] Griff killed Kim Josh Un using player
+[13:35:56] Griff killed Kim Josh Un using player
+[13:36:01] Kim Josh Un killed Griff using player
+[13:36:15] Kim Josh Un<STEAM_0:1:46746400> spawned sent sent_ball
+[13:36:23] Kim Josh Un: !menu
+[13:36:34] Kim Josh Un cloaked Themself by amount 0
+[13:37:27] Kim Josh Un<STEAM_0:1:46746400> spawned sent sent_ball
+[13:37:27] Kim Josh Un<STEAM_0:1:46746400> spawned sent sent_ball
+[13:37:39] Kim Josh Un<STEAM_0:1:46746400> spawned sent gmt_instrument_piano
+[13:38:12] Tyler Gates<STEAM_0:1:54818617> spawned sent darkrp_moneypot
+[13:38:24] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_c17/furniturechair001a.mdl
+[13:38:28] Kim Josh Un<STEAM_0:1:46746400> spawned sent sent_deployableballoons
+[13:38:40] Tyler Gates: /setmoney 100000000000
+[13:38:50] Tyler Gates: /setmoney 10000000
+[13:39:02] Tyler Gates: /setmoney Tyler Gates 10000000
+[13:39:31] Tyler Gates: ksajbf
+[13:39:40] Client "chrisman0325" connected.
+[13:39:47] Kim Josh Un: !stop
+[13:39:49] Kim Josh Un: /me Salutes
+[13:39:49] Kim Josh Un: /me Strips weapons and comms
+[13:39:51] Kim Josh Un: /advert Mug over
+[13:39:54] Kim Josh Un: /advert Mug over
+[13:39:59] Kim Josh Un: !menu
+[13:40:00] Client "chrisman0325" spawned in server <STEAM_0:1:54672897> (took 20 seconds).
+[13:40:10] Griff: t
+[13:40:15] Tyler Gates: im gay
+[13:40:30] Kim Josh Un whipped chrisman0325 10 times with 0 damage
+[13:40:43] Kim Josh Un: !menu
+[13:40:50] Kim Josh Un uncloaked Themself
+[13:41:17] Kim Josh Un suicided!
+[13:41:19] Griff: !maul josh
+[13:41:19] Griff mauled Kim Josh Un
+[13:41:30] Kim Josh Un was killed by npc_fastzombie
+[13:41:38] Tyler Gates: cat
+[13:41:42] Griff: im a fag
+[13:41:57] Griff killed Kim Josh Un using player
+[13:43:30] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/metal_plate2x2.mdl
+[13:46:46] Griff: im gay
+[13:46:48] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_canal/canal_cap001.mdl
+[13:47:12] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/tubes/tube1x1x2.mdl
+[13:47:15] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/tubes/tube2x2x2.mdl
+[13:47:34] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/tubes/tube2x2xt.mdl
+[13:47:45] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/tubes/tube2x2xt.mdl
+[13:47:55] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/tubes/tubebend4x4x90.mdl
+[13:47:59] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/tubes/tubebend4x4x90.mdl
+[13:48:02] Kim Josh Un<STEAM_0:1:46746400> spawned model models/hunter/tubes/tubebend4x4x90.mdl
+[13:48:52] Griff: gaywas
+[13:48:53] Kim Josh Un: gay
+[13:49:24] Griff: .test
+[13:49:34] Griff: .test
+[13:50:01] Tyler Gates suicided!
+[13:50:09] Tyler Gates suicided!
+[13:50:17] chrisman0325<STEAM_0:1:54672897> spawned model models/weapons/w_rif_m4a1_silencer.mdl
+[13:50:25] Kim Josh Un killed chrisman0325 using player
+[13:50:30] Tyler Gates: /forcelock
+[13:50:32] Tyler Gates: /forceunlock
+[13:50:32] Griff: /unarrest ty
+[13:50:48] Tyler Gates killed Griff using player
+[13:50:48] Griff: /unarrest chris
+[13:51:00] (TEAM) chrisman0325: /buy
+[13:51:16] Griff<STEAM_0:0:51599729> spawned sent gmt_instrument_piano
+[13:52:13] Kim Josh Un<STEAM_0:1:46746400> spawned sent gmt_instrument_piano
+[13:53:43] Griff<STEAM_0:0:51599729> spawned sent edit_fog
+[13:53:46] Griff<STEAM_0:0:51599729> spawned sent edit_sky
+[13:53:47] Griff<STEAM_0:0:51599729> spawned sent edit_sun
+[13:54:05] Griff<STEAM_0:0:51599729> spawned sent sent_ball
+[13:54:13] Tyler Gates: .buy 200
+[13:54:16] Griff: .buy 200
+[13:54:17] Kim Josh Un<STEAM_0:1:46746400> spawned sent sent_ball
+[13:54:17] Kim Josh Un<STEAM_0:1:46746400> spawned sent sent_ball
+[13:54:17] Kim Josh Un<STEAM_0:1:46746400> spawned sent sent_ball
+[13:54:17] Kim Josh Un<STEAM_0:1:46746400> spawned sent sent_ball
+[13:54:18] Kim Josh Un<STEAM_0:1:46746400> spawned sent sent_ball
+[13:54:18] Kim Josh Un<STEAM_0:1:46746400> spawned sent sent_ball
+[13:54:18] Kim Josh Un<STEAM_0:1:46746400> spawned sent sent_ball
+[13:54:18] Kim Josh Un<STEAM_0:1:46746400> spawned sent sent_ball
+[13:54:18] Kim Josh Un<STEAM_0:1:46746400> spawned sent sent_ball
+[13:54:23] Griff: .buy 40000000000000
+[13:54:26] Griff: .buy 10000
+[13:54:39] Griff<STEAM_0:0:51599729> spawned sent gmt_instrument_piano
+[13:55:07] Dropped "chrisman0325" from server<STEAM_0:1:54672897>
+[13:55:15] Dropped "Kim Josh Un" from server<STEAM_0:1:46746400>
+[13:55:18] Client "chrisman0325" connected.
+[13:55:34] Client "chrisman0325" spawned in server <STEAM_0:1:54672897> (took 16 seconds).
+[13:55:49] Client "Kim Josh Un" connected.
+[13:56:07] Client "Kim Josh Un" spawned in server <STEAM_0:1:46746400> (took 18 seconds).
+[13:56:08] Griff<STEAM_0:0:51599729> spawned sent gmt_instrument_piano
+[13:56:31] Griff<STEAM_0:0:51599729> spawned sent gmt_instrument_piano
+[13:56:46] Griff killed chrisman0325 using player
+[13:56:52] Kim Josh Un<STEAM_0:1:46746400> spawned sent gmt_instrument_piano
+[13:57:01] Griff<STEAM_0:0:51599729> spawned sent sent_ball
+[13:57:31] Kim Josh Un<STEAM_0:1:46746400> spawned sent gmt_instrument_piano
+[13:57:47] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate5x6.mdl
+[13:57:50] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[13:57:52] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate3x3.mdl
+[13:57:54] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate3x3.mdl
+[13:57:56] Kim Josh Un<STEAM_0:1:46746400> spawned sent gmt_instrument_piano
+[13:57:56] Kim Josh Un was killed by gmt_instrument_piano
+[14:00:15] Griff<STEAM_0:0:51599729> spawned model models/hunter/blocks/cube8x8x8.mdl
+[14:00:22] Kim Josh Un<STEAM_0:1:46746400> spawned sent gmt_instrument_piano
+[14:00:31] Griff<STEAM_0:0:51599729> spawned sent gmt_instrument_piano
+[14:00:43] Tyler Gates: .buy 20
+[14:01:04] Tyler Gates: .buy 20
+[14:01:13] Griff: .buy 20
+[14:01:26] Griff: .buy 500
+[14:02:09] Tyler Gates: .buy 20
+[14:02:14] Tyler Gates: .buy 50
+[14:03:19] chrisman0325<STEAM_0:1:54672897> spawned sent sent_ball
+[14:03:20] chrisman0325<STEAM_0:1:54672897> spawned sent sent_ball
+[14:03:20] chrisman0325<STEAM_0:1:54672897> spawned sent sent_ball
+[14:03:20] chrisman0325<STEAM_0:1:54672897> spawned sent sent_ball
+[14:03:20] chrisman0325<STEAM_0:1:54672897> spawned sent sent_ball
+[14:03:21] chrisman0325<STEAM_0:1:54672897> spawned sent sent_ball
+[14:03:21] chrisman0325<STEAM_0:1:54672897> spawned sent sent_ball
+[14:03:21] chrisman0325<STEAM_0:1:54672897> spawned sent sent_ball
+[14:03:26] chrisman0325<STEAM_0:1:54672897> spawned sent item_ammo_357
+[14:03:27] chrisman0325<STEAM_0:1:54672897> spawned sent item_ammo_357
+[14:03:35] chrisman0325<STEAM_0:1:54672897> spawned sent item_suit
+[14:03:52] Tyler Gates: .buy 20
+[14:04:08] chrisman0325<STEAM_0:1:54672897> spawned sent sent_deployableballoons
+[14:04:25] chrisman0325<STEAM_0:1:54672897> spawned sent darkrp_moneypot
+[14:04:27] Tyler Gates: .buy 30
+[14:04:34] Tyler Gates: .buy 10
+[14:06:03] Griff: /dropmoney 500
+[14:06:30] Griff<STEAM_0:0:51599729> spawned model models/hunter/tubes/tube1x1x4.mdl
+[14:06:35] Griff<STEAM_0:0:51599729> spawned model models/hunter/tubes/tube1x1x2.mdl
+[14:06:36] Griff<STEAM_0:0:51599729> spawned model models/hunter/tubes/tube1x1x1.mdl
+[14:06:53] Kim Josh Un<STEAM_0:1:46746400> spawned sent gmt_instrument_piano
+[14:07:37] Griff: /dropmoney 500
+[14:07:46] Kim Josh Un<STEAM_0:1:46746400> spawned sent gmt_instrument_piano
+[14:08:24] Dropped "chrisman0325" from server<STEAM_0:1:54672897>
+[14:09:27] Client "chrisman0325" connected.
+[14:09:48] Client "chrisman0325" spawned in server <STEAM_0:1:54672897> (took 21 seconds).
+[14:12:26] Kim Josh Un<STEAM_0:1:46746400> spawned sent gmt_instrument_piano
+[14:12:37] Griff: /rpmoney chris 100000
+[14:12:44] Griff: /setmoney chris 10000000
+[14:13:00] Griff: /unarrest josh
+[14:13:02] (TEAM) Kim Josh Un: !unarrest
+[14:13:52] Griff: /dropmoney 1500
+[14:14:16] chrisman0325 killed Kim Josh Un using player
+[14:14:46] Griff killed Kim Josh Un using player
+[14:16:07] Dropped "Griff" from server<STEAM_0:0:51599729>
+[14:16:42] Dropped "Kim Josh Un" from server<STEAM_0:1:46746400>
+[15:12:00] Dropped "chrisman0325" from server<STEAM_0:1:54672897>
+[19:13:44] Dropped "Tyler Gates" from server<STEAM_0:1:54818617>
+[19:24:41] Client "Bob Ross" connected.
+[19:24:44] Client "Griff" connected.
+[19:25:13] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 29 seconds).
+[19:25:19] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 38 seconds).
+[19:26:31] Client "Kim Josh Un" connected.
+[19:27:26] Client "Kim Josh Un" spawned in server <STEAM_0:1:46746400> (took 55 seconds).
+[19:31:22] Kim Josh Un: /advert Die in name of allah
+[19:31:39] Kim Josh Un: !menu
+[19:32:08] Dropped "Kim Josh Un" from server<STEAM_0:1:46746400>
+[19:32:49] Client "stmyrchris" connected.
+[19:34:53] Client "stmyrchris" spawned in server <STEAM_0:1:72709106> (took 124 seconds).
+[19:35:35] Tyler Gates: aye
+[19:36:57] Tyler Gates<STEAM_0:1:54818617> spawned model models/props_vehicles/apc_tire001.mdl
+[19:37:44] Tyler Gates: you want play game
+[19:39:36] Dropped "stmyrchris" from server<STEAM_0:1:72709106>
+[19:39:46] Tyler Gates<STEAM_0:1:54818617> spawned model models/props_vehicles/tire001a_tractor.mdl
+[19:41:17] Tyler Gates<STEAM_0:1:54818617> spawned model models/props_furniture/desk1.mdl
+[19:42:16] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/cs_office/shelves_metal3.mdl
+[19:42:40] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/cs_office/shelves_metal2.mdl
+[19:42:56] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/cs_office/shelves_metal1.mdl
+[19:43:10] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/cs_office/awning_short.mdl
+[19:43:28] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/cs_office/shelves_metal.mdl
+[19:44:09] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/cs_office/shelves_metal1.mdl
+[19:44:26] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/cs_office/shelves_metal2.mdl
+[19:44:29] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/cs_office/shelves_metal3.mdl
+[19:44:54] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/cs_office/cardboard_box01.mdl
+[19:44:57] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/cs_office/crates_outdoor.mdl
+[19:44:59] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/cs_office/crates_indoor.mdl
+[19:45:13] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/cs_office/paperbox_pile_01.mdl
+[19:45:31] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/de_nuke/crate_extralarge.mdl
+[19:45:34] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/de_nuke/crate_extrasmall.mdl
+[19:45:37] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/de_nuke/crate_small.mdl
+[19:46:03] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/de_nuke/nuclearfuelcontainer.mdl
+[19:46:06] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/de_nuke/nucleartestcabinet.mdl
+[19:46:30] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/de_nuke/fuel_cask.mdl
+[19:46:46] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/de_nuke/nuclearfuelcontainer.mdl
+[19:46:58] Griff<STEAM_0:0:51599729> spawned model models/props_phx/wheels/metal_wheel1.mdl
+[19:47:02] Tyler Gates<STEAM_0:1:54818617> spawned effect models/props/cs_office/ladder1.mdl
+[19:47:02] Griff<STEAM_0:0:51599729> spawned model models/props_phx/wheels/metal_wheel2.mdl
+[19:47:45] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/de_nuke/truck_nuke.mdl
+[19:48:01] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/de_nuke/truck_nuke_glass.mdl
+[19:48:04] Griff<STEAM_0:0:51599729> spawned model models/beer/wiremod/gate_e2.mdl
+[19:48:08] Griff<STEAM_0:0:51599729> spawned model models/beer/wiremod/gate_e2.mdl
+[19:49:12] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[19:50:03] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/cs_militia/van.mdl
+[19:50:27] Tyler Gates<STEAM_0:1:54818617> spawned model models/props/cs_militia/van_glass.mdl
+[19:50:56] Griff<STEAM_0:0:51599729> spawned model models/hunter/blocks/cube025x150x025.mdl
+[19:52:29] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/wood/wood_wire2x2x2b.mdl
+[19:52:42] Griff was killed by prop_physics
+[19:53:21] Tyler Gates<STEAM_0:1:54818617> spawned model models/props_c17/fence01a.mdl
+[19:53:39] Tyler Gates<STEAM_0:1:54818617> spawned model models/props_c17/fence01a.mdl
+[19:53:43] Tyler Gates<STEAM_0:1:54818617> spawned model models/props_c17/fence03a.mdl
+[19:54:18] Griff<STEAM_0:0:51599729> spawned model models/props_c17/fence01b.mdl
+[19:54:26] Griff<STEAM_0:0:51599729> spawned model models/props_wasteland/interior_fence001g.mdl
+[19:54:28] Griff<STEAM_0:0:51599729> spawned model models/props_wasteland/interior_fence002e.mdl
+[19:54:41] Griff<STEAM_0:0:51599729> spawned model models/props_wasteland/interior_fence002d.mdl
+[19:55:12] Tyler Gates<STEAM_0:1:54818617> spawned model models/props_wasteland/interior_fence002d.mdl
+[19:56:30] Client "me have big dong" connected.
+[19:57:28] Client "briboy2003" connected.
+[19:57:53] Tyler Gates: .add griff
+[19:58:13] Griff: .add ty
+[19:58:33] Tyler Gates<STEAM_0:1:54818617> spawned model models/props_wasteland/interior_fence002d.mdl
+[19:58:33] Tyler Gates<STEAM_0:1:54818617> spawned model models/props_wasteland/interior_fence002e.mdl
+[19:58:33] Tyler Gates<STEAM_0:1:54818617> spawned model models/props_wasteland/interior_fence002d.mdl
+[19:58:33] Tyler Gates<STEAM_0:1:54818617> spawned model models/props_wasteland/interior_fence001g.mdl
+[19:58:56] Tyler Gates: .add fruff
+[19:59:05] Tyler Gates: .add griff
+[19:59:27] Tyler Gates: .setguard
+[19:59:46] Client "me have big dong" spawned in server <STEAM_0:0:93670970> (took 196 seconds).
+[20:01:44] Dropped "me have big dong" from server<STEAM_0:0:93670970>
+
+
+
+[20:02:53] New map: rp_bangclaw
+[20:02:57] Client "Griff" connected.
+[20:03:12] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[20:03:13] Client "Bob Ross" connected.
+[20:03:21] Griff: !menu
+[20:03:30] Griff changed the map to rp_downtown_v4c_v2
+[20:03:30] Server is shutting down/changing levels.
+
+
+
+[20:03:37] New map: rp_downtown_v4c_v2
+[20:03:44] Client "Bob Ross" connected.
+[20:04:04] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 30 seconds).
+[20:04:11] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 27 seconds).
+[20:05:44] Tyler Gates: VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+[20:05:45] Tyler Gates: /forceunlock
+[20:05:49] Tyler Gates: /forceunlock
+[20:05:53] Tyler Gates: /forceunlock
+[20:07:50] Griff: /setspawn
+[20:09:17] Tyler Gates<STEAM_0:1:54818617> spawned model models/props_c17/signpole001.mdl
+[20:09:31] Tyler Gates<STEAM_0:1:54818617> spawned model models/props_wasteland/interior_fence002e.mdl
+[20:09:55] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:10:41] Tyler Gates<STEAM_0:1:54818617> spawned model models/props_wasteland/interior_fence001g.mdl
+[20:11:06] Tyler Gates: /forceunlock
+[20:11:28] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/windows/window_curve360x1.mdl
+[20:11:55] Griff<STEAM_0:0:51599729> spawned model models/hunter/tubes/circle2x2.mdl
+[20:13:31] Tyler Gates: .setguard
+[20:14:26] Tyler Gates<STEAM_0:1:54818617> spawned model models/beer/wiremod/gate_e2.mdl
+[20:14:28] Tyler Gates<STEAM_0:1:54818617> spawned model models/beer/wiremod/gate_e2_mini.mdl
+[20:14:31] Tyler Gates<STEAM_0:1:54818617> spawned model models/beer/wiremod/gate_e2_nano.mdl
+[20:14:41] Tyler Gates<STEAM_0:1:54818617> spawned model models/beer/wiremod/gate_e2_nano.mdl
+[20:14:46] Tyler Gates<STEAM_0:1:54818617> spawned model models/led2.mdl
+[20:15:39] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate025x025.mdl
+[20:16:03] Tyler Gates<STEAM_0:1:54818617> spawned model models/hunter/plates/plate025x075.mdl
+[20:20:36] Tyler Gates<STEAM_0:1:54818617> spawned model models/holograms/hq_stube.mdl
+[20:21:04] Tyler Gates<STEAM_0:1:54818617> spawned model models/cheeze/wires/gyroscope.mdl
+[20:21:11] Tyler Gates<STEAM_0:1:54818617> spawned model models/jaanus/wiretool/wiretool_controlchip.mdl
+[20:21:14] Tyler Gates<STEAM_0:1:54818617> spawned model models/kobilica/capacatitor.mdl
+[20:21:35] Tyler Gates<STEAM_0:1:54818617> spawned model models/hammy/pci_card.mdl
+[20:23:27] Tyler Gates: /forceunlock
+
+
+
+[20:28:22] New map: rp_bangclaw
+[20:28:30] Client "Bob Ross" connected.
+[20:28:43] Client "Griff" connected.
+[20:28:50] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 20 seconds).
+[20:28:59] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 16 seconds).
+[20:29:33] Griff changed the map to rp_downtown_v6
+[20:29:33] Server is shutting down/changing levels.
+
+
+
+[20:29:40] New map: rp_downtown_v6
+[20:30:07] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 29 seconds).
+[20:30:17] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 39 seconds).
+[20:32:58] Griff changed the map to rp_downtown_v4_exl
+[20:32:58] Server is shutting down/changing levels.
+
+
+
+[20:33:03] New map: rp_downtown_v4_exl
+[20:33:27] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 27 seconds).
+[20:33:35] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 35 seconds).
+[20:35:24] Tyler Gates was killed by trigger_hurt
+[20:35:24] Griff was killed by trigger_hurt
+[20:38:51] Griff was killed by trigger_hurt
+[20:39:29] Griff started a votemap for rp_townsend_v1_5
+[20:39:31] Tyler Gates voted for: Yes
+[20:39:32] Griff voted for: Yes
+[20:39:32] Vote results: Vote was unsuccessful.
+[20:39:41] Griff: !menu
+[20:39:43] Griff changed the map to rp_townsend_v1_5
+[20:39:43] Server is shutting down/changing levels.
+
+
+
+[20:39:47] New map: rp_townsend_v1_5
+[20:40:08] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 24 seconds).
+[20:40:21] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 37 seconds).
+[20:41:44] Griff changed the map to rp_littletown
+[20:41:44] Server is shutting down/changing levels.
+
+
+
+[20:41:54] New map: rp_littletown
+[20:42:52] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 61 seconds).
+[20:43:29] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 98 seconds).
+[20:46:41] Griff changed the map to rp_hometown2000
+[20:46:41] Server is shutting down/changing levels.
+
+
+
+[20:46:49] New map: rp_hometown2000
+[20:47:15] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 30 seconds).
+[20:47:23] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 38 seconds).
+[20:49:09] Griff changed the map to rp_omgcity_final
+[20:49:09] Server is shutting down/changing levels.
+
+
+
+[20:49:16] New map: rp_omgcity_final
+[20:49:43] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 30 seconds).
+[20:49:50] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 37 seconds).
+[20:50:23] Griff started a votemap for rp_richlandday
+[20:50:34] Griff voted for: Yes
+[20:50:34] Tyler Gates voted for: Yes
+[20:50:34] Vote results: Vote was unsuccessful.
+[20:50:44] Griff changed the map to rp_richlandday
+[20:50:44] Server is shutting down/changing levels.
+
+
+
+[20:50:49] New map: rp_richlandday
+[20:51:18] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 32 seconds).
+[20:51:26] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 40 seconds).
+[20:52:10] Griff changed the map to rp_amsterville
+[20:52:10] Server is shutting down/changing levels.
+
+
+
+[20:52:16] New map: rp_amsterville
+[20:52:43] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 30 seconds).
+[20:52:52] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 39 seconds).
+[20:53:17] Griff changed the map to rp_downtown_v4_exl
+[20:53:17] Server is shutting down/changing levels.
+
+
+
+[20:53:22] New map: rp_downtown_v4_exl
+[20:53:44] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 25 seconds).
+[20:53:49] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 30 seconds).
+
+
+
+[20:59:20] New map: rp_bangclaw
+[20:59:36] Client "Griff" connected.
+[20:59:42] Client "Bob Ross" connected.
+[20:59:52] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 16 seconds).
+[21:00:03] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 21 seconds).
+[21:00:13] Griff changed the map to rp_paralake_city_v1
+[21:00:13] Server is shutting down/changing levels.
+
+
+
+[21:00:24] New map: rp_paralake_city_v1
+[21:01:23] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 63 seconds).
+[21:02:04] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 104 seconds).
+[21:08:56] Tyler Gates: /forceunlock
+[21:08:57] Tyler Gates: /forceunlock
+[21:10:27] Tyler Gates was killed by trigger_hurt
+[21:10:41] Tyler Gates: /forceunlock
+[21:12:08] Griff changed the map to rp_uptown_v1
+[21:12:08] Server is shutting down/changing levels.
+
+
+
+[21:12:15] New map: rp_uptown_v1
+[21:12:42] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 30 seconds).
+[21:12:52] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 40 seconds).
+[21:13:04] Griff changed the map to rp_whiteforestvillage_fix
+[21:13:04] Server is shutting down/changing levels.
+
+
+
+[21:13:10] New map: rp_whiteforestvillage_fix
+[21:13:42] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 35 seconds).
+[21:13:51] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 44 seconds).
+[21:14:05] Griff changed the map to rp_mafia_1940v1
+[21:14:05] Server is shutting down/changing levels.
+
+
+
+[21:14:12] New map: rp_mafia_1940v1
+[21:14:48] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 39 seconds).
+[21:15:02] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 53 seconds).
+[21:17:27] Tyler Gates<STEAM_0:1:54818617> spawned model models/props_c17/fence01b.mdl
+[21:17:31] Griff<STEAM_0:0:51599729> spawned model models/props_c17/concrete_barrier001a.mdl
+[21:18:26] Griff changed the map to rp_downtown_evilmelon_v1
+[21:18:26] Server is shutting down/changing levels.
+
+
+
+[21:18:32] New map: rp_downtown_evilmelon_v1
+[21:19:14] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 44 seconds).
+[21:19:30] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 60 seconds).
+[21:22:01] Tyler Gates was killed by trigger_hurt
+[21:22:28] Griff changed the map to rp_oviscity_gmc5
+[21:22:28] Server is shutting down/changing levels.
+
+
+
+[21:22:36] New map: rp_oviscity_gmc5
+[21:23:00] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 28 seconds).
+[21:23:16] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 44 seconds).
+[21:27:23] Griff was killed by env_explosion
+[21:27:38] Tyler Gates was killed by trigger_hurt
+[21:30:32] Tyler Gates: /forceunlock
+[21:34:07] Griff changed the map to rp_downtown_v4_exl
+[21:34:07] Server is shutting down/changing levels.
+
+
+
+[21:34:12] New map: rp_downtown_v4_exl
+[21:34:35] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 26 seconds).
+[21:34:40] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 31 seconds).
+[21:35:48] Griff was killed by trigger_hurt
+[21:36:59] Griff changed the map to rp_downtown_v4c_v3
+[21:36:59] Server is shutting down/changing levels.
+
+
+
+[21:37:04] New map: rp_downtown_v4c_v3
+[21:37:34] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 33 seconds).
+[21:37:43] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 42 seconds).
+[21:40:20] Griff changed the map to rp_uptown_v1
+[21:40:20] Server is shutting down/changing levels.
+
+
+
+[21:40:25] New map: rp_uptown_v1
+[21:40:48] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 26 seconds).
+[21:40:54] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 32 seconds).
+
+
+
+[21:43:17] New map: rp_bangclaw
+[21:43:19] Client "Griff" connected.
+[21:43:25] Client "Bob Ross" connected.
+[21:43:35] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 16 seconds).
+[21:43:46] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 21 seconds).
+[21:43:54] Griff changed the map to rp_downtown_v1
+[21:43:54] Server is shutting down/changing levels.
+
+
+
+[21:43:59] New map: rp_downtown_v1
+[21:44:23] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 27 seconds).
+[21:44:29] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 33 seconds).
+[21:47:49] Griff changed the map to rp_downtown_v4c_v2_drp_ext
+[21:47:49] Server is shutting down/changing levels.
+
+
+
+[21:47:55] New map: rp_downtown_v4c_v2_drp_ext
+[21:48:21] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 29 seconds).
+[21:48:29] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 37 seconds).
+[21:49:06] Griff changed the map to rp_downtown_v5dc
+[21:49:06] Server is shutting down/changing levels.
+
+
+
+[21:49:13] New map: rp_downtown_v5dc
+[21:49:41] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 31 seconds).
+[21:49:49] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 39 seconds).
+[21:52:24] Griff changed the map to rp_xmas_downtown_b1
+[21:52:24] Server is shutting down/changing levels.
+
+
+
+[21:52:29] New map: rp_xmas_downtown_b1
+[21:52:59] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 33 seconds).
+[21:53:02] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 36 seconds).
+[21:55:10] Tyler Gates: VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+[21:55:11] Tyler Gates: /forceunlock
+[21:55:23] Tyler Gates: VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+[21:55:25] Tyler Gates: /forceunlock
+[21:55:35] Griff changed the map to rp_downtown_2017
+[21:55:35] Server is shutting down/changing levels.
+
+
+
+[21:55:43] New map: rp_downtown_2017
+[21:56:36] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 56 seconds).
+[21:57:06] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 86 seconds).
+[21:57:52] Griff changed the map to rp_downtown_v1
+[21:57:52] Server is shutting down/changing levels.
+
+
+
+[21:57:56] New map: rp_downtown_v1
+[21:58:19] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 26 seconds).
+[21:58:24] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 31 seconds).
+[21:58:42] Griff: /write lol
+[22:00:52] Griff changed the map to rp_bangclaw
+[22:00:52] Server is shutting down/changing levels.
+
+
+
+[22:00:57] New map: rp_bangclaw
+[22:01:19] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 25 seconds).
+[22:01:24] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 30 seconds).
+[22:02:00] Dropped "Griff" from server<STEAM_0:0:51599729>
+[22:02:47] Dropped "Tyler Gates" from server<STEAM_0:1:54818617>

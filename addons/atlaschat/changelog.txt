@@ -1,0 +1,1 @@
++ Fixed [ERROR] addons/atlaschat/lua/atlaschat/themes/default.lua:1257: bad argument #1 to 'lower' (string expected, got table)

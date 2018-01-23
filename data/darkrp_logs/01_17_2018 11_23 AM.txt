@@ -1,0 +1,1600 @@
+Wed Jan 17 11:23:49 2018	Griff (STEAM_0:0:51599729) has joined the game
+Wed Jan 17 11:23:49 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 11:24:09 2018	Griff was killed by Entity [649][prop_physics] with a prop_physics
+Wed Jan 17 11:24:10 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 11:37:35 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 11:37:36 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 11:38:54 2018	Bob Ross (STEAM_0:1:54818617) has joined the game
+Wed Jan 17 11:38:54 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Wed Jan 17 11:42:02 2018	Griff (STEAM_0:0:51599729): .add bob
+Wed Jan 17 11:51:02 2018	Griff (STEAM_0:0:51599729): t
+Wed Jan 17 11:53:13 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Wed Jan 17 11:58:57 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 11:59:00 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:03:17 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 12:03:18 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:06:19 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 12:06:20 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:12:44 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 12:12:48 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:17:06 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:17:24 2018	[NWA] XpewpewX (STEAM_0:0:75946431) has joined the game
+Wed Jan 17 12:17:24 2018	[NWA] XpewpewX (STEAM_0:0:75946431) spawned
+Wed Jan 17 12:18:28 2018	[NWA] XpewpewX (STEAM_0:0:75946431): your mom
+Wed Jan 17 12:18:33 2018	[NWA] XpewpewX was killed by Himself with a suicide trick
+Wed Jan 17 12:18:38 2018	[NWA] XpewpewX (STEAM_0:0:75946431) spawned
+Wed Jan 17 12:19:36 2018	[NWA] XpewpewX (STEAM_0:0:75946431) spawned
+Wed Jan 17 12:19:50 2018	[NWA] XpewpewX was killed by Himself with a suicide trick
+Wed Jan 17 12:19:52 2018	[NWA] XpewpewX (STEAM_0:0:75946431) spawned
+Wed Jan 17 12:19:57 2018	[NWA] XpewpewX (STEAM_0:0:75946431) spawned
+Wed Jan 17 12:20:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:20:06 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Wed Jan 17 12:20:08 2018	[NWA] XpewpewX was killed by Griff with a m9k_scar_drp
+Wed Jan 17 12:20:09 2018	[NWA] XpewpewX (STEAM_0:0:75946431) spawned
+Wed Jan 17 12:20:28 2018	Griff (STEAM_0:0:51599729): /drop
+Wed Jan 17 12:21:21 2018	Griff (STEAM_0:0:51599729): /drop
+Wed Jan 17 12:21:53 2018	[NWA] XpewpewX (STEAM_0:0:75946431) spawned
+Wed Jan 17 12:22:32 2018	Griff (STEAM_0:0:51599729): /dro
+Wed Jan 17 12:22:34 2018	Griff (STEAM_0:0:51599729): /drop
+Wed Jan 17 12:25:01 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:25:16 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:25:27 2018	Griff (STEAM_0:0:51599729): /job Door to Door Salesman
+Wed Jan 17 12:27:13 2018	Griff (STEAM_0:0:51599729): /y I am selling wares!
+Wed Jan 17 12:28:52 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:32:06 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:33:11 2018	Griff (STEAM_0:0:51599729): /warrent
+Wed Jan 17 12:33:24 2018	Griff (STEAM_0:0:51599729): /wanted
+Wed Jan 17 12:33:37 2018	Griff (STEAM_0:0:51599729): /wanted xpew Standard Search
+Wed Jan 17 12:33:48 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:33:58 2018	[NWA] XpewpewX (STEAM_0:0:75946431): // you shall not passss
+Wed Jan 17 12:34:03 2018	Griff (STEAM_0:0:51599729): /wanted xpew Search
+Wed Jan 17 12:34:18 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:35:48 2018	[NWA] XpewpewX (STEAM_0:0:75946431) disconnected
+Wed Jan 17 12:36:00 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 12:36:04 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:38:26 2018	Griff (STEAM_0:0:51599729): /job Stock Broker
+Wed Jan 17 12:38:55 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 12:38:57 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:39:07 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 12:40:44 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:41:56 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:42:01 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:43:18 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:18 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:19 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:19 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:20 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:20 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:20 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:21 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:21 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:26 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:43:28 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:29 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:29 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:29 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:30 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:30 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:31 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:31 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:31 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:32 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:32 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:33 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:33 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:34 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:34 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:34 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:35 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:35 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:36 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:36 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:36 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:37 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:50 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:51 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:43:53 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:04 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:05 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:08 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:12 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:13 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:14 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:15 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:16 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:17 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:18 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:44:20 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:22 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:23 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:25 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:26 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:27 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:28 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:29 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:30 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:31 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:32 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:44:33 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:45:23 2018	Griff was killed by Entity [657][entityflame] with a entityflame
+Wed Jan 17 12:45:30 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:45:53 2018	Bob Ross was killed by Entity [655][entityflame] with a entityflame
+Wed Jan 17 12:46:28 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Wed Jan 17 12:46:39 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:46:40 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:46:42 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:46:43 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Wed Jan 17 12:47:00 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 12:47:01 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:48:05 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 12:48:20 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:48:35 2018	Bob Ross was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 12:48:36 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Wed Jan 17 12:48:46 2018	Bob Ross was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 12:48:46 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 12:48:47 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Wed Jan 17 12:48:48 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:49:35 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:49:36 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:51:55 2018	Bob Ross was killed by Himself with a suicide trick
+Wed Jan 17 12:51:56 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Wed Jan 17 12:51:56 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:51:58 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:53:44 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:53:47 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:54:01 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:54:04 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:54:06 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:54:12 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Wed Jan 17 12:55:28 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 12:55:29 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:55:32 2018	Griff (STEAM_0:0:51599729) disconnected
+Wed Jan 17 12:55:48 2018	Griff (STEAM_0:0:51599729) has joined the game
+Wed Jan 17 12:55:48 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:56:24 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 12:56:25 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 12:59:55 2018	Bob Ross was killed by Entity [404][prop_physics] with a prop_physics
+Wed Jan 17 13:00:22 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 13:00:23 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 13:00:33 2018	Griff was killed by Himself with a suicide trick
+Wed Jan 17 13:00:37 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 13:01:11 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Wed Jan 17 13:03:00 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 13:03:02 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 13:04:55 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 13:04:56 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 13:05:41 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 13:05:43 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 13:07:20 2018	Bob Ross was killed by Entity [404][prop_physics] with a prop_physics
+Wed Jan 17 13:07:21 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Wed Jan 17 13:08:28 2018	Griff (STEAM_0:0:51599729) disconnected
+Wed Jan 17 14:25:09 2018	Bob Ross (STEAM_0:1:54818617): .add Bob\
+Wed Jan 17 14:30:01 2018	Bob Ross (STEAM_0:1:54818617): .setguard
+Wed Jan 17 14:30:49 2018	Bob Ross (STEAM_0:1:54818617): .setguard
+Wed Jan 17 14:35:29 2018	Bob Ross (STEAM_0:1:54818617): .setguard
+Wed Jan 17 14:35:55 2018	Bob Ross (STEAM_0:1:54818617): .model models/Combine_Super_Soldier.mdl
+Wed Jan 17 14:36:26 2018	Bob Ross (STEAM_0:1:54818617): .setguard
+Wed Jan 17 14:36:38 2018	Bob Ross (STEAM_0:1:54818617): .model models/Humans/Group03m/Female_07.mdl
+Wed Jan 17 14:37:13 2018	Bob Ross (STEAM_0:1:54818617): .model models/Combine_Super_Soldier.mdl
+Wed Jan 17 14:37:30 2018	Bob Ross (STEAM_0:1:54818617): .model models/Eli.mdl
+Wed Jan 17 14:40:59 2018	Bob Ross (STEAM_0:1:54818617): .dist 300
+Wed Jan 17 14:41:13 2018	Bob Ross (STEAM_0:1:54818617): .dist cock
+Wed Jan 17 15:48:58 2018	Quartz (STEAM_0:0:240471299) has joined the game
+Wed Jan 17 15:48:58 2018	Quartz (STEAM_0:0:240471299) spawned
+Wed Jan 17 15:49:50 2018	Quartz (STEAM_0:0:240471299): holy banana im in a server
+Wed Jan 17 15:50:01 2018	Quartz (STEAM_0:0:240471299): took forever
+Wed Jan 17 15:50:21 2018	Quartz (STEAM_0:0:240471299): Hey. are you there bruther
+Wed Jan 17 15:50:51 2018	Quartz (STEAM_0:0:240471299): Bob brother
+Wed Jan 17 15:50:54 2018	Quartz (STEAM_0:0:240471299): borther
+Wed Jan 17 15:51:18 2018	Quartz (STEAM_0:0:240471299): Rip borther
+Wed Jan 17 15:51:31 2018	Quartz (STEAM_0:0:240471299) disconnected
+Wed Jan 17 16:17:33 2018	xX_SNAKE_Xx (STEAM_0:1:419545536) has joined the game
+Wed Jan 17 16:17:33 2018	xX_SNAKE_Xx (STEAM_0:1:419545536) spawned
+Wed Jan 17 16:20:18 2018	xX_SNAKE_Xx (STEAM_0:1:419545536) spawned
+Wed Jan 17 16:20:34 2018	xX_SNAKE_Xx (STEAM_0:1:419545536) spawned
+Wed Jan 17 16:21:30 2018	xX_SNAKE_Xx (STEAM_0:1:419545536) disconnected
+Wed Jan 17 18:37:31 2018	Hell Fire (STEAM_0:1:20129756) has joined the game
+Wed Jan 17 18:37:31 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Wed Jan 17 18:46:22 2018	Hell Fire was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 19:39:02 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Wed Jan 17 19:39:14 2018	Hell Fire (STEAM_0:1:20129756): yo
+Wed Jan 17 19:39:20 2018	Bob Ross (STEAM_0:1:54818617): hi
+Wed Jan 17 19:39:25 2018	Hell Fire (STEAM_0:1:20129756): hello person
+Wed Jan 17 19:39:29 2018	Hell Fire (STEAM_0:1:20129756): cheese
+Wed Jan 17 19:39:32 2018	Hell Fire (STEAM_0:1:20129756): cheese
+Wed Jan 17 19:39:38 2018	Bob Ross (STEAM_0:1:54818617): whats up bud
+Wed Jan 17 19:39:52 2018	Hell Fire (STEAM_0:1:20129756): Nothen just checking out what your doing
+Wed Jan 17 19:40:02 2018	Bob Ross (STEAM_0:1:54818617): trying to make stock market
+Wed Jan 17 19:40:05 2018	Hell Fire (STEAM_0:1:20129756): nice
+Wed Jan 17 19:40:10 2018	Bob Ross (STEAM_0:1:54818617): like 2 lines in
+Wed Jan 17 19:40:20 2018	Hell Fire (STEAM_0:1:20129756): only 2000 more to go
+Wed Jan 17 19:40:27 2018	Bob Ross (STEAM_0:1:54818617): yeah
+Wed Jan 17 19:42:26 2018	Hell Fire was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 19:42:27 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Wed Jan 17 19:48:49 2018	Hell Fire (STEAM_0:1:20129756): hey cute
+Wed Jan 17 19:49:07 2018	Bob Ross (STEAM_0:1:54818617): any ideas on how to determine the price for these stocks?
+Wed Jan 17 19:49:27 2018	Hell Fire (STEAM_0:1:20129756): it should be based on a market so it might be best to create an artificial market to get it going
+Wed Jan 17 19:49:28 2018	Hell Fire (STEAM_0:1:20129756): AI
+Wed Jan 17 19:49:38 2018	Hell Fire (STEAM_0:1:20129756): That gives players an actual service to base value on
+Wed Jan 17 19:49:53 2018	Bob Ross (STEAM_0:1:54818617): idk how to do that
+Wed Jan 17 19:49:55 2018	Hell Fire (STEAM_0:1:20129756): Otherwise you just have a fancy toy with numbers that dont mean anything
+Wed Jan 17 19:50:06 2018	Hell Fire (STEAM_0:1:20129756): Not my problem
+Wed Jan 17 19:50:13 2018	Hell Fire (STEAM_0:1:20129756): :D
+Wed Jan 17 19:50:22 2018	Hell Fire was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 19:50:24 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Wed Jan 17 19:56:16 2018	Bob Ross (STEAM_0:1:54818617): // any ideas on how i could save data with an e2?
+Wed Jan 17 19:56:22 2018	Hell Fire (STEAM_0:1:20129756): tables
+Wed Jan 17 19:56:23 2018	Hell Fire (STEAM_0:1:20129756): use tables
+Wed Jan 17 19:56:47 2018	Bob Ross (STEAM_0:1:54818617): but like to where i can get off and still have it
+Wed Jan 17 19:57:00 2018	Hell Fire (STEAM_0:1:20129756): ?
+Wed Jan 17 19:57:18 2018	Bob Ross (STEAM_0:1:54818617): like permantly
+Wed Jan 17 19:57:24 2018	Hell Fire (STEAM_0:1:20129756): persist
+Wed Jan 17 20:04:11 2018	Hell Fire was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 20:04:12 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Wed Jan 17 20:04:25 2018	Hell Fire (STEAM_0:1:20129756): im realizing how broken e2 is
+Wed Jan 17 20:04:27 2018	Hell Fire (STEAM_0:1:20129756): My god
+Wed Jan 17 20:04:37 2018	Hell Fire was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 20:04:39 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Wed Jan 17 20:04:48 2018	Hell Fire (STEAM_0:1:20129756): We need a new language
+Wed Jan 17 20:04:56 2018	Bob Ross (STEAM_0:1:54818617): make one
+Wed Jan 17 20:04:57 2018	Hell Fire (STEAM_0:1:20129756): e2 is horrible
+Wed Jan 17 20:05:03 2018	Hell Fire (STEAM_0:1:20129756): i am but for my own game
+Wed Jan 17 20:07:07 2018	Bob Ross (STEAM_0:1:54818617): // what the function to check how long a string is
+Wed Jan 17 20:07:20 2018	Hell Fire (STEAM_0:1:20129756): count
+Wed Jan 17 20:08:50 2018	Hell Fire (STEAM_0:1:20129756): Well im off
+Wed Jan 17 20:08:54 2018	Hell Fire was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 20:08:58 2018	Bob Ross (STEAM_0:1:54818617): // see ya
+Wed Jan 17 20:09:01 2018	Hell Fire (STEAM_0:1:20129756) disconnected
+Wed Jan 17 21:32:23 2018	Bob Ross was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 21:32:25 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Wed Jan 17 22:00:55 2018	Griff (STEAM_0:0:51599729) has joined the game
+Wed Jan 17 22:00:55 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 22:03:34 2018	Bob Ross (STEAM_0:1:54818617): .setguard
+Wed Jan 17 22:03:43 2018	Bob Ross (STEAM_0:1:54818617): .add griff
+Wed Jan 17 22:04:35 2018	Bob Ross (STEAM_0:1:54818617): .model models/Eli.mdl
+Wed Jan 17 22:05:09 2018	Bob Ross (STEAM_0:1:54818617): .model models/Humans/Group01/Female_01.mdl
+Wed Jan 17 22:17:11 2018	Bob Ross (STEAM_0:1:54818617): /rpname dick
+Wed Jan 17 22:17:34 2018	dick (STEAM_0:1:54818617): /rpname BIg Fat Cock
+Wed Jan 17 22:19:00 2018	BIg Fat Cock (STEAM_0:1:54818617): // S/5^2
+Wed Jan 17 22:20:14 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 22:20:15 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 22:20:31 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 22:20:32 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 22:20:42 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 22:20:43 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 22:21:45 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 22:21:46 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 22:23:17 2018	BIg Fat Cock was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 22:23:20 2018	BIg Fat Cock (STEAM_0:1:54818617) spawned
+Wed Jan 17 22:27:20 2018	Griff (STEAM_0:0:51599729) disconnected
+Wed Jan 17 22:27:36 2018	BIg Fat Cock (STEAM_0:1:54818617): /rpname Tyler Gates
+Wed Jan 17 22:28:05 2018	Griff (STEAM_0:0:51599729) has joined the game
+Wed Jan 17 22:28:05 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 22:30:01 2018	Griff was killed by Entity [544][prop_physics] with a prop_physics
+Wed Jan 17 22:30:02 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 22:30:16 2018	Tyler Gates was killed by Entity [655][prop_physics] with a prop_physics
+Wed Jan 17 22:30:17 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Wed Jan 17 22:30:20 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 22:30:21 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 22:30:42 2018	Griff was killed by Entity [129][prop_physics] with a prop_physics
+Wed Jan 17 22:30:44 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 22:30:47 2018	Tyler Gates was killed by Entity [129][prop_physics] with a prop_physics
+Wed Jan 17 22:30:49 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Wed Jan 17 22:31:49 2018	Tyler Gates was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 22:31:50 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Wed Jan 17 22:32:34 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 22:32:35 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 22:32:37 2018	Tyler Gates was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 22:32:38 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Wed Jan 17 22:32:44 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 22:32:47 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 22:33:19 2018	Tyler Gates was killed by Entity [129][prop_physics] with a prop_physics
+Wed Jan 17 22:33:21 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Wed Jan 17 22:33:26 2018	Tyler Gates was killed by Entity [129][prop_physics] with a prop_physics
+Wed Jan 17 22:33:27 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Wed Jan 17 22:39:58 2018	Griff (STEAM_0:0:51599729) disconnected
+Wed Jan 17 22:40:13 2018	Griff (STEAM_0:0:51599729) has joined the game
+Wed Jan 17 22:40:13 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 22:43:41 2018	Griff (STEAM_0:0:51599729): t
+Wed Jan 17 22:44:33 2018	Griff (STEAM_0:0:51599729): t
+Wed Jan 17 22:45:05 2018	Griff (STEAM_0:0:51599729): t
+Wed Jan 17 22:51:24 2018	Griff (STEAM_0:0:51599729): t
+Wed Jan 17 22:51:54 2018	Griff (STEAM_0:0:51599729): t
+Wed Jan 17 22:52:14 2018	Griff (STEAM_0:0:51599729): t
+Wed Jan 17 22:54:03 2018	Griff (STEAM_0:0:51599729) disconnected
+Wed Jan 17 22:55:53 2018	Griff (STEAM_0:0:51599729) has joined the game
+Wed Jan 17 22:55:53 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 23:09:22 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Wed Jan 17 23:09:23 2018	Griff (STEAM_0:0:51599729) spawned
+Wed Jan 17 23:28:43 2018	Griff (STEAM_0:0:51599729) disconnected
+Wed Jan 17 23:29:04 2018	Tyler Gates (STEAM_0:1:54818617) disconnected

@@ -1,0 +1,10 @@
+"Refract"
+{
+	"$refractamount" "1"
+	"$forcerefract" "1"
+	"$model" "1"
+	"$normalmap" "effects/dodge_overlay_normal"
+	"$bumpframe" "0"
+	"$bluramount" "1"
+}
+

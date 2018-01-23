@@ -1,0 +1,19 @@
+Sun Jan 21 14:19:10 2018	Griff (STEAM_0:0:51599729) has joined the game
+Sun Jan 21 14:19:10 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 14:19:12 2018	[NWA] Zombieman 428 (STEAM_0:1:82399471) has joined the game
+Sun Jan 21 14:19:12 2018	[NWA] Zombieman 428 (STEAM_0:1:82399471) spawned
+Sun Jan 21 14:19:18 2018	Bob Ross (STEAM_0:1:54818617) has joined the game
+Sun Jan 21 14:19:18 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 14:19:23 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 14:20:01 2018	Bob Ross (STEAM_0:1:54818617): hey
+Sun Jan 21 14:20:05 2018	[NWA] Zombieman 428 (STEAM_0:1:82399471) spawned
+Sun Jan 21 14:20:33 2018	Bob Ross (STEAM_0:1:54818617): we're adding new stuff rn you might want to come back a little later
+Sun Jan 21 14:20:36 2018	[NWA] Zombieman 428 (STEAM_0:1:82399471) disconnected
+Sun Jan 21 14:20:41 2018	Griff (STEAM_0:0:51599729) disconnected
+Sun Jan 21 14:20:51 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 14:20:57 2018	Griff (STEAM_0:0:51599729) has joined the game
+Sun Jan 21 14:20:57 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 14:22:21 2018	Griff (STEAM_0:0:51599729) disconnected
+Sun Jan 21 14:22:43 2018	Griff (STEAM_0:0:51599729) has joined the game
+Sun Jan 21 14:22:43 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 14:25:32 2018	Griff (STEAM_0:0:51599729): !menu

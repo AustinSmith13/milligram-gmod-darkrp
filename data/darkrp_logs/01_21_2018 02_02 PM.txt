@@ -1,0 +1,9 @@
+Sun Jan 21 14:02:46 2018	Griff (STEAM_0:0:51599729) has joined the game
+Sun Jan 21 14:02:46 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 14:03:42 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 14:03:43 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 14:03:49 2018	Griff (STEAM_0:0:51599729) spawned SENT gd_buyer
+Sun Jan 21 14:03:52 2018	Griff (STEAM_0:0:51599729) spawned SENT gd_buyer
+Sun Jan 21 14:03:56 2018	Griff (STEAM_0:0:51599729) spawned SENT gd_dealer
+Sun Jan 21 14:04:04 2018	Griff (STEAM_0:0:51599729) spawned SENT gd_dealer
+Sun Jan 21 14:04:13 2018	Griff (STEAM_0:0:51599729) spawned SENT gd_dealer

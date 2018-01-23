@@ -1,0 +1,265 @@
+Sun Jan 21 14:50:41 2018	Griff (STEAM_0:0:51599729) has joined the game
+Sun Jan 21 14:50:41 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 14:50:54 2018	Bob Ross (STEAM_0:1:54818617) has joined the game
+Sun Jan 21 14:50:55 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 14:53:17 2018	Griff (STEAM_0:0:51599729) disconnected
+Sun Jan 21 14:53:35 2018	Griff (STEAM_0:0:51599729) has joined the game
+Sun Jan 21 14:53:35 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 14:53:55 2018	Griff (STEAM_0:0:51599729): /forceunlock
+Sun Jan 21 14:55:32 2018	SPONGEBOOB (STEAM_0:1:207543799) has joined the game
+Sun Jan 21 14:55:32 2018	SPONGEBOOB (STEAM_0:1:207543799) spawned
+Sun Jan 21 14:56:03 2018	Bob Ross was killed by Himself with a suicide trick
+Sun Jan 21 14:56:04 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 14:56:11 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 14:56:19 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 14:56:38 2018	Griff (STEAM_0:0:51599729): /drop
+Sun Jan 21 14:56:42 2018	Griff (STEAM_0:0:51599729): /drop
+Sun Jan 21 14:57:59 2018	SPONGEBOOB (STEAM_0:1:207543799) spawned
+Sun Jan 21 14:58:30 2018	SPONGEBOOB (STEAM_0:1:207543799) disconnected
+Sun Jan 21 14:59:43 2018	Griff (STEAM_0:0:51599729): /drop
+Sun Jan 21 14:59:58 2018	Griff was killed by Bob Ross with a ls_sniper
+Sun Jan 21 15:00:01 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 15:03:56 2018	Bob Ross (STEAM_0:1:54818617): /setmoney bob 1000
+Sun Jan 21 15:03:56 2018	Bob Ross (STEAM_0:1:54818617) set Bob Ross's money to $1,000
+Sun Jan 21 15:05:26 2018	Griff (STEAM_0:0:51599729) disconnected
+Sun Jan 21 15:05:30 2018	Bob Ross (STEAM_0:1:54818617) disconnected
+Sun Jan 21 15:05:43 2018	Griff (STEAM_0:0:51599729) has joined the game
+Sun Jan 21 15:05:43 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 15:05:54 2018	Bob Ross (STEAM_0:1:54818617) has joined the game
+Sun Jan 21 15:05:54 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 15:05:56 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 15:06:13 2018	Kim Josh Un (STEAM_0:1:46746400) has joined the game
+Sun Jan 21 15:06:13 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Sun Jan 21 15:06:17 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 15:06:22 2018	Griff (STEAM_0:0:51599729): /setmoney 10000
+Sun Jan 21 15:06:27 2018	Griff (STEAM_0:0:51599729): /setmoney griff 10000
+Sun Jan 21 15:06:27 2018	Griff (STEAM_0:0:51599729) set Griff's money to $10,000
+Sun Jan 21 15:06:30 2018	Bob Ross (STEAM_0:1:54818617): /setmoney 1000
+Sun Jan 21 15:06:38 2018	Griff (STEAM_0:0:51599729): discord
+Sun Jan 21 15:06:58 2018	Bob Ross (STEAM_0:1:54818617): /setmoney bob 1000
+Sun Jan 21 15:06:58 2018	Bob Ross (STEAM_0:1:54818617) set Bob Ross's money to $1,000
+Sun Jan 21 15:07:06 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 15:08:12 2018	Kim Josh Un (STEAM_0:1:46746400) disconnected
+Sun Jan 21 15:08:19 2018	Griff (STEAM_0:0:51599729): /dropmoney 1000
+Sun Jan 21 15:08:20 2018	Griff (STEAM_0:0:51599729) has dropped $1,000
+Sun Jan 21 15:08:30 2018	Kim Josh Un (STEAM_0:1:46746400) has joined the game
+Sun Jan 21 15:08:30 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Sun Jan 21 15:08:47 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Sun Jan 21 15:14:02 2018	Griff (STEAM_0:0:51599729): /setmoney josh 10000
+Sun Jan 21 15:14:02 2018	Griff (STEAM_0:0:51599729) set Kim Josh Un's money to $10,000
+Sun Jan 21 15:14:38 2018	Kim Josh Un (STEAM_0:1:46746400): /dropmoney 5000
+Sun Jan 21 15:14:39 2018	Kim Josh Un (STEAM_0:1:46746400) has dropped $5,000
+Sun Jan 21 15:18:05 2018	$crim (STEAM_0:0:92881884) has joined the game
+Sun Jan 21 15:18:05 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 15:18:21 2018	ThunderPanda (STEAM_0:0:87381926) has joined the game
+Sun Jan 21 15:18:21 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 15:18:26 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 15:19:08 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 15:19:56 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 15:20:22 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 15:20:36 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 15:21:36 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 15:22:11 2018	Griff (STEAM_0:0:51599729): /forcelock
+Sun Jan 21 15:22:11 2018	Griff (STEAM_0:0:51599729) force-locked a door with forcelock (locked door is saved)
+Sun Jan 21 15:22:12 2018	Griff (STEAM_0:0:51599729): /forceunlock
+Sun Jan 21 15:22:12 2018	Griff (STEAM_0:0:51599729) force-unlocked a door with forcelock (unlocked door is saved)
+Sun Jan 21 15:22:14 2018	Griff (STEAM_0:0:51599729): /forceunlock
+Sun Jan 21 15:22:14 2018	Griff (STEAM_0:0:51599729) force-unlocked a door with forcelock (unlocked door is saved)
+Sun Jan 21 15:25:33 2018	$crim (STEAM_0:0:92881884): how does bit coin work
+Sun Jan 21 15:25:36 2018	Bob Ross (STEAM_0:1:54818617): .add Griff
+Sun Jan 21 15:25:52 2018	Bob Ross (STEAM_0:1:54818617): .add Kim Josh Un
+Sun Jan 21 15:26:57 2018	Kim Josh Un was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 15:27:06 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Sun Jan 21 15:29:16 2018	$crim (STEAM_0:0:92881884): are the error signs for guns a me problem or a server thing
+Sun Jan 21 15:29:26 2018	$crim (STEAM_0:0:92881884): it worked fine last time
+Sun Jan 21 15:29:53 2018	Bob Ross (STEAM_0:1:54818617): /setmoney bob 3000
+Sun Jan 21 15:29:53 2018	Bob Ross (STEAM_0:1:54818617) set Bob Ross's money to $3,000
+Sun Jan 21 15:34:20 2018	Kim Josh Un (STEAM_0:1:46746400): /dropmoney 33
+Sun Jan 21 15:34:21 2018	Kim Josh Un (STEAM_0:1:46746400) has dropped $33
+Sun Jan 21 15:35:30 2018	Kim Josh Un (STEAM_0:1:46746400): !menu
+Sun Jan 21 15:35:46 2018	Bob Ross (STEAM_0:1:54818617): i want to buy guns
+Sun Jan 21 15:36:21 2018	$crim (STEAM_0:0:92881884): are the guns error signs for the server
+Sun Jan 21 15:36:23 2018	$crim (STEAM_0:0:92881884): or for me
+Sun Jan 21 15:36:27 2018	Griff (STEAM_0:0:51599729): you
+Sun Jan 21 15:36:31 2018	Griff (STEAM_0:0:51599729): want me to link you to workshop?
+Sun Jan 21 15:36:38 2018	Griff (STEAM_0:0:51599729): it should of downloaded tho
+Sun Jan 21 15:36:48 2018	$crim (STEAM_0:0:92881884): what guns are you lookin for
+Sun Jan 21 15:37:03 2018	Bob Ross (STEAM_0:1:54818617): ak-47
+Sun Jan 21 15:37:05 2018	Griff (STEAM_0:0:51599729): http://steamcommunity.com/sharedfiles/filedetails/?id=182440362
+Sun Jan 21 15:37:08 2018	Griff (STEAM_0:0:51599729): there is our workshop
+Sun Jan 21 15:37:16 2018	Griff (STEAM_0:0:51599729): and ak for me too
+Sun Jan 21 15:37:18 2018	$crim (STEAM_0:0:92881884): btw for the shotguns it saids content of scars
+Sun Jan 21 15:37:20 2018	Griff (STEAM_0:0:51599729): /y http://steamcommunity.com/sharedfiles/filedetails/?id=182440362
+Sun Jan 21 15:38:02 2018	Bob Ross (STEAM_0:1:54818617): /moneydrop 5964
+Sun Jan 21 15:38:03 2018	Bob Ross (STEAM_0:1:54818617) has dropped $5,964
+Sun Jan 21 15:38:31 2018	Griff (STEAM_0:0:51599729): /dropmoney 2000
+Sun Jan 21 15:38:32 2018	Griff (STEAM_0:0:51599729) has dropped $2,000
+Sun Jan 21 15:42:45 2018	$crim (STEAM_0:0:92881884): ree
+Sun Jan 21 15:43:06 2018	$crim (STEAM_0:0:92881884): do i need to reset my gmod nowa?
+Sun Jan 21 15:43:52 2018	Griff (STEAM_0:0:51599729): /drop
+Sun Jan 21 15:49:50 2018	ThunderPanda was killed by $crim with a m9k_m3_drp
+Sun Jan 21 15:49:53 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 15:50:29 2018	ThunderPanda was killed by $crim with a m9k_m3_drp
+Sun Jan 21 15:50:31 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 15:50:57 2018	ThunderPanda was killed by $crim with a m9k_m3_drp
+Sun Jan 21 15:50:59 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 15:55:13 2018	Griff (STEAM_0:0:51599729): /setmonmey griff 3500
+Sun Jan 21 15:55:18 2018	Griff (STEAM_0:0:51599729): /setmoney griff 3500
+Sun Jan 21 15:55:18 2018	Griff (STEAM_0:0:51599729) set Griff's money to $3,500
+Sun Jan 21 15:55:18 2018	$crim (STEAM_0:0:92881884): /noclip
+Sun Jan 21 15:55:28 2018	$crim (STEAM_0:0:92881884): oo ooo
+Sun Jan 21 15:56:09 2018	$crim (STEAM_0:0:92881884): ok
+Sun Jan 21 15:56:11 2018	$crim (STEAM_0:0:92881884): ok
+Sun Jan 21 15:56:13 2018	$crim (STEAM_0:0:92881884): no
+Sun Jan 21 15:56:15 2018	$crim (STEAM_0:0:92881884): ok
+Sun Jan 21 15:56:16 2018	$crim (STEAM_0:0:92881884): ok
+Sun Jan 21 15:57:17 2018	ThunderPanda was killed by $crim with a m9k_m3_drp
+Sun Jan 21 15:57:19 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 15:57:26 2018	$crim was killed by ThunderPanda with a m9k_m29satan_drp
+Sun Jan 21 15:57:27 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 15:57:41 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 15:58:06 2018	ThunderPanda was killed by $crim with a m9k_m29satan_drp
+Sun Jan 21 15:58:08 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 15:58:58 2018	Griff (STEAM_0:0:51599729): /drop
+Sun Jan 21 15:59:05 2018	ThunderPanda was killed by Bob Ross with a m9k_ak47_drp
+Sun Jan 21 15:59:07 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 15:59:11 2018	$crim was killed by Kim Josh Un with a m9k_ak47_drp
+Sun Jan 21 15:59:12 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:00:26 2018	Griff (STEAM_0:0:51599729): /drop
+Sun Jan 21 16:00:46 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:01:02 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:01:06 2018	$crim (STEAM_0:0:92881884) disconnected
+Sun Jan 21 16:01:32 2018	$crim (STEAM_0:0:92881884) has joined the game
+Sun Jan 21 16:01:32 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:01:52 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:02:03 2018	$crim (STEAM_0:0:92881884) disconnected
+Sun Jan 21 16:04:28 2018	$crim (STEAM_0:0:92881884) has joined the game
+Sun Jan 21 16:04:28 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:04:43 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:08:04 2018	Kim Josh Un (STEAM_0:1:46746400): /drop
+Sun Jan 21 16:08:10 2018	Kim Josh Un was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 16:08:17 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Sun Jan 21 16:14:05 2018	ThunderPanda was killed by Griff with a m9k_ak47_drp
+Sun Jan 21 16:14:06 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 16:15:31 2018	Kim Josh Un (STEAM_0:1:46746400): !menu
+Sun Jan 21 16:16:05 2018	$crim (STEAM_0:0:92881884): this lsd is goofed bruh
+Sun Jan 21 16:16:26 2018	$crim was killed by Himself with a suicide trick
+Sun Jan 21 16:16:28 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:17:03 2018	Griff (STEAM_0:0:51599729): /setmoney griff 11000
+Sun Jan 21 16:17:03 2018	Griff (STEAM_0:0:51599729) set Griff's money to $11,000
+Sun Jan 21 16:17:13 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:17:29 2018	Griff (STEAM_0:0:51599729): /setmoney griff 5000
+Sun Jan 21 16:17:29 2018	Griff (STEAM_0:0:51599729) set Griff's money to $5,000
+Sun Jan 21 16:18:00 2018	$crim was killed by Griff with a m9k_ak47_drp
+Sun Jan 21 16:18:02 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:18:15 2018	$crim was killed by Griff with a m9k_ak47_drp
+Sun Jan 21 16:18:16 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:19:27 2018	$crim (STEAM_0:0:92881884): /advert kill yourself
+Sun Jan 21 16:21:10 2018	Bob Ross (STEAM_0:1:54818617): /drop
+Sun Jan 21 16:22:24 2018	ThunderPanda (STEAM_0:0:87381926) disconnected
+Sun Jan 21 16:23:41 2018	ThunderPanda (STEAM_0:0:87381926) has joined the game
+Sun Jan 21 16:23:41 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 16:23:58 2018	Kim Josh Un was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 16:23:59 2018	ThunderPanda (STEAM_0:0:87381926) disconnected
+Sun Jan 21 16:24:02 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Sun Jan 21 16:24:44 2018	Kim Josh Un was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 16:24:45 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Sun Jan 21 16:25:39 2018	ThunderPanda (STEAM_0:0:87381926) has joined the game
+Sun Jan 21 16:25:39 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 16:25:55 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 16:26:47 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Sun Jan 21 16:26:47 2018	Griff was killed by $crim with a m9k_ak47_drp
+Sun Jan 21 16:26:50 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 16:28:04 2018	Kim Josh Un was killed by Griff with a m9k_scar_drp
+Sun Jan 21 16:28:13 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Sun Jan 21 16:28:19 2018	Kim Josh Un (STEAM_0:1:46746400): 
+Sun Jan 21 16:28:23 2018	Hell Fire (STEAM_0:1:20129756) has joined the game
+Sun Jan 21 16:28:23 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 16:28:25 2018	Kim Josh Un (STEAM_0:1:46746400): 
+Sun Jan 21 16:28:52 2018	ThunderPanda (STEAM_0:0:87381926) disconnected
+Sun Jan 21 16:29:23 2018	Bob Ross (STEAM_0:1:54818617): .add Griff
+Sun Jan 21 16:29:57 2018	Kim Josh Un was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 16:30:01 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Sun Jan 21 16:30:30 2018	Hell Fire (STEAM_0:1:20129756): !stop
+Sun Jan 21 16:30:35 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Sun Jan 21 16:31:34 2018	Kim Josh Un was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 16:31:36 2018	ThunderPanda (STEAM_0:0:87381926) has joined the game
+Sun Jan 21 16:31:36 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 16:31:38 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Sun Jan 21 16:31:49 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Sun Jan 21 16:31:59 2018	Hell Fire (STEAM_0:1:20129756): /w 3CUVgr6iNrdaKBForregXNdyDNHvcFxCfzK
+Sun Jan 21 16:32:51 2018	Kim Josh Un (STEAM_0:1:46746400) disconnected
+Sun Jan 21 16:36:06 2018	$crim was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 16:36:08 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:36:25 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:38:08 2018	Bob Ross was killed by $crim with a m9k_m3_drp
+Sun Jan 21 16:38:08 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 16:38:17 2018	$crim was killed by Himself with a suicide trick
+Sun Jan 21 16:38:18 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:39:48 2018	$crim was killed by Griff with a m9k_scar_drp
+Sun Jan 21 16:39:50 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:40:22 2018	Griff was killed by Bob Ross with a m9k_ak47_drp
+Sun Jan 21 16:40:33 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 16:40:54 2018	ThunderPanda (STEAM_0:0:87381926) disconnected
+Sun Jan 21 16:41:01 2018	Bob Ross was killed by $crim with a m9k_ak47_drp
+Sun Jan 21 16:41:02 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 16:41:22 2018	$crim was killed by Himself with a suicide trick
+Sun Jan 21 16:41:23 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:41:24 2018	$crim was killed by Himself with a suicide trick
+Sun Jan 21 16:41:26 2018	$crim (STEAM_0:0:92881884): wot m8
+Sun Jan 21 16:41:27 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:41:32 2018	$crim (STEAM_0:0:92881884): i'm goofed
+Sun Jan 21 16:41:42 2018	$crim was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 16:41:43 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:41:51 2018	$crim was killed by Himself with a suicide trick
+Sun Jan 21 16:41:56 2018	$crim (STEAM_0:0:92881884): well that's not very nice
+Sun Jan 21 16:41:56 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:44:18 2018	ThunderPanda (STEAM_0:0:87381926) has joined the game
+Sun Jan 21 16:44:18 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 16:45:17 2018	$crim (STEAM_0:0:92881884): /advert pee pee
+Sun Jan 21 16:45:32 2018	ThunderPanda was killed by $crim with a m9k_ak74_drp
+Sun Jan 21 16:45:41 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 16:46:03 2018	$crim was killed by Griff with a m9k_m29satan_drp
+Sun Jan 21 16:46:04 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:47:18 2018	Bob Ross (STEAM_0:1:54818617): 
+Sun Jan 21 16:47:26 2018	Bob Ross (STEAM_0:1:54818617): add Bob Ross
+Sun Jan 21 16:47:27 2018	$crim was killed by Griff with a m9k_m29satan_drp
+Sun Jan 21 16:47:29 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:47:36 2018	Bob Ross (STEAM_0:1:54818617): 
+Sun Jan 21 16:47:52 2018	Bob Ross (STEAM_0:1:54818617): add Bob Ross
+Sun Jan 21 16:48:24 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 16:48:27 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 16:49:26 2018	Bob Ross (STEAM_0:1:54818617): 
+Sun Jan 21 16:49:43 2018	Hell Fire was killed by ThunderPanda with a m9k_m3_drp
+Sun Jan 21 16:49:45 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 16:49:49 2018	Griff was killed by $crim with a m9k_m3_drp
+Sun Jan 21 16:49:50 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 16:50:01 2018	Griff was killed by ThunderPanda with a m9k_m3_drp
+Sun Jan 21 16:50:03 2018	Hell Fire was killed by $crim with a m9k_m3_drp
+Sun Jan 21 16:50:04 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 16:50:05 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 16:50:09 2018	Hell Fire was killed by $crim with a m9k_m3_drp
+Sun Jan 21 16:50:11 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 16:50:16 2018	Hell Fire was killed by $crim with a m9k_m3_drp
+Sun Jan 21 16:50:23 2018	Griff (STEAM_0:0:51599729): /dro
+Sun Jan 21 16:50:25 2018	Griff (STEAM_0:0:51599729): /drop
+Sun Jan 21 16:50:25 2018	ThunderPanda was killed by Himself with a suicide trick
+Sun Jan 21 16:50:28 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 16:50:34 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 16:50:36 2018	Hell Fire was killed by $crim with a m9k_m3_drp
+Sun Jan 21 16:50:37 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 16:50:52 2018	ThunderPanda was killed by Griff with a m9k_scar_drp
+Sun Jan 21 16:50:53 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 16:51:00 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 16:51:01 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 16:51:03 2018	Bob Ross (STEAM_0:1:54818617): .add Griff
+Sun Jan 21 16:52:36 2018	$crim was killed by Griff with a m9k_honeybadger_drp
+Sun Jan 21 16:52:37 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 16:55:06 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 16:55:12 2018	Bob Ross was killed by ThunderPanda with a m9k_m29satan_drp
+Sun Jan 21 16:55:16 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 16:56:03 2018	Griff was killed by $crim with a m9k_m416_drp
+Sun Jan 21 16:56:04 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 16:56:10 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 16:56:12 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 16:57:06 2018	$crim (STEAM_0:0:92881884): how does one get the other weapons

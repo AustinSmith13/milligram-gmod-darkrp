@@ -1,0 +1,349 @@
+[02:11:37] New map: rp_downtown_v4_exl
+[12:14:02] Client "Griff" connected.
+[12:14:31] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 29 seconds).
+[12:15:57] Griff: /calladmin
+[12:15:57] Client "DTSpartan" connected.
+[12:16:05] Griff: /recal
+[12:16:07] Griff: /recall
+[12:16:22] Griff: !menu
+[12:16:30] Griff changed the map to rp_downtown_v4c_v2
+[12:16:30] Server is shutting down/changing levels.
+
+
+
+[12:16:41] New map: rp_downtown_v4c_v2
+[12:17:07] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 32 seconds).
+[12:18:12] Client "DTSpartan" spawned in server <STEAM_0:0:17131489> (took 97 seconds).
+[12:20:04] DTSpartan<STEAM_0:0:17131489> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[12:20:19] DTSpartan<STEAM_0:0:17131489> spawned model models/props_docks/dock01_pole01a_256.mdl
+[12:20:23] DTSpartan<STEAM_0:0:17131489> spawned model models/props_combine/breenglobe.mdl
+[12:20:34] DTSpartan<STEAM_0:0:17131489> spawned model models/props_combine/combine_barricade_short02a.mdl
+[12:22:13] DTSpartan<STEAM_0:0:17131489> spawned ragdoll models/player/ct_sas.mdl
+[12:24:14] Griff: !MENU
+[12:24:19] Griff added DTSpartan to group superadmin
+[12:24:37] DTSpartan<STEAM_0:0:17131489> spawned ragdoll models/characters/hostage_03.mdl
+[12:25:16] DTSpartan<STEAM_0:0:17131489> spawned ragdoll models/characters/hostage_02.mdl
+[12:27:08] Griff: /DROPMONEY 10000
+[12:27:16] Dropped "DTSpartan" from server<STEAM_0:0:17131489>
+[12:27:40] Client "DTSpartan" connected.
+[12:27:59] Client "DTSpartan" spawned in server <STEAM_0:0:17131489> (took 19 seconds).
+[12:28:48] DTSpartan killed Griff using player
+[12:29:08] DTSpartan killed Griff using player
+[12:30:32] DTSpartan killed Griff using player
+[12:30:51] DTSpartan killed Griff using player
+[12:31:20] DTSpartan killed Griff using player
+[12:31:41] DTSpartan: !money 100000
+[12:32:01] DTSpartan killed Griff using player
+[12:32:13] DTSpartan killed Griff using player
+[12:32:33] Griff killed DTSpartan using player
+[12:32:49] DTSpartan killed Griff using player
+[12:33:35] DTSpartan killed Griff using player
+[12:33:35] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[12:33:44] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[12:35:30] Griff: /setmoney griff 100000
+[12:36:08] Griff: /dropmoney 10000
+[12:39:55] DTSpartan killed Griff using player
+[12:41:06] Griff<STEAM_0:0:51599729> spawned sent gd_lsd
+[12:42:36] Griff killed DTSpartan using player
+[12:43:22] Griff: /setmoney griff 250000
+[12:51:22] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[12:52:33] DTSpartan<STEAM_0:0:17131489> spawned model models/props_c17/canister01a.mdl
+[12:52:34] DTSpartan<STEAM_0:0:17131489> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[12:52:37] DTSpartan<STEAM_0:0:17131489> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[12:52:51] Griff: .add griff
+[12:54:50] DTSpartan killed Griff using player
+[12:55:34] DTSpartan killed Griff using player
+[12:55:48] DTSpartan killed Griff using player
+[12:56:03] DTSpartan killed Griff using player
+[12:57:31] DTSpartan killed Griff using player
+[12:57:54] DTSpartan killed Griff using player
+[12:59:16] DTSpartan killed Griff using player
+[13:00:10] DTSpartan killed Griff using player
+[13:00:54] DTSpartan killed Griff using player
+[13:01:07] Griff: /forceunlock
+[13:01:08] Griff: /forceunlock
+[13:01:44] Griff: !menu
+[13:01:45] DTSpartan killed Griff using player
+[13:02:19] Client "Xav" connected.
+[13:02:34] DTSpartan killed Griff using player
+[13:02:56] Client "Xav" spawned in server <STEAM_0:0:92528794> (took 37 seconds).
+[13:03:43] DTSpartan killed Griff using player
+[13:03:49] Griff changed the map to rp_paralake_city_v1
+[13:03:50] Server is shutting down/changing levels.
+
+
+
+[13:04:06] New map: rp_paralake_city_v1
+[13:04:39] Client "DTSpartan" spawned in server <STEAM_0:0:17131489> (took 39 seconds).
+[13:04:40] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 40 seconds).
+[13:04:40] DTSpartan suicided!
+[13:05:04] DTSpartan killed Griff using player
+[13:05:05] DTSpartan suicided!
+[13:06:04] DTSpartan killed Griff using player
+[13:06:43] DTSpartan killed Griff using player
+[13:07:13] DTSpartan killed Griff using player
+[13:08:23] DTSpartan killed Griff using player
+[13:08:37] DTSpartan killed Griff using player
+[13:09:08] DTSpartan killed Griff using player
+[13:10:26] Dropped "DTSpartan" from server<STEAM_0:0:17131489>
+
+
+
+[13:11:14] New map: rp_downtown_v4_exl
+[13:11:17] Client "Griff" connected.
+[13:11:33] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 16 seconds).
+[13:11:49] Griff<STEAM_0:0:51599729> spawned vehicle models/airboat.mdl
+[13:11:52] Griff: !menu
+[13:12:03] Griff changed the map to rp_paralake_city_v1
+[13:12:03] Server is shutting down/changing levels.
+
+
+
+[13:12:14] New map: rp_paralake_city_v1
+[13:12:38] Client "DTSpartan" connected.
+[13:12:41] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 32 seconds).
+[13:13:00] Client "DTSpartan" spawned in server <STEAM_0:0:17131489> (took 22 seconds).
+[13:13:16] Griff<STEAM_0:0:51599729> spawned vehicle models/buggy.mdl
+[13:13:18] Griff<STEAM_0:0:51599729> spawned vehicle models/buggy.mdl
+[13:14:08] DTSpartan killed Griff using player
+[13:15:39] Griff<STEAM_0:0:51599729> spawned vehicle models/airboat.mdl
+[13:15:40] Griff<STEAM_0:0:51599729> spawned vehicle models/airboat.mdl
+[13:15:42] Griff<STEAM_0:0:51599729> spawned vehicle models/airboat.mdl
+[13:16:16] DTSpartan killed Griff using player
+[13:16:57] DTSpartan killed Griff using player
+[13:17:22] DTSpartan killed Griff using player
+[13:17:29] Griff killed DTSpartan using player
+[13:17:35] DTSpartan killed Griff using player
+[13:17:42] DTSpartan killed Griff using player
+[13:17:48] Griff mauled DTSpartan
+[13:17:48] Griff: !maul dt
+[13:17:59] DTSpartan was killed by npc_fastzombie
+[13:18:11] DTSpartan killed Griff using player
+[13:18:18] Griff blinded DTSpartan by amount 255
+[13:18:26] Griff unblinded DTSpartan
+[13:18:29] Griff froze DTSpartan
+[13:18:32] Griff unfroze DTSpartan
+[13:18:34] Griff ignited DTSpartan for 300 seconds
+[13:18:34] DTSpartan killed Griff using player
+[13:18:37] Griff extinguished DTSpartan
+[13:18:48] Griff ragdolled DTSpartan
+[13:18:48] Griff: !ragdoll dt
+[13:19:00] DTSpartan: !ragdol Griff
+[13:19:12] Griff: !ragdoll dt
+[13:19:14] DTSpartan ragdolled Griff
+[13:19:14] DTSpartan: !ragdoll Griff
+[13:19:17] Griff unragdolled DTSpartan
+[13:19:17] Griff: !unragdoll dt
+[13:19:20] Griff unragdolled Themself
+[13:19:20] Griff: !unragdoll grif
+[13:19:28] DTSpartan ragdolled Griff
+[13:19:28] DTSpartan: !ragdoll Griff
+[13:19:38] Griff set the hp for DTSpartan to 1
+[13:19:41] DTSpartan unragdolled Griff
+[13:19:41] DTSpartan: !unragdoll griff
+[13:19:45] DTSpartan: !menu
+[13:19:58] DTSpartan set the armor for Themself to 255
+[13:20:01] Griff changed the map to rp_downtown_v4c_v2
+[13:20:01] Server is shutting down/changing levels.
+
+
+
+[13:20:08] New map: rp_downtown_v4c_v2
+[13:20:28] Client "DTSpartan" spawned in server <STEAM_0:0:17131489> (took 24 seconds).
+[13:20:31] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 27 seconds).
+[13:20:59] DTSpartan killed Griff using player
+[13:21:31] DTSpartan: !kill
+[13:21:33] DTSpartan suicided!
+[13:21:39] Griff: /forceunlock
+[13:22:33] DTSpartan killed Griff using player
+[13:25:33] Griff: /unarrest *
+[13:29:40] DTSpartan killed Griff using player
+[13:32:07] Griff killed DTSpartan using player
+[13:45:15] Griff killed DTSpartan using player
+[13:47:18] Griff<STEAM_0:0:51599729> spawned NPC npc_tf2_ghost
+[13:47:25] Griff<STEAM_0:0:51599729> spawned NPC npc_citizen
+[13:47:25] Griff<STEAM_0:0:51599729> spawned NPC npc_citizen
+[13:47:25] Griff<STEAM_0:0:51599729> spawned NPC npc_citizen
+[13:47:25] Griff<STEAM_0:0:51599729> spawned NPC npc_citizen
+[13:47:25] Griff<STEAM_0:0:51599729> spawned NPC npc_citizen
+[13:47:25] Griff<STEAM_0:0:51599729> spawned NPC npc_citizen
+[13:47:26] Griff<STEAM_0:0:51599729> spawned NPC npc_citizen
+[13:47:26] Griff<STEAM_0:0:51599729> spawned NPC npc_citizen
+[13:47:26] Griff<STEAM_0:0:51599729> spawned NPC npc_citizen
+[13:47:26] Griff<STEAM_0:0:51599729> spawned NPC npc_citizen
+[13:47:27] Dropped "DTSpartan" from server<STEAM_0:0:17131489>
+[13:47:43] Dropped "Griff" from server<STEAM_0:0:51599729>
+[18:48:18] Client "Griff" connected.
+[18:48:27] Client "Bob Ross" connected.
+[18:48:47] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 29 seconds).
+[18:50:58] Client "Bob Ross" connected.
+[18:51:23] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 25 seconds).
+[18:51:59] Client "A1steaksa" connected.
+[18:53:02] Client "A1steaksa" spawned in server <STEAM_0:0:18354638> (took 63 seconds).
+[18:53:40] A1steaksa: /rpname Vincent Luciano
+[18:53:40] A1steaksa<STEAM_0:0:18354638> changed their name to Vincent Luciano
+[18:53:45] Vincent Luciano: // Boy what did you do
+[18:54:09] Vincent Luciano: btc_miner/user.png
+[18:54:37] Bob Ross: /forceunlock
+[18:54:37] Vincent Luciano: google.com/fastest-way-to-the-bottom.html
+[18:54:42] Vincent Luciano: u_irl
+[18:55:21] Bob Ross: /forceunlock
+[18:57:33] Griff added Vincent Luciano to group admin
+[18:57:47] Vincent Luciano: http://steamcommunity.com/id/a1steaksa/myworkshopfiles/?appid=4000&browsefilter=mysubscriptions&p=1
+[18:58:28] Vincent Luciano: http://steamcommunity.com/sharedfiles/filedetails/?id=536338229
+[19:00:04] Bob Ross<STEAM_0:1:54818617> spawned model models/props_borealis/bluebarrel001.mdl
+[19:00:42] Vincent Luciano<STEAM_0:0:18354638> spawned model models/props_interiors/pot01a.mdl
+[19:00:53] Bob Ross<STEAM_0:1:54818617> spawned model models/props_c17/furnituredrawer002a.mdl
+[19:00:56] Vincent Luciano<STEAM_0:0:18354638> spawned model models/props_c17/lampshade001a.mdl
+[19:03:00] Vincent Luciano<STEAM_0:0:18354638> spawned sent gd_beer
+[19:03:02] Griff<STEAM_0:0:51599729> spawned sent gd_lsd
+[19:03:21] Vincent Luciano<STEAM_0:0:18354638> spawned sent gd_redwine
+[19:03:30] Vincent Luciano suicided!
+[19:03:49] Griff<STEAM_0:0:51599729> spawned sent bitcoinminertwo
+[19:09:23] Bob Ross: yes
+[19:11:07] Bob Ross<STEAM_0:1:54818617> spawned model models/props_vehicles/tire001c_car.mdl
+[19:11:38] Bob Ross<STEAM_0:1:54818617> spawned model models/props_vehicles/tire001b_truck.mdl
+[19:11:45] Bob Ross<STEAM_0:1:54818617> spawned model models/props_vehicles/tire001a_tractor.mdl
+[19:11:47] Bob Ross<STEAM_0:1:54818617> spawned model models/props_vehicles/tire001a_tractor.mdl
+[19:11:52] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/wood_crate002a.mdl
+[19:11:53] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/metalbucket02a.mdl
+[19:12:12] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:13:17] Griff: griffq@hotmail.com
+[19:13:25] Griff: griffinq178@gmail.com
+[19:13:57] Bob Ross<STEAM_0:1:54818617> spawned model models/props_phx/construct/wood/wood_wire2x2x2b.mdl
+[19:14:39] Bob Ross<STEAM_0:1:54818617> spawned model models/props_phx/construct/metal_wire2x2x2b.mdl
+[19:15:31] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate2x2.mdl
+[19:17:07] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x8.mdl
+[19:17:19] Griff: https://discord.gg/9CqTWp
+[19:31:13] Bob Ross<STEAM_0:1:54818617> spawned sent gmt_instrument_piano
+
+
+
+[19:33:26] New map: rp_downtown_v4_exl
+[19:33:26] Client "Griff" connected.
+[19:33:26] Client "Griff" connected.
+[19:33:26] Client "Griff" connected.
+[19:33:26] Client "Griff" connected.
+[19:33:29] Client "A1steaksa" connected.
+[19:33:54] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 28 seconds).
+[19:34:09] Client "A1steaksa" spawned in server <STEAM_0:0:18354638> (took 40 seconds).
+[19:34:22] Griff: !cac
+[19:34:23] Griff: t
+[19:35:22] Client "Bob Ross" connected.
+[19:35:46] Griff killed Vincent Luciano using player
+[19:35:58] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 36 seconds).
+[19:37:45] (SILENT) Griff Toggled +voicerecord on Vincent Luciano
+[19:38:02] Griff: !micon
+[19:38:07] (SILENT) Griff Toggled +voicerecord on Vincent Luciano
+[19:38:07] Griff: !micon vin off
+[19:38:16] (SILENT) Griff Toggled -voicerecord on Vincent Luciano
+[19:38:42] Griff: !cac_menu
+[19:38:46] Dropped "Griff" from server<STEAM_0:0:51599729>
+[19:38:54] Client "Griff" connected.
+[19:39:14] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 20 seconds).
+[19:39:24] Griff: !cac_menu
+[19:40:10] Dropped "Vincent Luciano" from server<STEAM_0:0:18354638>
+[19:40:21] Client "A1steaksa" connected.
+[19:40:30] Client "Akihiro | 太糟了" connected.
+[19:40:44] Client "A1steaksa" spawned in server <STEAM_0:0:18354638> (took 23 seconds).
+[19:40:57] Dropped "Bob Ross" from server<STEAM_0:1:54818617>
+[19:41:03] Client "Bob Ross" connected.
+[19:41:26] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 23 seconds).
+[19:41:34] Client "Akihiro | 太糟了" spawned in server <STEAM_0:1:188481945> (took 64 seconds).
+[19:43:39] Vincent Luciano: print("shit")
+[19:44:09] Griff added Vincent Luciano to group superadmin
+[19:44:56] Vincent Luciano was killed by prop_physics
+[19:44:57] Bob Ross killed Griff using player
+[19:45:25] Griff killed Bob Ross using player
+[19:45:43] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_vehicles/tire001b_truck.mdl
+[19:46:07] Bob Ross killed Griff using player
+[19:46:12] Griff killed Bob Ross using player
+[19:46:38] Bob Ross: /setmoney bob 700000
+[19:46:41] Griff killed Bob Ross using player
+[19:46:47] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_c17/utilitypole03a.mdl
+[19:47:20] Bob Ross killed Griff using player
+[19:47:52] Griff killed Bob Ross using player
+[19:48:09] Griff killed Bob Ross using player
+[19:48:14] Griff killed Akihiro | 太糟了 using player
+[19:48:14] Bob Ross killed Griff using player
+[19:48:24] Bob Ross killed Griff using player
+[19:48:31] Bob Ross<STEAM_0:1:54818617> spawned sent sent_arc_pinmachine
+[19:49:29] Griff<STEAM_0:0:51599729> spawned sent sent_arc_pinmachine
+[19:51:42] Griff: /setmoney aki 20000
+[19:53:53] Griff: // hello world
+[19:53:54] Vincent Luciano: // ulx ban "Bob Ross" 2d Prop surfing
+[19:53:57] Bob Ross: :unhappy::unhappy:
+[19:56:30] Bob Ross: /setmoney bob 1000000000
+[19:57:55] Akihiro | 太糟了: /adminhelp
+[19:58:13] Bob Ross<STEAM_0:1:54818617> spawned sent sent_arc_pinmachine
+[20:00:09] Dropped "Griff" from server<STEAM_0:0:51599729>
+[20:00:10] Client "Griff" connected.
+[20:00:31] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 21 seconds).
+
+
+
+[20:03:09] New map: rp_downtown_v4c
+[20:03:09] Client "Griff" connected.
+[20:03:09] Client "A1steaksa" connected.
+[20:03:09] Client "A1steaksa" connected.
+[20:03:09] Client "A1steaksa" connected.
+[20:03:09] Client "A1steaksa" connected.
+[20:03:09] Client "A1steaksa" connected.
+[20:03:32] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 23 seconds).
+[20:03:40] Client "A1steaksa" spawned in server <STEAM_0:0:18354638> (took 31 seconds).
+[20:03:40] Griff suicided!
+[20:04:24] Griff: assadasd
+[20:05:53] Dropped "Griff" from server<STEAM_0:0:51599729>
+[20:05:53] Client "Griff" connected.
+[20:06:11] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 18 seconds).
+[20:06:42] Griff: !menu
+[20:06:49] Griff changed the map to rp_downtown_v4c
+[20:06:49] Server is shutting down/changing levels.
+
+
+
+[20:07:17] New map: rp_downtown_v4c
+[20:07:41] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 29 seconds).
+[20:07:44] Client "Bob Ross" connected.
+[20:07:46] Client "A1steaksa" spawned in server <STEAM_0:0:18354638> (took 34 seconds).
+[20:07:46] Griff suicided!
+[20:07:57] Griff: asdads
+[20:08:10] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 26 seconds).
+[20:08:14] Griff: :suprised::suprised:
+[20:08:34] Griff: /setmoney griff 100000
+[20:10:08] Griff changed the map to rp_downtown_v4c_v2
+[20:10:08] Server is shutting down/changing levels.
+
+
+
+[20:10:38] New map: rp_downtown_v4c_v2
+[20:11:02] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 29 seconds).
+[20:11:03] Client "Mute" connected.
+[20:11:08] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 35 seconds).
+[20:11:15] Client "A1steaksa" spawned in server <STEAM_0:0:18354638> (took 42 seconds).
+[20:12:26] Griff<STEAM_0:0:51599729> spawned sent sent_arc_pinmachine
+[20:12:49] Client "Mute" spawned in server <STEAM_0:0:25985877> (took 106 seconds).
+[20:14:47] Bob Ross<STEAM_0:1:54818617> spawned model models/props_docks/dock03_pole01a.mdl
+[20:16:19] Griff: /calladmin
+[20:16:35] Vincent Luciano: /recall
+[20:16:38] Bob Ross killed Griff using player
+[20:16:43] Bob Ross: /readcall
+[20:17:07] Bob Ross to admins: admin to me
+[20:17:07] Bob Ross: @ admin to me
+[20:18:07] Dropped "Mute" from server<STEAM_0:0:25985877>
+[20:18:18] Bob Ross: /setmoney bob 1000
+[20:18:39] Bob Ross: /advert Mug drop 5000 or die
+[20:19:01] Griff killed Bob Ross using player
+[20:20:09] Bob Ross suicided!
+[20:20:17] Vincent Luciano<STEAM_0:0:18354638> spawned model models/props_c17/canister_propane01a.mdl
+[20:20:53] Bob Ross killed Griff using ent_lite_hegrenade
+[20:21:15] Bob Ross<STEAM_0:1:54818617> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:22:56] Bob Ross<STEAM_0:1:54818617> spawned model models/props_borealis/mooring_cleat01.mdl
+[20:23:05] Griff<STEAM_0:0:51599729> spawned sent sent_arc_pinmachine
+[20:23:08] Bob Ross<STEAM_0:1:54818617> spawned sent sent_arc_pinmachine
+[20:23:24] Griff: !menu
+[20:23:36] Griff removed all access rights from Bob Ross
+[20:23:48] Griff added Bob Ross to group superadmin
+[20:24:29] Dropped "Vincent Luciano" from server<STEAM_0:0:18354638>
+[20:24:58] Dropped "Bob Ross" from server<STEAM_0:1:54818617>
+[20:25:22] Dropped "Griff" from server<STEAM_0:0:51599729>

@@ -1,0 +1,8 @@
+"STEAM_0:1:109375778"	
+{
+	"reason"	"Troll"
+	"admin"	"Griff(STEAM_0:0:51599729)"
+	"unban"	"0"
+	"time"	"1516583715"
+	"name"	"Zeus"
+}

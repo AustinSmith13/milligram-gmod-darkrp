@@ -1,0 +1,23 @@
+Mon Jan 22 13:04:39 2018	DTSpartan (STEAM_0:0:17131489) has joined the game
+Mon Jan 22 13:04:39 2018	DTSpartan (STEAM_0:0:17131489) spawned
+Mon Jan 22 13:04:40 2018	Griff (STEAM_0:0:51599729) has joined the game
+Mon Jan 22 13:04:40 2018	DTSpartan was killed by Himself with a suicide trick
+Mon Jan 22 13:04:40 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 13:04:51 2018	DTSpartan (STEAM_0:0:17131489) spawned
+Mon Jan 22 13:05:04 2018	Griff was killed by DTSpartan with a cw_g3a3
+Mon Jan 22 13:05:05 2018	DTSpartan was killed by Himself with a suicide trick
+Mon Jan 22 13:05:05 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 13:05:11 2018	DTSpartan (STEAM_0:0:17131489) spawned
+Mon Jan 22 13:06:04 2018	Griff was killed by DTSpartan with a m9k_honeybadger_drp
+Mon Jan 22 13:06:38 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 13:06:43 2018	Griff was killed by DTSpartan with a m9k_m24_drp
+Mon Jan 22 13:06:45 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 13:07:13 2018	Griff was killed by DTSpartan with a m9k_dbarrel_drp
+Mon Jan 22 13:07:17 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 13:08:23 2018	Griff was killed by DTSpartan with a m9k_m416_drp
+Mon Jan 22 13:08:24 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 13:08:37 2018	Griff was killed by DTSpartan with a m9k_m14sp_drp
+Mon Jan 22 13:08:53 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 13:09:08 2018	Griff was killed by DTSpartan with a m9k_m60_drp
+Mon Jan 22 13:09:09 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 13:10:26 2018	DTSpartan (STEAM_0:0:17131489) disconnected

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "gdrugs/drugpot/weedplant_leaf_new"
+	"$bumpmap" "gdrugs/drugpot/weedplant_leaf_new_bump"
+	"$alphatest" 1
+	"$translucent" 1
+}

@@ -1,0 +1,696 @@
+[15:44:13] New map: rp_bangclaw
+[15:44:15] Client "Griff" connected.
+[15:46:02] Client "Griff" connected.
+[15:48:32] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 150 seconds).
+[15:49:34] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:53:38] Client "Bob Ross" connected.
+[15:55:06] (Console) added Griff to group superadmin
+[15:55:09] Griff: !menu
+[15:56:33] Griff: /dropmoney 500
+[15:56:52] Griff: /setmoney griff 999999
+[15:57:10] Griff: !menu
+[15:58:36] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 298 seconds).
+[15:58:59] Griff: !menu
+[15:59:07] Griff added Bob Ross to group superadmin
+[16:00:54] Dropped "Griff" from server<STEAM_0:0:51599729>
+[16:00:55] Client "Griff" connected.
+[16:01:09] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 14 seconds).
+[16:02:02] Dropped "Griff" from server<STEAM_0:0:51599729>
+[16:02:20] Client "Griff" connected.
+[16:02:38] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 18 seconds).
+[16:13:51] Bob Ross<STEAM_0:1:54818617> spawned model models/props_combine/breenglobe.mdl
+[16:15:49] Dropped "Griff" from server<STEAM_0:0:51599729>
+[16:16:09] Client "Griff" connected.
+[16:16:27] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 18 seconds).
+[16:17:00] Bob Ross cloaked Themself by amount 0
+[16:18:24] Bob Ross uncloaked Themself
+[16:18:34] Bob Ross killed Griff using player
+[16:25:23] Bob Ross: /fly
+[16:26:09] Bob Ross<STEAM_0:1:54818617> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[16:26:52] Bob Ross<STEAM_0:1:54818617> spawned model models/props_interiors/vendingmachinesoda01a_door.mdl
+[16:27:48] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+
+
+
+[16:28:43] New map: rp_bangclaw
+[16:28:47] Client "Griff" connected.
+[16:29:02] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[16:30:18] Client "Bob Ross" connected.
+[16:30:41] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 23 seconds).
+[16:40:23] Griff: /forceunlock
+[16:40:28] Griff: /forceunlock
+[16:40:32] Bob Ross: VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+[16:40:37] Bob Ross: VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+[16:40:38] Bob Ross: VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+[16:40:40] Bob Ross: VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+[16:40:42] Bob Ross: VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+[16:41:28] Griff: /ooc say "hello workd"
+[16:41:48] Bob Ross: '/forceunlock'
+[16:42:09] Bob Ross: VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+[16:42:10] Bob Ross: VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+[16:42:11] Bob Ross: VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+[16:42:29] Bob Ross: /forceunlock
+[16:42:30] Bob Ross: /forceunlock
+[16:42:31] Bob Ross: /forceunlock
+[16:42:32] Bob Ross: /forceunlock
+[16:42:58] Bob Ross: '/forcelock'
+
+
+
+[16:43:48] New map: rp_bangclaw
+[16:44:32] Client "Griff" connected.
+[16:44:49] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 17 seconds).
+[16:47:08] Griff<STEAM_0:0:51599729> spawned sent bronze_printer
+[16:47:10] Griff<STEAM_0:0:51599729> spawned sent gmod_test_panel_adv
+[16:47:21] Griff<STEAM_0:0:51599729> spawned sent sent_ball
+[16:47:22] Griff<STEAM_0:0:51599729> spawned sent sent_ball
+[16:47:25] Griff<STEAM_0:0:51599729> spawned sent gmod_wire_ramcard_proxy024
+[16:47:26] Griff<STEAM_0:0:51599729> spawned sent gmod_wire_ramcard_default024
+[16:47:30] Griff<STEAM_0:0:51599729> spawned sent darkrp_moneypot
+[16:55:26] Dropped "Griff" from server<STEAM_0:0:51599729>
+[16:55:26] Client "Griff" connected.
+[16:55:41] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+
+
+
+[17:06:34] New map: rp_bangclaw
+[17:06:40] Client "Griff" connected.
+[17:06:55] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+
+
+
+[17:11:52] New map: rp_bangclaw
+[17:11:54] Client "Griff" connected.
+[17:12:08] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 14 seconds).
+[17:13:48] Dropped "Griff" from server<STEAM_0:0:51599729>
+[17:13:49] Client "Griff" connected.
+[17:14:03] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 14 seconds).
+[17:15:58] Client "Bob Ross" connected.
+[17:16:18] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 20 seconds).
+[17:17:39] Bob Ross killed Griff using player
+
+
+
+[17:19:42] New map: rp_bangclaw
+[17:19:44] Client "Griff" connected.
+[17:19:59] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[17:20:32] Client "Bob Ross" connected.
+[17:20:52] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 20 seconds).
+[17:22:33] Bob Ross killed Griff using m9k_knife_drp
+[17:23:36] Griff: !hp
+[17:23:38] Griff: !hp 1000000
+[17:23:43] Griff: !hp griff 1000000
+[17:23:43] Griff set the hp for Themself to 1000000
+[17:24:23] Griff: !hp griff 100
+[17:24:23] Griff set the hp for Themself to 100
+[17:24:23] Bob Ross killed Griff using player
+[17:25:04] Bob Ross killed Griff using player
+[17:25:15] Bob Ross killed Griff using m9k_knife_drp
+[17:28:08] Dropped "Griff" from server<STEAM_0:0:51599729>
+[17:28:08] Client "Griff" connected.
+[17:28:23] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[17:30:21] Griff: /
+[17:30:33] Griff: /jail
+[17:30:41] Griff: /jailpos
+[17:30:46] Griff: /addjailpos
+[17:30:50] Griff: /addjailpos
+[17:30:52] Griff: /addjailpos
+[17:30:53] Griff: /addjailpos
+[17:30:55] Griff: /addjailpos
+[17:30:56] Griff: /addjailpos
+[17:30:58] Griff: /addjailpos
+[17:33:55] Bob Ross<STEAM_0:1:54818617> spawned effect models/weapons/v_pist_fokkususp.mdl
+[17:34:18] Bob Ross<STEAM_0:1:54818617> spawned model models/weapons/w_ak47_m9k.mdl
+[17:37:00] Dropped "Bob Ross" from server<STEAM_0:1:54818617>
+[17:37:01] Client "Bob Ross" connected.
+[17:37:11] Dropped "Griff" from server<STEAM_0:0:51599729>
+[17:37:11] Client "Griff" connected.
+[17:37:21] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 20 seconds).
+[17:37:26] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+
+
+
+[17:38:15] New map: rp_bangclaw
+[17:38:17] Client "Griff" connected.
+[17:38:27] Client "Bob Ross" connected.
+[17:38:32] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[17:38:46] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 19 seconds).
+[17:39:17] Bob Ross<STEAM_0:1:54818617> spawned effect models/weapons/v_navymp5.mdl
+[17:40:21] Griff created group trusted which inherits rights from group user
+[17:41:39] Bob Ross<STEAM_0:1:54818617> spawned model models/wystan/attachments/aimpoint.mdl
+[17:45:15] Bob Ross<STEAM_0:1:54818617> spawned model models/weapons/w_hk_416.mdl
+[17:45:59] Griff<STEAM_0:0:51599729> spawned model models/weapons/w_rif_m4a1.mdl
+[17:46:44] Bob Ross<STEAM_0:1:54818617> spawned model models/props_wasteland/kitchen_counter001c.mdl
+[17:52:16] Bob Ross<STEAM_0:1:54818617> spawned model models/weapons/w_pist_fokkususp.mdl
+[17:53:53] Bob Ross<STEAM_0:1:54818617> spawned model models/weapons/w_m60_machine_gun.mdl
+[17:54:13] Griff<STEAM_0:0:51599729> spawned model models/weapons/w_rif_aug.mdl
+[17:56:19] Griff killed Bob Ross using player
+[17:57:26] Bob Ross<STEAM_0:1:54818617> spawned model models/weapons/w_pist_fokkususp.mdl
+[17:58:19] Bob Ross killed Griff using player
+[17:58:40] Bob Ross<STEAM_0:1:54818617> spawned model models/weapons/w_remington_7615p.mdl
+[17:58:56] Griff<STEAM_0:0:51599729> spawned model models/weapons/w_beretta_m92.mdl
+[18:02:10] Griff killed Bob Ross using player
+[18:03:00] Griff<STEAM_0:0:51599729> spawned model models/weapons/w_brugger_thomet_mp9.mdl
+[18:03:08] Griff<STEAM_0:0:51599729> spawned model models/weapons/w_brugger_thomet_mp9.mdl
+[18:03:14] Griff<STEAM_0:0:51599729> spawned model models/weapons/w_aac_honeybadger.mdl
+[18:03:35] Bob Ross killed Griff using player
+[18:04:39] Bob Ross<STEAM_0:1:54818617> spawned model models/weapons/w_mp7_silenced.mdl
+[18:06:09] Griff: /setmoney bob 1000000
+
+
+
+[18:07:01] New map: rp_bangclaw
+[18:07:05] Client "Griff" connected.
+[18:07:06] Client "Bob Ross" connected.
+[18:07:20] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[18:07:26] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 20 seconds).
+
+
+
+[18:09:17] New map: rp_bangclaw
+[18:09:20] Client "Griff" connected.
+[18:09:24] Client "Bob Ross" connected.
+[18:09:34] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 14 seconds).
+[18:09:44] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 20 seconds).
+[18:11:32] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:12:22] Griff killed Bob Ross using player
+[18:12:47] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[18:13:03] Bob Ross killed Griff using player
+[18:18:34] Griff: !motd
+[18:19:05] Griff: !motd
+[18:20:02] Griff: !motd
+[18:20:06] Dropped "Griff" from server<STEAM_0:0:51599729>
+[18:20:06] Client "Griff" connected.
+[18:20:21] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+
+
+
+[18:20:52] New map: rp_bangclaw
+[18:21:00] Client "Griff" connected.
+[18:21:14] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 14 seconds).
+[18:21:35] Client "Bob Ross" connected.
+[18:21:55] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 20 seconds).
+[18:22:24] Bob Ross<STEAM_0:1:54818617> spawned ragdoll models/mossman.mdl
+[18:22:54] Griff: !motd
+[18:23:04] Griff: !motd
+[18:24:06] Dropped "Griff" from server<STEAM_0:0:51599729>
+[18:24:07] Client "Griff" connected.
+[18:24:21] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 14 seconds).
+[18:25:31] Dropped "Griff" from server<STEAM_0:0:51599729>
+[18:25:32] Client "Griff" connected.
+[18:25:46] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 14 seconds).
+[18:26:52] Griff: !motd
+[18:27:36] Bob Ross<STEAM_0:1:54818617> spawned ragdoll models/mossman.mdl
+[18:49:45] Bob Ross<STEAM_0:1:54818617> spawned model models/props_c17/furniturestove001a.mdl
+[18:50:16] Bob Ross<STEAM_0:1:54818617> spawned model models/props_c17/furniturestove001a.mdl
+
+
+
+[18:54:47] New map: rp_bangclaw
+[18:54:47] Client "Griff" connected.
+[18:55:02] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[18:55:38] Client "Bob Ross" connected.
+[18:55:58] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 20 seconds).
+[18:58:25] Bob Ross<STEAM_0:1:54818617> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+[18:58:56] Griff<STEAM_0:0:51599729> spawned model models/props_borealis/bluebarrel001.mdl
+[18:59:03] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:59:07] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:59:09] Griff<STEAM_0:0:51599729> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:59:12] Griff<STEAM_0:0:51599729> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:59:14] Griff<STEAM_0:0:51599729> spawned model models/props_combine/combine_fence01b.mdl
+[18:59:17] Griff<STEAM_0:0:51599729> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:59:19] Bob Ross was killed by prop_physics
+[18:59:55] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate6x6.mdl
+[18:59:59] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate5x5.mdl
+[19:00:01] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate5x5.mdl
+[19:01:04] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/metal_tube.mdl
+[19:02:39] Griff<STEAM_0:0:51599729> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:03:06] Griff<STEAM_0:0:51599729> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:05:13] Griff<STEAM_0:0:51599729> spawned sent simple_printer
+[19:05:14] Griff<STEAM_0:0:51599729> spawned sent silver_printer
+[19:05:15] Bob Ross<STEAM_0:1:54818617> spawned sent bronze_printer
+[19:05:17] Bob Ross<STEAM_0:1:54818617> spawned sent bronze_printer
+[19:05:17] Griff<STEAM_0:0:51599729> spawned sent universal_ammo
+[19:05:17] Bob Ross<STEAM_0:1:54818617> spawned sent gold_printer
+[19:05:20] Bob Ross<STEAM_0:1:54818617> spawned sent simple_printer
+[19:05:22] Griff<STEAM_0:0:51599729> spawned sent gold_printer
+[19:05:25] Bob Ross<STEAM_0:1:54818617> spawned sent gmod_test_panel_adv
+[19:05:37] Bob Ross<STEAM_0:1:54818617> spawned sent keypad
+[19:05:48] Griff<STEAM_0:0:51599729> spawned sent gmod_test_panel_adv
+[19:05:50] Griff<STEAM_0:0:51599729> spawned sent gold_printer
+[19:05:54] Griff<STEAM_0:0:51599729> spawned sent gold_printer
+[19:05:57] Griff<STEAM_0:0:51599729> spawned sent gold_printer
+[19:06:48] Griff<STEAM_0:0:51599729> spawned sent gmt_instrument_piano
+[19:07:01] Griff<STEAM_0:0:51599729> spawned sent gmt_instrument_piano
+[19:13:24] Bob Ross<STEAM_0:1:54818617> spawned model models/props_lab/reciever01a.mdl
+[19:13:28] Bob Ross<STEAM_0:1:54818617> spawned model models/props_lab/reciever01b.mdl
+[19:14:28] Bob Ross: // lets do 5 or 7
+[19:15:27] Bob Ross: // t1 250, t2 500, t3 1000, t4 2500, t5 5000
+[19:16:37] Griff: tyler
+
+
+
+[19:17:25] New map: rp_bangclaw
+[19:18:00] Client "Griff" connected.
+[19:18:15] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[19:18:19] Client "Bob Ross" connected.
+[19:18:38] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 19 seconds).
+[19:19:49] Griff<STEAM_0:0:51599729> spawned sent t1printer
+[19:20:03] Bob Ross<STEAM_0:1:54818617> spawned sent t1printer
+[19:20:16] Griff<STEAM_0:0:51599729> spawned sent t2printer
+[19:21:13] Griff<STEAM_0:0:51599729> spawned model models/props_c17/furniturebathtub001a.mdl
+
+
+
+[19:28:25] New map: rp_bangclaw
+[19:28:37] Client "Bob Ross" connected.
+[19:29:03] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 26 seconds).
+[19:29:34] Client "Griff" connected.
+[19:29:48] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 14 seconds).
+[19:32:00] Dropped "Griff" from server<STEAM_0:0:51599729>
+[19:32:00] Client "Griff" connected.
+[19:32:16] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 16 seconds).
+[19:33:02] Dropped "Bob Ross" from server<STEAM_0:1:54818617>
+[19:33:03] Client "Bob Ross" connected.
+[19:33:21] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 18 seconds).
+
+
+
+[19:35:05] New map: rp_bangclaw
+[19:35:12] Client "Griff" connected.
+[19:35:15] Client "Bob Ross" connected.
+[19:35:27] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[19:35:34] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 19 seconds).
+[19:36:59] Bob Ross<STEAM_0:1:54818617> spawned model models/props_wasteland/kitchen_stove002a.mdl
+[19:37:10] Bob Ross<STEAM_0:1:54818617> spawned model models/props_wasteland/kitchen_fridge001a.mdl
+[19:37:48] Bob Ross<STEAM_0:1:54818617> spawned model models/props_doors/door03_slotted_left.mdl
+[19:38:37] Client "Hell Fire" connected.
+[19:40:21] Client "Hell Fire" spawned in server <STEAM_0:1:20129756> (took 104 seconds).
+[19:40:35] Bob Ross<STEAM_0:1:54818617> spawned model models/props_combine/breenglobe.mdl
+[19:40:37] Bob Ross<STEAM_0:1:54818617> spawned model models/props_combine/breendesk.mdl
+[19:40:43] Griff added Hell Fire to group superadmin
+[19:42:37] Griff<STEAM_0:0:51599729> spawned sent gmt_instrument_piano
+[19:44:40] Hell Fire<STEAM_0:1:20129756> spawned model models/props_borealis/bluebarrel001.mdl
+[19:45:09] Griff<STEAM_0:0:51599729> spawned sent sent_ball
+[19:45:10] Bob Ross<STEAM_0:1:54818617> spawned effect models/props_lab/eyescanner.mdl
+[19:45:14] Bob Ross<STEAM_0:1:54818617> spawned model models/props_lab/partsbin01.mdl
+[19:45:23] Bob Ross<STEAM_0:1:54818617> spawned effect models/props_lab/headcrabprep.mdl
+[19:45:35] Bob Ross<STEAM_0:1:54818617> spawned model models/props_lab/cactus.mdl
+[19:46:00] Bob Ross<STEAM_0:1:54818617> spawned model models/props_lab/servers.mdl
+[19:46:00] Griff<STEAM_0:0:51599729> spawned model models/props_lab/reciever_cart.mdl
+[19:46:22] Bob Ross<STEAM_0:1:54818617> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[19:46:29] Bob Ross<STEAM_0:1:54818617> spawned model models/props_combine/combine_interface001.mdl
+[19:46:40] Bob Ross<STEAM_0:1:54818617> spawned model models/props_lab/workspace001.mdl
+[19:47:28] Bob Ross<STEAM_0:1:54818617> spawned model models/props_wasteland/cranemagnet01a.mdl
+
+
+
+[19:48:48] New map: rp_bangclaw
+[19:48:51] Client "Griff" connected.
+[19:49:06] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[19:49:09] Client "Bob Ross" connected.
+[19:49:29] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 20 seconds).
+[19:50:07] Client "Hell Fire" connected.
+[19:50:22] Client "Hell Fire" spawned in server <STEAM_0:1:20129756> (took 15 seconds).
+[19:52:07] Griff killed Hell Fire using player
+[19:53:35] Bob Ross jailed Griff
+[19:53:46] Griff: !unjail
+[19:53:49] Griff: !unjail griff
+[19:53:49] Griff unjailed Themself
+[19:55:18] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x3.mdl
+[19:55:25] Client "mitchellfrankland" connected.
+[19:56:31] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x1.mdl
+[19:57:54] Hell Fire<STEAM_0:1:20129756> spawned model models/props_junk/cinderblock01a.mdl
+[19:57:57] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x8.mdl
+[19:57:58] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[20:01:44] Hell Fire<STEAM_0:1:20129756> spawned model models/props_interiors/furniture_couch02a.mdl
+[20:09:31] Hell Fire<STEAM_0:1:20129756> spawned model models/props_junk/cinderblock01a.mdl
+[20:09:34] Hell Fire<STEAM_0:1:20129756> spawned model models/props_junk/cinderblock01a.mdl
+[20:09:49] Hell Fire<STEAM_0:1:20129756> spawned model models/props_junk/ibeam01a_cluster01.mdl
+[20:10:46] Hell Fire<STEAM_0:1:20129756> spawned model models/props_trainstation/tracksign03.mdl
+[20:10:52] Hell Fire<STEAM_0:1:20129756> spawned model models/props_trainstation/tracksign07.mdl
+[20:11:02] Hell Fire<STEAM_0:1:20129756> spawned model models/props_wasteland/wood_fence01a.mdl
+[20:11:10] Hell Fire<STEAM_0:1:20129756> spawned model models/props_wasteland/wood_fence01a.mdl
+[20:11:20] Hell Fire<STEAM_0:1:20129756> spawned model models/props_wasteland/wood_fence01a.mdl
+[20:11:35] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/canister_propane01a.mdl
+[20:11:38] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/chair02a.mdl
+[20:11:47] Hell Fire<STEAM_0:1:20129756> spawned model models/hunter/plates/plate1x2.mdl
+[20:11:55] Hell Fire<STEAM_0:1:20129756> spawned model models/hunter/plates/plate1x1.mdl
+[20:12:09] Griff: .add hell
+[20:12:09] Hell Fire<STEAM_0:1:20129756> spawned model models/props_lab/clipboard.mdl
+[20:12:14] Hell Fire<STEAM_0:1:20129756> spawned model models/props_interiors/furniture_chair01a.mdl
+[20:12:16] Griff: .add jim
+[20:12:21] Griff: .add jim
+[20:12:26] Griff: .add bob
+[20:12:29] Griff: .add hell
+[20:12:43] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/furnitureshelf001b.mdl
+[20:13:07] Hell Fire<STEAM_0:1:20129756> spawned model models/props_junk/harpoon002a.mdl
+[20:13:12] Hell Fire<STEAM_0:1:20129756> spawned model models/gibs/hgibs_rib.mdl
+[20:13:18] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/playground_teetertoter_seat.mdl
+[20:13:23] Hell Fire<STEAM_0:1:20129756> spawned model models/props_junk/ravenholmsign.mdl
+[20:13:26] Hell Fire<STEAM_0:1:20129756> spawned model models/props_junk/shovel01a.mdl
+[20:13:59] Hell Fire<STEAM_0:1:20129756> spawned model models/props_junk/shovel01a.mdl
+[20:14:32] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/metal_tubex2.mdl
+[20:14:39] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/metal_tube.mdl
+[20:15:01] Hell Fire<STEAM_0:1:20129756> spawned model models/props_trainstation/traincar_seats001.mdl
+[20:15:19] Hell Fire<STEAM_0:1:20129756> spawned model models/props_lab/monitor01a.mdl
+[20:15:27] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/trappropeller_lever.mdl
+[20:15:51] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/trappropeller_lever.mdl
+[20:16:54] Hell Fire<STEAM_0:1:20129756> spawned model models/props_vehicles/carparts_muffler01a.mdl
+[20:17:00] Griff: .add bob
+[20:17:07] Hell Fire<STEAM_0:1:20129756> spawned model models/props_vehicles/carparts_muffler01a.mdl
+[20:17:13] Hell Fire<STEAM_0:1:20129756> spawned model models/props_vehicles/carparts_muffler01a.mdl
+[20:17:21] Griff: .add bob
+[20:17:25] Griff: .add hell
+[20:17:38] Griff: .add bob
+[20:18:00] Hell Fire<STEAM_0:1:20129756> spawned model models/props_vehicles/carparts_muffler01a.mdl
+[20:18:36] Hell Fire<STEAM_0:1:20129756> spawned model models/gibs/helicopter_brokenpiece_06_body.mdl
+[20:18:47] Hell Fire<STEAM_0:1:20129756> spawned model models/props_lab/monitor01a.mdl
+[20:18:50] Griff: .add bob
+[20:18:53] Griff: y
+[20:19:07] Hell Fire<STEAM_0:1:20129756> spawned model models/props_lab/bindergraylabel01a.mdl
+[20:19:10] Griff: .add bob
+[20:19:13] Hell Fire<STEAM_0:1:20129756> spawned model models/props_lab/plotter.mdl
+[20:20:03] Griff: t
+[20:20:11] Griff: .add bob
+[20:20:14] Griff: .add hell
+[20:20:30] Griff: t
+[20:20:35] Griff: .add hell
+[20:20:40] Hell Fire<STEAM_0:1:20129756> spawned effect models/props_lab/chess.mdl
+[20:20:49] Griff: .add bob
+[20:20:54] Hell Fire<STEAM_0:1:20129756> spawned model models/props_trainstation/trainstation_clock001.mdl
+[20:20:59] Hell Fire<STEAM_0:1:20129756> spawned model models/props_junk/meathook001a.mdl
+[20:21:08] Griff: .add bob
+[20:21:13] Griff: .add hell
+[20:21:28] Griff: .add hell
+[20:23:16] Griff: .add bob
+[20:23:17] Griff: t
+[20:23:22] Griff: .add bob
+[20:23:24] Griff: .add hell
+[20:23:39] Griff: .add hell
+[20:23:40] Griff: t
+[20:23:46] Griff: .add hell
+[20:25:14] Griff: t
+[20:26:23] Griff: .add hell
+[20:26:25] Griff: .add bob
+[20:26:31] Griff: .add hell
+[20:27:12] Griff: t
+[20:27:56] Griff: .add hell
+[20:27:58] Griff: .add hell
+[20:28:02] Griff: .add bob
+[20:30:53] Griff: t
+[20:30:55] Griff: t
+[20:31:07] Bob Ross: im gay
+[20:31:26] Griff: .add hell
+[20:31:29] Griff: .add hell
+[20:31:31] Griff: .add bob
+[20:31:33] Griff: .add bob
+[20:31:34] Griff: .add bob
+[20:31:44] Griff: tt
+[20:31:50] Griff: .add hell
+[20:31:53] Griff: .add bob
+[20:33:16] Griff: .add bob
+[20:33:18] Griff: .add hell
+[20:33:36] Griff: .add bob
+[20:34:39] Griff: .add bob
+[20:34:41] Griff: .add bob
+[20:34:43] Griff: .add hell
+[20:38:03] Griff: .add bob
+[20:38:05] Griff: .add bob
+[20:38:07] Griff: .add bob
+[20:39:07] Griff: .add bob
+[20:39:09] Griff: .add hell
+[20:39:28] Griff: .add bob
+[20:39:30] Griff: .add bob
+[20:39:32] Griff: .add bob
+[20:39:48] Griff: .add bob
+[20:39:50] Griff: .add hell
+[20:40:22] Griff: t
+[20:40:32] Griff: tt
+[20:40:34] Griff: t
+[20:40:36] Griff: t
+[20:40:39] Griff: .add bob
+[20:41:39] Griff: .add bob
+[20:42:48] Griff: t
+[20:42:53] Griff: t
+[20:42:55] Griff: .add bob
+[20:43:05] Griff: t
+[20:43:07] Griff: .add bob
+[20:43:48] Griff: t
+[20:52:48] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[20:52:59] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[20:53:41] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x2.mdl
+[20:53:43] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[20:54:30] Griff: t
+[20:54:34] Griff: .add hell
+[20:54:44] Griff: t
+[20:54:48] Griff: t
+[20:54:56] Griff: t
+[20:55:00] Griff: .add bob
+[20:55:02] Griff: t
+[20:55:28] Griff: t
+[20:55:28] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[20:55:29] Griff: y
+[20:55:32] Griff: .add bob
+[20:58:17] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[20:58:40] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[20:58:58] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[20:59:17] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/metal_tube.mdl
+[20:59:20] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/metal_tube.mdl
+[20:59:37] Griff: .add bob
+[21:00:41] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/metal_tube.mdl
+[21:00:41] Bob Ross<STEAM_0:1:54818617> spawned effect models/items/item_item_crate_dynamic.mdl
+[21:01:00] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[21:01:37] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:02:22] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:03:04] Client "BossKillerYT" connected.
+[21:03:15] Griff: .dist 200
+[21:04:26] Griff: .dist 200
+[21:04:51] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/metal_tube.mdl
+[21:05:01] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/metal_tube.mdl
+[21:05:06] Griff: .add Bob
+[21:05:11] Griff: .add Griff
+[21:05:33] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/metal_tube.mdl
+[21:06:18] Client "BossKillerYT" spawned in server <STEAM_0:0:153167494> (took 194 seconds).
+[21:07:15] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/metal_tube.mdl
+[21:07:56] Griff killed Hell Fire using player
+[21:09:58] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[21:13:37] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate5x5.mdl
+[21:13:39] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate4x6.mdl
+[21:13:40] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[21:13:42] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate3x3.mdl
+[21:13:47] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate3x3.mdl
+[21:14:07] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate6x6.mdl
+[21:14:09] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate5x6.mdl
+[21:14:12] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[21:14:21] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate4x4.mdl
+[21:14:34] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate4x4.mdl
+[21:14:41] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate4x4.mdl
+[21:14:49] Griff: .add hell
+[21:14:51] Griff: .add bob
+[21:17:56] Dropped "Hell Fire" from server<STEAM_0:1:20129756>
+[21:19:20] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x3.mdl
+[21:19:20] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x3.mdl
+[21:19:21] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x1.mdl
+[21:19:21] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x3.mdl
+[21:19:21] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x3.mdl
+[21:19:21] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x1.mdl
+[21:19:21] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x3.mdl
+[21:19:21] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x3.mdl
+[21:19:21] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x1.mdl
+[21:19:21] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x3.mdl
+[21:19:55] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:20:05] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x1.mdl
+[21:20:05] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x3.mdl
+[21:20:05] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x3.mdl
+[21:20:05] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x1.mdl
+[21:20:05] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x3.mdl
+[21:20:05] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x3.mdl
+[21:20:05] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x3.mdl
+[21:20:05] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x3.mdl
+[21:20:05] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x1.mdl
+[21:20:05] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x3.mdl
+[21:20:16] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[21:20:16] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:20:16] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:20:16] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[21:20:16] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:20:16] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:20:16] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:20:16] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:20:16] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[21:20:16] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+
+
+
+[21:21:07] New map: rp_bangclaw
+[21:21:11] Client "Griff" connected.
+[21:21:26] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[21:21:44] Client "Bob Ross" connected.
+[21:22:05] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 21 seconds).
+[21:49:00] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:49:00] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:49:00] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:49:00] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:49:00] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:49:00] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:49:00] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[21:49:00] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[21:49:00] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[21:49:00] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:49:44] Bob Ross<STEAM_0:1:54818617> spawned model models/props_c17/lampshade001a.mdl
+[21:49:59] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:49:59] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:49:59] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:49:59] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:49:59] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:49:59] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:49:59] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[21:49:59] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[21:49:59] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[21:49:59] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:50:10] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:50:10] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:50:10] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:50:10] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:50:10] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:50:10] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:50:10] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[21:50:10] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[21:50:10] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[21:50:10] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:50:50] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:50:50] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:50:50] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:50:50] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:50:50] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:50:50] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:50:50] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[21:50:50] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[21:50:50] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[21:50:50] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[21:51:14] Bob Ross<STEAM_0:1:54818617> spawned model models/props_c17/furniturestove001a.mdl
+[21:51:15] Griff<STEAM_0:0:51599729> spawned model models/props_c17/concrete_barrier001a.mdl
+[21:51:19] Bob Ross<STEAM_0:1:54818617> spawned model models/props_c17/furniturestove001a.mdl
+[21:51:19] Griff<STEAM_0:0:51599729> spawned model models/props_c17/concrete_barrier001a.mdl
+[21:53:57] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/plastic/plastic_angle_360.mdl
+[21:55:15] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/plastic/plastic_angle_360.mdl
+[21:57:11] Griff<STEAM_0:0:51599729> spawned model models/props_c17/consolebox03a.mdl
+[21:58:05] Client "FireFlare" connected.
+[22:00:31] Client "FireFlare" spawned in server <STEAM_0:0:88760806> (took 146 seconds).
+[22:01:12] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x1.mdl
+[22:01:46] FireFlare<STEAM_0:0:88760806> spawned model models/props_c17/concrete_barrier001a.mdl
+[22:01:50] FireFlare<STEAM_0:0:88760806> spawned model models/props_c17/furniturecouch001a.mdl
+[22:02:36] FireFlare: were are you 
+[22:05:04] FireFlare: WERE ARE YOU GUYS!!
+[22:06:09] FireFlare<STEAM_0:0:88760806> spawned model models/props_borealis/door_wheel001a.mdl
+[22:06:16] FireFlare<STEAM_0:0:88760806> spawned ragdoll models/player/scout.mdl
+[22:07:37] FireFlare<STEAM_0:0:88760806> spawned model models/props_2fort/chimney003.mdl
+[22:07:45] Dropped "FireFlare" from server<STEAM_0:0:88760806>
+[22:21:26] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[22:21:32] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x3.mdl
+[22:23:41] Griff: .add bob
+[22:24:22] Griff: .add bob
+[22:25:13] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[22:25:17] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x1.mdl
+[22:27:08] Griff: .add bob
+[22:27:29] Griff: .add bob
+[22:31:11] Griff: y
+[22:31:51] Client "Hyper" connected.
+[22:33:20] Client "Hyper" spawned in server <STEAM_0:0:66617318> (took 89 seconds).
+[22:34:15] Griff: .add hyper
+[22:34:58] Griff: !menu
+[22:35:06] Griff added Hyper to group admin
+[22:35:09] Client "not a girl gamer" connected.
+[22:36:28] Hyper<STEAM_0:0:66617318> spawned model models/props_phx/construct/wood/wood_wire1x1x1.mdl
+[22:36:29] Client "not a girl gamer" spawned in server <STEAM_0:0:98691242> (took 80 seconds).
+[22:36:29] Hyper<STEAM_0:0:66617318> spawned model models/props_phx/construct/wood/wood_wire1x1x1.mdl
+[22:36:30] Hyper<STEAM_0:0:66617318> spawned model models/props_phx/construct/wood/wood_wire1x1x1.mdl
+[22:40:25] Hyper<STEAM_0:0:66617318> spawned model models/props_phx/construct/wood/wood_curve360x2.mdl
+[22:40:38] Hyper<STEAM_0:0:66617318> spawned model models/props_phx/construct/wood/wood_curve360x2.mdl
+[22:42:58] Griff: /setmoney hyper 1000000
+[22:44:11] Hyper<STEAM_0:0:66617318> spawned model models/props/cs_office/sofa.mdl
+[22:45:07] Hyper<STEAM_0:0:66617318> spawned model models/props/cs_militia/footlocker01_open.mdl
+[22:46:23] Hyper<STEAM_0:0:66617318> spawned model models/props/cs_assault/acunit02.mdl
+[22:46:58] Dropped "not a girl gamer" from server<STEAM_0:0:98691242>
+[22:47:37] Griff<STEAM_0:0:51599729> spawned model models/hunter/blocks/cube025x025x025.mdl
+[22:48:39] Hyper<STEAM_0:0:66617318> spawned model models/props/cs_militia/wood_table.mdl
+[22:52:26] Hyper<STEAM_0:0:66617318> spawned model models/props/cs_militia/bar01.mdl
+[22:53:19] Hyper<STEAM_0:0:66617318> spawned model models/props/cs_office/computer_monitor.mdl
+[22:53:47] Hyper<STEAM_0:0:66617318> spawned model models/props/cs_office/computer_mouse.mdl
+[22:55:57] Hyper<STEAM_0:0:66617318> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[22:56:20] Hyper<STEAM_0:0:66617318> spawned model models/props/cs_office/computer_monitor.mdl
+[22:56:49] Hyper killed Griff using player
+[22:57:11] Hyper<STEAM_0:0:66617318> spawned model models/weapons/w_rif_ak47.mdl
+[22:57:15] Hyper<STEAM_0:0:66617318> spawned model models/weapons/w_rif_ak47.mdl
+[22:57:15] Hyper<STEAM_0:0:66617318> spawned model models/weapons/w_rif_ak47.mdl
+[22:57:16] Hyper<STEAM_0:0:66617318> spawned model models/weapons/w_rif_ak47.mdl
+[22:57:16] Hyper<STEAM_0:0:66617318> spawned model models/weapons/w_rif_ak47.mdl
+[22:58:09] Griff killed Hyper using player
+[22:59:07] Griff: /drop
+[22:59:10] Griff: /drop
+[22:59:14] Griff: /drop
+[22:59:39] Hyper<STEAM_0:0:66617318> spawned model models/weapons/w_smg_ump45.mdl
+[22:59:53] Hyper<STEAM_0:0:66617318> spawned model models/weapons/w_smg_ump45.mdl
+[22:59:55] Hyper<STEAM_0:0:66617318> spawned model models/weapons/w_smg_ump45.mdl
+[23:01:29] Hyper killed Griff using player
+[23:02:01] Griff killed Hyper using player
+[23:04:23] Hyper killed Griff using player
+[23:05:48] Hyper<STEAM_0:0:66617318> spawned ragdoll models/humans/group03m/male_07.mdl
+[23:07:05] Hyper<STEAM_0:0:66617318> spawned ragdoll models/humans/group03m/male_09.mdl
+[23:08:24] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[23:08:40] Griff: .add hyper
+[23:09:57] Hyper<STEAM_0:0:66617318> spawned model models/hunter/plates/plate1x1.mdl
+[23:11:11] Griff: .add griff
+[23:11:18] Hyper: .add griff
+[23:11:50] Griff: .add hyper
+[23:11:52] Griff: .add griff
+[23:11:55] Griff: .add bob
+[23:12:35] Hyper<STEAM_0:0:66617318> spawned model models/items/ammocrate_ar2.mdl
+[23:12:41] Hyper<STEAM_0:0:66617318> spawned model models/items/ammocrate_grenade.mdl
+[23:15:56] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x1.mdl
+[23:16:17] Hyper: /requestlicense
+[23:16:25] Hyper: /unownalldoors
+[23:18:00] Hyper<STEAM_0:0:66617318> spawned model models/hunter/blocks/cube6x8x05.mdl
+[23:18:16] Hyper<STEAM_0:0:66617318> spawned model models/props_phx/construct/metal_plate2x2.mdl
+[23:18:51] Hyper<STEAM_0:0:66617318> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:20:13] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[23:20:13] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[23:20:13] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[23:20:13] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[23:20:13] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[23:20:13] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[23:20:13] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[23:20:13] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[23:20:13] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[23:20:13] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[23:20:15] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[23:20:19] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[23:20:21] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[23:20:44] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[23:20:44] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[23:20:45] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[23:21:41] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[23:21:41] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[23:21:41] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[23:21:41] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[23:21:41] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[23:21:41] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[23:21:41] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[23:21:41] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[23:21:41] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[23:21:41] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[23:21:50] Hyper<STEAM_0:0:66617318> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:23:11] Hyper<STEAM_0:0:66617318> spawned model models/props_interiors/bathtub01a.mdl
+[23:23:30] Hyper<STEAM_0:0:66617318> spawned model models/props_interiors/furniture_desk01a.mdl
+[23:23:54] Hyper<STEAM_0:0:66617318> spawned model models/props_interiors/furniture_desk01a.mdl
+[23:24:00] Hyper<STEAM_0:0:66617318> spawned model models/props_interiors/furniture_couch01a.mdl
+[23:24:40] Hyper<STEAM_0:0:66617318> spawned model models/props_c17/furnituretable003a.mdl
+[23:24:45] Hyper<STEAM_0:0:66617318> spawned model models/props_c17/furnituretable003a.mdl
+[23:27:50] Dropped "Hyper" from server<STEAM_0:0:66617318>
+[23:37:04] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/blocks/cube025x125x025.mdl
+[23:37:45] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[23:45:20] Bob Ross<STEAM_0:1:54818617> spawned model models/props_c17/chair02a.mdl
+[23:49:44] Griff killed Bob Ross using player
+[23:50:58] Dropped "Griff" from server<STEAM_0:0:51599729>
+[23:51:07] Dropped "Bob Ross" from server<STEAM_0:1:54818617>

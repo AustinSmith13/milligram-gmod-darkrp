@@ -1,0 +1,9 @@
+Thu Jan 18 21:23:00 2018	Griff (STEAM_0:0:51599729) has joined the game
+Thu Jan 18 21:23:00 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 21:23:16 2018	Bob Ross (STEAM_0:1:54818617) has joined the game
+Thu Jan 18 21:23:16 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 21:27:23 2018	Griff was killed by Entity [1396][env_explosion] with a env_explosion
+Thu Jan 18 21:27:24 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 21:27:38 2018	Tyler Gates was killed by Entity [642][trigger_hurt] with a trigger_hurt
+Thu Jan 18 21:27:40 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 21:30:32 2018	Tyler Gates (STEAM_0:1:54818617): /forceunlock

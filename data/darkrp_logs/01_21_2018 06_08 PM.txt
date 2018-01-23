@@ -1,0 +1,487 @@
+Sun Jan 21 18:08:11 2018	Griff (STEAM_0:0:51599729) has joined the game
+Sun Jan 21 18:08:11 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 18:08:14 2018	Hell Fire (STEAM_0:1:20129756) has joined the game
+Sun Jan 21 18:08:14 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 18:08:21 2018	Bob Ross (STEAM_0:1:54818617) has joined the game
+Sun Jan 21 18:08:21 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 18:09:44 2018	Griff was killed by Bob Ross with a cw_ar15
+Sun Jan 21 18:09:45 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 18:09:48 2018	Bob Ross was killed by Hell Fire with a weapon_ar2
+Sun Jan 21 18:09:49 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 18:10:46 2018	Hell Fire was killed by Griff with a cw_ak74
+Sun Jan 21 18:10:47 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 18:11:28 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:11:29 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 18:11:37 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:11:38 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 18:12:18 2018	Griff was killed by Hell Fire with a crossbow_bolt
+Sun Jan 21 18:12:21 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 18:12:26 2018	Bob Ross was killed by Hell Fire with a crossbow_bolt
+Sun Jan 21 18:12:27 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 18:13:17 2018	Bob Ross (STEAM_0:1:54818617): /forceunlock
+Sun Jan 21 18:13:17 2018	Bob Ross (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Sun Jan 21 18:13:19 2018	Bob Ross (STEAM_0:1:54818617): /forcelock
+Sun Jan 21 18:13:19 2018	Bob Ross (STEAM_0:1:54818617) force-locked a door with forcelock (locked door is saved)
+Sun Jan 21 18:13:20 2018	Bob Ross (STEAM_0:1:54818617): /forcelock
+Sun Jan 21 18:13:20 2018	Bob Ross (STEAM_0:1:54818617) force-locked a door with forcelock (locked door is saved)
+Sun Jan 21 18:14:03 2018	Bob Ross was killed by Hell Fire with a rpg_missile
+Sun Jan 21 18:14:34 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 18:14:40 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 18:15:00 2018	_yunomi (STEAM_0:1:28404604) has joined the game
+Sun Jan 21 18:15:00 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 18:15:01 2018	Hell Fire was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:15:03 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 18:15:34 2018	Bob Ross (STEAM_0:1:54818617): /forceunlock
+Sun Jan 21 18:15:34 2018	Bob Ross (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Sun Jan 21 18:15:52 2018	Bob Ross (STEAM_0:1:54818617): /forceunlock
+Sun Jan 21 18:15:52 2018	Bob Ross (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Sun Jan 21 18:16:06 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 18:16:07 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 18:16:25 2018	Bob Ross (STEAM_0:1:54818617) spawned SENT gd_dealer
+Sun Jan 21 18:17:07 2018	connor mccrabber (STEAM_0:0:42760088) has joined the game
+Sun Jan 21 18:17:07 2018	connor mccrabber (STEAM_0:0:42760088) spawned
+Sun Jan 21 18:17:39 2018	connor mccrabber (STEAM_0:0:42760088): // CAN I TALK 2 DA DEVLEOPER
+Sun Jan 21 18:17:49 2018	Hell Fire (STEAM_0:1:20129756): // Are you a hacker?
+Sun Jan 21 18:17:51 2018	_yunomi (STEAM_0:1:28404604): // yes
+Sun Jan 21 18:17:55 2018	connor mccrabber (STEAM_0:0:42760088): // yes
+Sun Jan 21 18:18:00 2018	Hell Fire (STEAM_0:1:20129756): // Im a super hacker and super geniuse as well
+Sun Jan 21 18:18:02 2018	_yunomi (STEAM_0:1:28404604): // what are YOU going to do about it
+Sun Jan 21 18:18:11 2018	Hell Fire (STEAM_0:1:20129756): // My mom tells me im very smart
+Sun Jan 21 18:18:52 2018	Bob Ross was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:18:54 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 18:19:10 2018	connor mccrabber was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:19:12 2018	connor mccrabber (STEAM_0:0:42760088) spawned
+Sun Jan 21 18:19:16 2018	Hitman Hell Fire accepted a hit on _yunomi, ordered by Griff for $200
+Sun Jan 21 18:19:31 2018	Hit on _yunomi failed. Reason: The target has died!
+Sun Jan 21 18:19:31 2018	_yunomi was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:19:33 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 18:19:43 2018	Hell Fire was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:19:44 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 18:20:09 2018	Bob Ross (STEAM_0:1:54818617): /setjailpos
+Sun Jan 21 18:20:19 2018	Bob Ross (STEAM_0:1:54818617): /addjailpos
+Sun Jan 21 18:20:28 2018	Bob Ross (STEAM_0:1:54818617): /addjailpos
+Sun Jan 21 18:20:59 2018	connor mccrabber was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:21:00 2018	connor mccrabber (STEAM_0:0:42760088) spawned
+Sun Jan 21 18:21:05 2018	Griff (STEAM_0:0:51599729): /forcelock
+Sun Jan 21 18:21:05 2018	Griff (STEAM_0:0:51599729) force-locked a door with forcelock (locked door is saved)
+Sun Jan 21 18:21:06 2018	Bob Ross (STEAM_0:1:54818617): /forceunlock
+Sun Jan 21 18:21:06 2018	Bob Ross (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Sun Jan 21 18:21:07 2018	Griff (STEAM_0:0:51599729): /forceunlock
+Sun Jan 21 18:21:07 2018	Griff (STEAM_0:0:51599729) force-unlocked a door with forcelock (unlocked door is saved)
+Sun Jan 21 18:21:19 2018	Bob Ross (STEAM_0:1:54818617): /forceunlock
+Sun Jan 21 18:21:19 2018	Bob Ross (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Sun Jan 21 18:21:43 2018	_yunomi was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:21:44 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:21:46 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 18:21:47 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 18:21:49 2018	Bob Ross was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:21:50 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 18:24:57 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:24:58 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 18:25:44 2018	Hitman Hell Fire accepted a hit on _yunomi, ordered by Griff for $200
+Sun Jan 21 18:25:47 2018	Hitman Hell Fire finished a hit on _yunomi, ordered by Griff for $200
+Sun Jan 21 18:25:47 2018	_yunomi was killed by Hell Fire with a m9k_hk45_drp
+Sun Jan 21 18:25:51 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 18:26:28 2018	_yunomi (STEAM_0:1:28404604): // im a hacker
+Sun Jan 21 18:26:34 2018	Griff (STEAM_0:0:51599729): // heckerman
+Sun Jan 21 18:26:45 2018	_yunomi (STEAM_0:1:28404604): hi
+Sun Jan 21 18:27:08 2018	_yunomi (STEAM_0:1:28404604): /medic
+Sun Jan 21 18:27:19 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 18:28:06 2018	_yunomi (STEAM_0:1:28404604): uh
+Sun Jan 21 18:28:08 2018	_yunomi (STEAM_0:1:28404604): what do you mean
+Sun Jan 21 18:28:11 2018	_yunomi (STEAM_0:1:28404604): im not his friend
+Sun Jan 21 18:28:15 2018	_yunomi (STEAM_0:1:28404604): i dont know him
+Sun Jan 21 18:29:14 2018	Griff (STEAM_0:0:51599729) spawned SENT gd_ket
+Sun Jan 21 18:29:32 2018	Griff (STEAM_0:0:51599729) spawned SENT gd_ket
+Sun Jan 21 18:29:34 2018	Griff (STEAM_0:0:51599729) spawned SENT gd_lsd
+Sun Jan 21 18:29:35 2018	Griff (STEAM_0:0:51599729) spawned SENT gd_lsd
+Sun Jan 21 18:29:59 2018	Griff (STEAM_0:0:51599729) spawned SENT gd_redwine
+Sun Jan 21 18:30:00 2018	Griff (STEAM_0:0:51599729) spawned SENT gd_shrooms
+Sun Jan 21 18:30:00 2018	Griff was killed by Himself with a suicide trick
+Sun Jan 21 18:30:01 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 18:30:05 2018	Griff (STEAM_0:0:51599729) spawned SENT gd_shrooms
+Sun Jan 21 18:30:08 2018	Griff (STEAM_0:0:51599729) spawned SENT gd_vodka
+Sun Jan 21 18:30:10 2018	Griff (STEAM_0:0:51599729) spawned SENT gd_mdma
+Sun Jan 21 18:30:13 2018	Griff (STEAM_0:0:51599729) spawned SENT gd_buyer
+Sun Jan 21 18:30:15 2018	Griff (STEAM_0:0:51599729) spawned SENT gd_coke
+Sun Jan 21 18:30:18 2018	Griff (STEAM_0:0:51599729) spawned SENT gd_meth
+Sun Jan 21 18:30:18 2018	Griff was killed by Himself with a suicide trick
+Sun Jan 21 18:30:21 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 18:30:32 2018	Bob Ross was killed by Griff with a m9k_m29satan_drp
+Sun Jan 21 18:30:33 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 18:31:11 2018	_yunomi (STEAM_0:1:28404604): period blood
+Sun Jan 21 18:32:32 2018	connor mccrabber was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:32:47 2018	_yunomi was killed by Himself with a suicide trick
+Sun Jan 21 18:32:49 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 18:32:53 2018	connor mccrabber (STEAM_0:0:42760088) spawned
+Sun Jan 21 18:34:42 2018	connor mccrabber (STEAM_0:0:42760088) spawned
+Sun Jan 21 18:34:44 2018	connor mccrabber (STEAM_0:0:42760088): /chief
+Sun Jan 21 18:34:52 2018	connor mccrabber (STEAM_0:0:42760088): /chief
+Sun Jan 21 18:34:54 2018	connor mccrabber (STEAM_0:0:42760088) spawned
+Sun Jan 21 18:35:39 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 18:35:53 2018	_yunomi was killed by Himself with a suicide trick
+Sun Jan 21 18:35:54 2018	connor mccrabber (STEAM_0:0:42760088): /setjailpos
+Sun Jan 21 18:35:56 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 18:36:26 2018	_yunomi was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:36:28 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 18:37:40 2018	connor mccrabber (STEAM_0:0:42760088): /setjailpos
+Sun Jan 21 18:38:01 2018	connor mccrabber was killed by Himself with a suicide trick
+Sun Jan 21 18:38:03 2018	connor mccrabber (STEAM_0:0:42760088) spawned
+Sun Jan 21 18:38:08 2018	Griff (STEAM_0:0:51599729): /dro
+Sun Jan 21 18:38:10 2018	Griff (STEAM_0:0:51599729): /drop
+Sun Jan 21 18:38:14 2018	Griff (STEAM_0:0:51599729): /drop
+Sun Jan 21 18:38:20 2018	Hell Fire (STEAM_0:1:20129756): shshshs
+Sun Jan 21 18:38:27 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 18:38:27 2018	connor mccrabber (STEAM_0:0:42760088) arrested Griff
+Sun Jan 21 18:38:29 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 18:38:29 2018	connor mccrabber (STEAM_0:0:42760088) arrested Bob Ross
+Sun Jan 21 18:38:31 2018	connor mccrabber (STEAM_0:0:42760088): /sleep
+Sun Jan 21 18:38:46 2018	Griff (STEAM_0:0:51599729): /unarrest *
+Sun Jan 21 18:38:46 2018	Griff (STEAM_0:0:51599729) force-unarrested Griff
+Sun Jan 21 18:38:46 2018	Griff (STEAM_0:0:51599729) force-unarrested Bob Ross
+Sun Jan 21 18:38:46 2018	Griff (STEAM_0:0:51599729) force-unarrested Hell Fire
+Sun Jan 21 18:38:46 2018	Griff (STEAM_0:0:51599729) force-unarrested _yunomi
+Sun Jan 21 18:38:46 2018	Griff (STEAM_0:0:51599729) force-unarrested connor mccrabber
+Sun Jan 21 18:38:58 2018	Griff (STEAM_0:0:51599729): /setjailpos
+Sun Jan 21 18:39:01 2018	Griff (STEAM_0:0:51599729): /addjailpos
+Sun Jan 21 18:39:05 2018	Griff (STEAM_0:0:51599729): /addjailpos
+Sun Jan 21 18:39:09 2018	Griff (STEAM_0:0:51599729): /addjailpos
+Sun Jan 21 18:39:15 2018	_yunomi (STEAM_0:1:28404604): /setjailpos
+Sun Jan 21 18:39:25 2018	connor mccrabber (STEAM_0:0:42760088): /SLEEP
+Sun Jan 21 18:39:26 2018	connor mccrabber (STEAM_0:0:42760088) spawned
+Sun Jan 21 18:39:27 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 18:39:27 2018	connor mccrabber (STEAM_0:0:42760088) arrested Griff
+Sun Jan 21 18:39:28 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 18:39:28 2018	connor mccrabber (STEAM_0:0:42760088) arrested Bob Ross
+Sun Jan 21 18:39:31 2018	Griff (STEAM_0:0:51599729): /unarrest *
+Sun Jan 21 18:39:31 2018	Griff (STEAM_0:0:51599729) force-unarrested Griff
+Sun Jan 21 18:39:31 2018	Griff (STEAM_0:0:51599729) force-unarrested Bob Ross
+Sun Jan 21 18:39:31 2018	Griff (STEAM_0:0:51599729) force-unarrested Hell Fire
+Sun Jan 21 18:39:31 2018	Griff (STEAM_0:0:51599729) force-unarrested _yunomi
+Sun Jan 21 18:39:31 2018	Griff (STEAM_0:0:51599729) force-unarrested connor mccrabber
+Sun Jan 21 18:39:41 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 18:39:41 2018	connor mccrabber (STEAM_0:0:42760088) arrested Hell Fire
+Sun Jan 21 18:39:45 2018	connor mccrabber (STEAM_0:0:42760088): /SLEEP
+Sun Jan 21 18:39:46 2018	connor mccrabber (STEAM_0:0:42760088) spawned
+Sun Jan 21 18:40:00 2018	Griff (STEAM_0:0:51599729): /unarrest *
+Sun Jan 21 18:40:00 2018	Griff (STEAM_0:0:51599729) force-unarrested Griff
+Sun Jan 21 18:40:00 2018	Griff (STEAM_0:0:51599729) force-unarrested Bob Ross
+Sun Jan 21 18:40:00 2018	Griff (STEAM_0:0:51599729) force-unarrested Hell Fire
+Sun Jan 21 18:40:00 2018	Griff (STEAM_0:0:51599729) force-unarrested _yunomi
+Sun Jan 21 18:40:00 2018	connor mccrabber (STEAM_0:0:42760088) spawned
+Sun Jan 21 18:40:00 2018	Griff (STEAM_0:0:51599729) force-unarrested connor mccrabber
+Sun Jan 21 18:40:14 2018	connor mccrabber was killed by Hell Fire with a m9k_hk45_drp
+Sun Jan 21 18:40:16 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 18:40:28 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 18:40:45 2018	_yunomi (STEAM_0:1:28404604): 
+Sun Jan 21 18:41:31 2018	Griff (STEAM_0:0:51599729): /drop
+Sun Jan 21 18:42:16 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:42:17 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 18:42:27 2018	connor mccrabber (STEAM_0:0:42760088) spawned
+Sun Jan 21 18:43:09 2018	Griff (STEAM_0:0:51599729): /forceunlock
+Sun Jan 21 18:43:09 2018	Griff (STEAM_0:0:51599729) force-unlocked a door with forcelock (unlocked door is saved)
+Sun Jan 21 18:43:11 2018	Griff (STEAM_0:0:51599729): /forceunlock
+Sun Jan 21 18:43:11 2018	Griff (STEAM_0:0:51599729) force-unlocked a door with forcelock (unlocked door is saved)
+Sun Jan 21 18:43:12 2018	Hell Fire (STEAM_0:1:20129756): !stop
+Sun Jan 21 18:43:16 2018	Griff (STEAM_0:0:51599729): /forcelock
+Sun Jan 21 18:43:16 2018	Griff (STEAM_0:0:51599729) force-locked a door with forcelock (locked door is saved)
+Sun Jan 21 18:43:38 2018	Griff (STEAM_0:0:51599729): /setmoney griff 1000000
+Sun Jan 21 18:43:38 2018	Griff (STEAM_0:0:51599729) set Griff's money to $1,000,000
+Sun Jan 21 18:43:43 2018	Griff (STEAM_0:0:51599729): /setmoney griff 100000
+Sun Jan 21 18:43:43 2018	Griff (STEAM_0:0:51599729) set Griff's money to $100,000
+Sun Jan 21 18:43:52 2018	ThunderPanda (STEAM_0:0:87381926) has joined the game
+Sun Jan 21 18:43:52 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 18:43:57 2018	Hell Fire (STEAM_0:1:20129756): did you pee your self a little?
+Sun Jan 21 18:44:03 2018	_yunomi (STEAM_0:1:28404604): yes
+Sun Jan 21 18:44:05 2018	Hell Fire (STEAM_0:1:20129756): cheese
+Sun Jan 21 18:44:08 2018	_yunomi (STEAM_0:1:28404604): chees
+Sun Jan 21 18:44:10 2018	_yunomi (STEAM_0:1:28404604): fuck
+Sun Jan 21 18:44:11 2018	_yunomi (STEAM_0:1:28404604): cheese
+Sun Jan 21 18:44:16 2018	Hell Fire (STEAM_0:1:20129756): So do i!
+Sun Jan 21 18:44:26 2018	Hell Fire (STEAM_0:1:20129756): lol
+Sun Jan 21 18:44:27 2018	_yunomi (STEAM_0:1:28404604): not as much as me
+Sun Jan 21 18:44:35 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 18:44:55 2018	Hell Fire (STEAM_0:1:20129756): do you enjoy penis?
+Sun Jan 21 18:44:57 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 18:44:59 2018	_yunomi (STEAM_0:1:28404604): yes
+Sun Jan 21 18:45:01 2018	Hell Fire (STEAM_0:1:20129756): yes
+Sun Jan 21 18:45:02 2018	_yunomi (STEAM_0:1:28404604): do u
+Sun Jan 21 18:45:03 2018	Hell Fire (STEAM_0:1:20129756): Yes
+Sun Jan 21 18:45:07 2018	_yunomi (STEAM_0:1:28404604): o
+Sun Jan 21 18:45:14 2018	Hell Fire (STEAM_0:1:20129756): Do you want to see if connor likes penis?
+Sun Jan 21 18:45:16 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 18:45:19 2018	_yunomi (STEAM_0:1:28404604): he doesnt
+Sun Jan 21 18:45:23 2018	Hell Fire (STEAM_0:1:20129756): He might like mine
+Sun Jan 21 18:45:26 2018	Hell Fire (STEAM_0:1:20129756): its something special
+Sun Jan 21 18:45:33 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 18:45:39 2018	_yunomi was killed by Himself with a suicide trick
+Sun Jan 21 18:45:40 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 18:46:37 2018	connor mccrabber (STEAM_0:0:42760088): /sleep
+Sun Jan 21 18:46:41 2018	connor mccrabber (STEAM_0:0:42760088) spawned
+Sun Jan 21 18:46:41 2018	connor mccrabber was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:46:43 2018	_yunomi was killed by Himself with a suicide trick
+Sun Jan 21 18:46:45 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 18:46:46 2018	connor mccrabber (STEAM_0:0:42760088) spawned
+Sun Jan 21 18:48:21 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 18:50:52 2018	_yunomi was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:50:54 2018	connor mccrabber was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:50:58 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 18:52:32 2018	Bob Ross (STEAM_0:1:54818617): /moneydrop 1
+Sun Jan 21 18:52:33 2018	Bob Ross (STEAM_0:1:54818617) has dropped $1
+Sun Jan 21 18:53:07 2018	_yunomi (STEAM_0:1:28404604): /setjailpos
+Sun Jan 21 18:53:12 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 18:53:12 2018	_yunomi (STEAM_0:1:28404604) arrested Hell Fire
+Sun Jan 21 18:53:19 2018	_yunomi (STEAM_0:1:28404604) unarrested Hell Fire
+Sun Jan 21 18:53:55 2018	_yunomi (STEAM_0:1:28404604): /setjailpos
+Sun Jan 21 18:53:59 2018	_yunomi was killed by Himself with a suicide trick
+Sun Jan 21 18:54:00 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 18:54:08 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 18:54:08 2018	_yunomi (STEAM_0:1:28404604) arrested Hell Fire
+Sun Jan 21 18:54:45 2018	_yunomi (STEAM_0:1:28404604): are
+Sun Jan 21 18:54:48 2018	_yunomi (STEAM_0:1:28404604): you 
+Sun Jan 21 18:54:49 2018	_yunomi (STEAM_0:1:28404604): gay?
+Sun Jan 21 18:54:52 2018	Hell Fire (STEAM_0:1:20129756): no
+Sun Jan 21 18:54:55 2018	Hell Fire (STEAM_0:1:20129756): cheese
+Sun Jan 21 18:54:55 2018	_yunomi (STEAM_0:1:28404604): wow u lied
+Sun Jan 21 18:55:02 2018	Hell Fire (STEAM_0:1:20129756): I can be
+Sun Jan 21 18:55:04 2018	Hell Fire (STEAM_0:1:20129756): somethiemes
+Sun Jan 21 18:55:09 2018	Hell Fire was killed by _yunomi with a m9k_scar_drp
+Sun Jan 21 18:55:11 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 18:55:35 2018	_yunomi (STEAM_0:1:28404604) unarrested Hell Fire
+Sun Jan 21 18:56:11 2018	connor mccrabber (STEAM_0:0:42760088) spawned
+Sun Jan 21 18:57:22 2018	connor mccrabber (STEAM_0:0:42760088): +walk;+use
+Sun Jan 21 18:58:04 2018	_yunomi (STEAM_0:1:28404604): /setjailpos
+Sun Jan 21 18:58:08 2018	_yunomi (STEAM_0:1:28404604): /setjailpos
+Sun Jan 21 18:58:08 2018	_yunomi was killed by Himself with a suicide trick
+Sun Jan 21 18:58:10 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 18:58:13 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 18:58:13 2018	_yunomi (STEAM_0:1:28404604) arrested Hell Fire
+Sun Jan 21 18:58:28 2018	Griff (STEAM_0:0:51599729): /unarrest *
+Sun Jan 21 18:58:28 2018	Griff (STEAM_0:0:51599729) force-unarrested Griff
+Sun Jan 21 18:58:28 2018	Griff (STEAM_0:0:51599729) force-unarrested Bob Ross
+Sun Jan 21 18:58:28 2018	Griff (STEAM_0:0:51599729) force-unarrested Hell Fire
+Sun Jan 21 18:58:28 2018	Griff (STEAM_0:0:51599729) force-unarrested _yunomi
+Sun Jan 21 18:58:28 2018	Griff (STEAM_0:0:51599729) force-unarrested connor mccrabber
+Sun Jan 21 18:58:28 2018	Griff (STEAM_0:0:51599729) force-unarrested ThunderPanda
+Sun Jan 21 18:58:55 2018	_yunomi (STEAM_0:1:28404604): /wanted ross printers
+Sun Jan 21 18:59:18 2018	_yunomi was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 18:59:20 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 18:59:48 2018	_yunomi (STEAM_0:1:28404604): /wannat
+Sun Jan 21 18:59:49 2018	Griff (STEAM_0:0:51599729): t
+Sun Jan 21 18:59:50 2018	_yunomi (STEAM_0:1:28404604): /warrant
+Sun Jan 21 18:59:54 2018	_yunomi (STEAM_0:1:28404604): /warrant rob printers
+Sun Jan 21 19:00:00 2018	_yunomi (STEAM_0:1:28404604): /warrant ross printers
+Sun Jan 21 19:00:11 2018	_yunomi was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 19:00:14 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 19:00:22 2018	Zeus (STEAM_0:1:109375778) has joined the game
+Sun Jan 21 19:00:22 2018	Zeus (STEAM_0:1:109375778) spawned
+Sun Jan 21 19:00:25 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 19:00:50 2018	_yunomi (STEAM_0:1:28404604): /wanted ross printers
+Sun Jan 21 19:00:57 2018	_yunomi (STEAM_0:1:28404604): /warrant bob ross printers
+Sun Jan 21 19:01:03 2018	_yunomi was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 19:01:04 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 19:01:15 2018	bib (STEAM_0:1:72638680) has joined the game
+Sun Jan 21 19:01:15 2018	bib (STEAM_0:1:72638680) spawned
+Sun Jan 21 19:01:20 2018	Zeus (STEAM_0:1:109375778) spawned
+Sun Jan 21 19:01:20 2018	_yunomi (STEAM_0:1:28404604) arrested Zeus
+Sun Jan 21 19:01:31 2018	Zeus (STEAM_0:1:109375778): wUT
+Sun Jan 21 19:01:34 2018	Zeus (STEAM_0:1:109375778): // wut
+Sun Jan 21 19:01:39 2018	Zeus (STEAM_0:1:109375778): // Why was i arrested
+Sun Jan 21 19:01:44 2018	Griff (STEAM_0:0:51599729): /unarrest *
+Sun Jan 21 19:01:44 2018	Griff (STEAM_0:0:51599729) force-unarrested Griff
+Sun Jan 21 19:01:44 2018	Griff (STEAM_0:0:51599729) force-unarrested Bob Ross
+Sun Jan 21 19:01:44 2018	Griff (STEAM_0:0:51599729) force-unarrested Hell Fire
+Sun Jan 21 19:01:44 2018	Griff (STEAM_0:0:51599729) force-unarrested _yunomi
+Sun Jan 21 19:01:44 2018	Griff (STEAM_0:0:51599729) force-unarrested connor mccrabber
+Sun Jan 21 19:01:44 2018	Griff (STEAM_0:0:51599729) force-unarrested ThunderPanda
+Sun Jan 21 19:01:44 2018	Griff (STEAM_0:0:51599729) force-unarrested Zeus
+Sun Jan 21 19:01:44 2018	Griff (STEAM_0:0:51599729) force-unarrested bib
+Sun Jan 21 19:02:03 2018	Hell Fire was killed by _yunomi with a m9k_hk45_drp
+Sun Jan 21 19:02:05 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 19:02:13 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 19:02:15 2018	_yunomi (STEAM_0:1:28404604): // wow
+Sun Jan 21 19:02:28 2018	connor mccrabber was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 19:02:30 2018	connor mccrabber (STEAM_0:0:42760088) spawned
+Sun Jan 21 19:02:33 2018	Bob Ross (STEAM_0:1:54818617): // stop being a fucking idiot
+Sun Jan 21 19:02:42 2018	connor mccrabber (STEAM_0:0:42760088): // ya bob fuck u stop being retarded
+Sun Jan 21 19:03:08 2018	_yunomi (STEAM_0:1:28404604): /gun dealer
+Sun Jan 21 19:03:10 2018	_yunomi (STEAM_0:1:28404604): /
+Sun Jan 21 19:03:10 2018	_yunomi (STEAM_0:1:28404604): /g
+Sun Jan 21 19:03:11 2018	_yunomi (STEAM_0:1:28404604): /gd
+Sun Jan 21 19:03:15 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 19:03:26 2018	_yunomi (STEAM_0:1:28404604): /citizen
+Sun Jan 21 19:03:28 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 19:05:52 2018	bib (STEAM_0:1:72638680): 
+Sun Jan 21 19:05:59 2018	_yunomi was killed by Himself with a suicide trick
+Sun Jan 21 19:06:00 2018	_yunomi (STEAM_0:1:28404604) spawned
+Sun Jan 21 19:06:17 2018	bib (STEAM_0:1:72638680): /name Cheezit
+Sun Jan 21 19:06:20 2018	Cheezit (STEAM_0:1:72638680): /job Cheezit
+Sun Jan 21 19:06:36 2018	Bob Ross was killed by _yunomi with a m9k_hk45_drp
+Sun Jan 21 19:06:37 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 19:07:19 2018	_yunomi (STEAM_0:1:28404604): yes
+Sun Jan 21 19:08:47 2018	Cheezit (STEAM_0:1:72638680): cloak
+Sun Jan 21 19:08:50 2018	Zeus (STEAM_0:1:109375778): // bob
+Sun Jan 21 19:09:00 2018	Zeus (STEAM_0:1:109375778): // My expression took some time just like your art
+Sun Jan 21 19:09:05 2018	Zeus (STEAM_0:1:109375778): // I hope you like it
+Sun Jan 21 19:09:08 2018	Cheezit (STEAM_0:1:72638680) disconnected
+Sun Jan 21 19:09:51 2018	_yunomi (STEAM_0:1:28404604) disconnected
+Sun Jan 21 19:10:16 2018	bib (STEAM_0:1:72638680) has joined the game
+Sun Jan 21 19:10:16 2018	Cheezit (STEAM_0:1:72638680) spawned
+Sun Jan 21 19:14:24 2018	Cheezit was killed by Zeus with a gmod_wire_turret
+Sun Jan 21 19:14:25 2018	Cheezit (STEAM_0:1:72638680) spawned
+Sun Jan 21 19:14:55 2018	Griff (STEAM_0:0:51599729): !ban zues
+Sun Jan 21 19:15:01 2018	Griff (STEAM_0:0:51599729): !ban zues Troll
+Sun Jan 21 19:15:06 2018	Griff (STEAM_0:0:51599729): !menu
+Sun Jan 21 19:15:15 2018	Zeus (STEAM_0:1:109375778) disconnected
+Sun Jan 21 19:15:56 2018	Cheezit was killed by Entity [686][gmod_wire_turret] with a gmod_wire_turret
+Sun Jan 21 19:15:58 2018	Cheezit (STEAM_0:1:72638680) spawned
+Sun Jan 21 19:16:03 2018	connor mccrabber (STEAM_0:0:42760088) disconnected
+Sun Jan 21 19:16:53 2018	Hell Fire (STEAM_0:1:20129756): !stop
+Sun Jan 21 19:18:35 2018	Hell Fire (STEAM_0:1:20129756): /advert hi welcome to chillies
+Sun Jan 21 19:19:49 2018	Cheezit was killed by Himself with a suicide trick
+Sun Jan 21 19:19:52 2018	Cheezit (STEAM_0:1:72638680) disconnected
+Sun Jan 21 19:21:11 2018	ThunderPanda (STEAM_0:0:87381926): how much money yall have
+Sun Jan 21 19:24:10 2018	Hell Fire was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 19:24:11 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 19:24:22 2018	Hell Fire (STEAM_0:1:20129756): /advert IM GAY
+Sun Jan 21 19:25:16 2018	Hell Fire (STEAM_0:1:20129756): /advert I enjoy Anal sex
+Sun Jan 21 19:28:16 2018	Griff (STEAM_0:0:51599729): /me spits
+Sun Jan 21 19:28:25 2018	Griff (STEAM_0:0:51599729): /cheque
+Sun Jan 21 19:28:29 2018	Griff (STEAM_0:0:51599729): /cheque bob 1000
+Sun Jan 21 19:29:05 2018	Hitman Hell Fire accepted a hit on Griff, ordered by Bob Ross for $200
+Sun Jan 21 19:29:32 2018	Griff (STEAM_0:0:51599729): // [DarkRP] Hitman Hell Fire accepted a hit on Griff, ordered by Bob Ross for $200
+Sun Jan 21 19:31:12 2018	Bob Ross was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 19:31:15 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 19:31:43 2018	Hitman Hell Fire finished a hit on Griff, ordered by Bob Ross for $200
+Sun Jan 21 19:31:43 2018	Griff was killed by Hell Fire with a m9k_hk45_drp
+Sun Jan 21 19:31:45 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 19:32:05 2018	Hitman Hell Fire accepted a hit on Bob Ross, ordered by Griff for $200
+Sun Jan 21 19:33:17 2018	Hitman Hell Fire finished a hit on Bob Ross, ordered by Griff for $200
+Sun Jan 21 19:33:17 2018	Bob Ross was killed by Hell Fire with a crossbow_bolt
+Sun Jan 21 19:33:19 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 19:36:05 2018	Bob Ross (STEAM_0:1:54818617): /me Knocks
+Sun Jan 21 19:36:28 2018	Bob Ross (STEAM_0:1:54818617): /yell hello
+Sun Jan 21 19:36:37 2018	Bob Ross (STEAM_0:1:54818617): /y hello
+Sun Jan 21 19:37:13 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 19:38:04 2018	ThunderPanda (STEAM_0:0:87381926) disconnected
+Sun Jan 21 19:38:05 2018	Bob Ross (STEAM_0:1:54818617): /cheque Griff 60000 Bitcoin miners
+Sun Jan 21 19:38:54 2018	Bob Ross was killed by Hell Fire with a crossbow_bolt
+Sun Jan 21 19:38:55 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 19:38:59 2018	Griff was killed by Hell Fire with a crossbow_bolt
+Sun Jan 21 19:39:01 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 19:39:24 2018	Hell Fire was killed by Griff with a m9k_dbarrel_drp
+Sun Jan 21 19:39:28 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sun Jan 21 19:39:45 2018	ThunderPanda (STEAM_0:0:87381926) has joined the game
+Sun Jan 21 19:39:45 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:39:56 2018	$crim (STEAM_0:0:92881884) has joined the game
+Sun Jan 21 19:39:56 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 19:40:03 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:40:34 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 19:41:05 2018	ThunderPanda was killed by $crim with a m9k_ak47_drp
+Sun Jan 21 19:41:08 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:41:23 2018	ThunderPanda was killed by $crim with a m9k_ak47_drp
+Sun Jan 21 19:41:24 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:41:35 2018	ThunderPanda was killed by $crim with a m9k_ak47_drp
+Sun Jan 21 19:41:37 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:41:49 2018	$crim was killed by ThunderPanda with a m9k_m29satan_drp
+Sun Jan 21 19:41:50 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 19:42:52 2018	ThunderPanda was killed by $crim with a m9k_m92beretta_drp
+Sun Jan 21 19:42:55 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:43:24 2018	ThunderPanda was killed by $crim with a m9k_m92beretta_drp
+Sun Jan 21 19:43:25 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:44:02 2018	ThunderPanda was killed by $crim with a m9k_m92beretta_drp
+Sun Jan 21 19:44:03 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:44:06 2018	$crim was killed by ThunderPanda with a m9k_m29satan_drp
+Sun Jan 21 19:44:07 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 19:44:29 2018	Hell Fire (STEAM_0:1:20129756) disconnected
+Sun Jan 21 19:44:34 2018	$crim was killed by Himself with a suicide trick
+Sun Jan 21 19:44:36 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 19:44:45 2018	ThunderPanda was killed by $crim with a m9k_mp7_drp
+Sun Jan 21 19:44:50 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:45:17 2018	ThunderPanda was killed by $crim with a m9k_mp7_drp
+Sun Jan 21 19:45:20 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:45:30 2018	ThunderPanda was killed by $crim with a m9k_mp7_drp
+Sun Jan 21 19:45:32 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:45:41 2018	ThunderPanda was killed by $crim with a m9k_mp7_drp
+Sun Jan 21 19:45:47 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:47:14 2018	ThunderPanda was killed by $crim with a m9k_m3_drp
+Sun Jan 21 19:47:17 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:47:57 2018	$crim was killed by ThunderPanda with a m9k_m24_drp
+Sun Jan 21 19:47:58 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 19:48:23 2018	ThunderPanda was killed by $crim with a m9k_m92beretta_drp
+Sun Jan 21 19:48:24 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:48:43 2018	$crim was killed by ThunderPanda with a m9k_m24_drp
+Sun Jan 21 19:48:44 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 19:48:55 2018	ThunderPanda was killed by $crim with a m9k_m24_drp
+Sun Jan 21 19:48:57 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:49:06 2018	ThunderPanda was killed by $crim with a m9k_m24_drp
+Sun Jan 21 19:49:08 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:49:39 2018	ThunderPanda was killed by $crim with a m9k_m24_drp
+Sun Jan 21 19:49:41 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:49:58 2018	ThunderPanda was killed by $crim with a m9k_m24_drp
+Sun Jan 21 19:49:59 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:50:11 2018	ThunderPanda was killed by $crim with a m9k_m24_drp
+Sun Jan 21 19:50:18 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:50:28 2018	ThunderPanda was killed by $crim with a m9k_m24_drp
+Sun Jan 21 19:50:30 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:50:36 2018	ThunderPanda was killed by $crim with a m9k_m24_drp
+Sun Jan 21 19:50:38 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:52:57 2018	$crim was killed by ThunderPanda with a m9k_m3_drp
+Sun Jan 21 19:52:58 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 19:53:37 2018	ThunderPanda was killed by $crim with a m9k_ak47_drp
+Sun Jan 21 19:53:40 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:53:53 2018	$crim (STEAM_0:0:92881884): no
+Sun Jan 21 19:54:00 2018	$crim (STEAM_0:0:92881884): no
+Sun Jan 21 19:54:03 2018	$crim (STEAM_0:0:92881884): no
+Sun Jan 21 19:54:05 2018	$crim (STEAM_0:0:92881884): no
+Sun Jan 21 19:54:07 2018	ThunderPanda was killed by $crim with a m9k_ak47_drp
+Sun Jan 21 19:54:10 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:54:16 2018	$crim (STEAM_0:0:92881884): /advert penis IN MY ASS
+Sun Jan 21 19:54:26 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:54:52 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:55:05 2018	ThunderPanda was killed by $crim with a m9k_ak47_drp
+Sun Jan 21 19:55:06 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:55:12 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 19:55:15 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:55:15 2018	$crim (STEAM_0:0:92881884) arrested ThunderPanda
+Sun Jan 21 19:56:00 2018	ThunderPanda (STEAM_0:0:87381926): /kill
+Sun Jan 21 19:56:05 2018	ThunderPanda (STEAM_0:0:87381926): /kill
+Sun Jan 21 19:57:19 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:57:44 2018	$crim was killed by ThunderPanda with a m9k_scar_drp
+Sun Jan 21 19:57:45 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 19:57:49 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 19:57:49 2018	$crim (STEAM_0:0:92881884) arrested ThunderPanda
+Sun Jan 21 19:58:09 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 19:58:26 2018	ThunderPanda (STEAM_0:0:87381926): /arrest
+Sun Jan 21 19:58:51 2018	ThunderPanda (STEAM_0:0:87381926): /arrest $crim
+Sun Jan 21 19:59:12 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 20:00:05 2018	$crim was killed by ThunderPanda with a m9k_scar_drp
+Sun Jan 21 20:00:11 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 20:00:25 2018	$crim was killed by ThunderPanda with a m9k_scar_drp
+Sun Jan 21 20:00:36 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 20:00:49 2018	$crim was killed by ThunderPanda with a m9k_scar_drp
+Sun Jan 21 20:00:55 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 20:01:10 2018	$crim was killed by ThunderPanda with a m9k_scar_drp
+Sun Jan 21 20:01:15 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 20:01:27 2018	$crim (STEAM_0:0:92881884) spawned
+Sun Jan 21 20:01:53 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sun Jan 21 20:01:53 2018	$crim (STEAM_0:0:92881884) arrested ThunderPanda
+Sun Jan 21 20:01:56 2018	ThunderPanda (STEAM_0:0:87381926) disconnected
+Sun Jan 21 20:02:26 2018	$crim (STEAM_0:0:92881884) disconnected
+Sun Jan 21 20:05:22 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 20:05:23 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 20:07:43 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 20:07:45 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 20:08:13 2018	Griff (STEAM_0:0:51599729): trrrrrrrrrrrrrrrrr3.
+Sun Jan 21 20:08:15 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 20:08:18 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 20:08:24 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 20:08:29 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 20:09:27 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 20:09:28 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 20:09:35 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 20:09:37 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 20:09:43 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 20:09:44 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 20:11:21 2018	Bob Ross (STEAM_0:1:54818617) disconnected
+Sun Jan 21 20:11:29 2018	Griff (STEAM_0:0:51599729) disconnected

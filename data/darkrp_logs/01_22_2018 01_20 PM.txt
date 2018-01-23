@@ -1,0 +1,71 @@
+Mon Jan 22 13:20:28 2018	DTSpartan (STEAM_0:0:17131489) has joined the game
+Mon Jan 22 13:20:28 2018	DTSpartan (STEAM_0:0:17131489) spawned
+Mon Jan 22 13:20:31 2018	Griff (STEAM_0:0:51599729) has joined the game
+Mon Jan 22 13:20:31 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 13:20:47 2018	DTSpartan was killed by Entity [0][worldspawn] with a unknown
+Mon Jan 22 13:20:48 2018	DTSpartan (STEAM_0:0:17131489) spawned
+Mon Jan 22 13:20:59 2018	Griff was killed by DTSpartan with a m9k_dbarrel_drp
+Mon Jan 22 13:21:19 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 13:21:31 2018	DTSpartan (STEAM_0:0:17131489): !kill
+Mon Jan 22 13:21:33 2018	DTSpartan was killed by Himself with a suicide trick
+Mon Jan 22 13:21:35 2018	DTSpartan (STEAM_0:0:17131489) spawned
+Mon Jan 22 13:21:39 2018	Griff (STEAM_0:0:51599729): /forceunlock
+Mon Jan 22 13:21:39 2018	Griff (STEAM_0:0:51599729) force-unlocked a door with forcelock (unlocked door is saved)
+Mon Jan 22 13:22:33 2018	Griff was killed by DTSpartan with a weapon_shotgun
+Mon Jan 22 13:22:42 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 13:25:16 2018	DTSpartan (STEAM_0:0:17131489) spawned
+Mon Jan 22 13:25:16 2018	Griff (STEAM_0:0:51599729) arrested DTSpartan
+Mon Jan 22 13:25:33 2018	Griff (STEAM_0:0:51599729): /unarrest *
+Mon Jan 22 13:25:33 2018	Griff (STEAM_0:0:51599729) force-unarrested Griff
+Mon Jan 22 13:25:33 2018	Griff (STEAM_0:0:51599729) force-unarrested DTSpartan
+Mon Jan 22 13:29:40 2018	Griff was killed by DTSpartan with a m9k_dbarrel_drp
+Mon Jan 22 13:29:42 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 13:32:07 2018	DTSpartan was killed by Griff with a m9k_dbarrel_drp
+Mon Jan 22 13:32:15 2018	DTSpartan (STEAM_0:0:17131489) spawned
+Mon Jan 22 13:45:15 2018	DTSpartan was killed by Griff with a m9k_dbarrel_drp
+Mon Jan 22 13:45:18 2018	DTSpartan (STEAM_0:0:17131489) spawned
+Mon Jan 22 13:47:18 2018	Griff (STEAM_0:0:51599729) spawned NPC npc_tf2_ghost
+Mon Jan 22 13:47:25 2018	Griff (STEAM_0:0:51599729) spawned NPC npc_citizen
+Mon Jan 22 13:47:25 2018	Griff (STEAM_0:0:51599729) spawned NPC npc_citizen
+Mon Jan 22 13:47:25 2018	Griff (STEAM_0:0:51599729) spawned NPC npc_citizen
+Mon Jan 22 13:47:25 2018	Griff (STEAM_0:0:51599729) spawned NPC npc_citizen
+Mon Jan 22 13:47:25 2018	Griff (STEAM_0:0:51599729) spawned NPC npc_citizen
+Mon Jan 22 13:47:25 2018	Griff (STEAM_0:0:51599729) spawned NPC npc_citizen
+Mon Jan 22 13:47:26 2018	Griff (STEAM_0:0:51599729) spawned NPC npc_citizen
+Mon Jan 22 13:47:26 2018	Griff (STEAM_0:0:51599729) spawned NPC npc_citizen
+Mon Jan 22 13:47:26 2018	Griff (STEAM_0:0:51599729) spawned NPC npc_citizen
+Mon Jan 22 13:47:26 2018	Griff (STEAM_0:0:51599729) spawned NPC npc_citizen
+Mon Jan 22 13:47:27 2018	DTSpartan (STEAM_0:0:17131489) disconnected
+Mon Jan 22 13:47:37 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Mon Jan 22 13:47:43 2018	Griff (STEAM_0:0:51599729) disconnected
+Mon Jan 22 18:48:47 2018	Griff (STEAM_0:0:51599729) has joined the game
+Mon Jan 22 18:48:47 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 18:49:32 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Mon Jan 22 18:49:33 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 18:51:23 2018	Bob Ross (STEAM_0:1:54818617) has joined the game
+Mon Jan 22 18:51:23 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Mon Jan 22 18:53:02 2018	A1steaksa (STEAM_0:0:18354638) has joined the game
+Mon Jan 22 18:53:02 2018	A1steaksa (STEAM_0:0:18354638) spawned
+Mon Jan 22 18:53:40 2018	A1steaksa (STEAM_0:0:18354638): /rpname Vincent Luciano
+Mon Jan 22 18:53:45 2018	Vincent Luciano (STEAM_0:0:18354638): // Boy what did you do
+Mon Jan 22 18:54:09 2018	Vincent Luciano (STEAM_0:0:18354638): btc_miner/user.png
+Mon Jan 22 18:54:37 2018	Bob Ross (STEAM_0:1:54818617): /forceunlock
+Mon Jan 22 18:54:37 2018	Bob Ross (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Mon Jan 22 18:54:37 2018	Vincent Luciano (STEAM_0:0:18354638): google.com/fastest-way-to-the-bottom.html
+Mon Jan 22 18:54:42 2018	Vincent Luciano (STEAM_0:0:18354638): u_irl
+Mon Jan 22 18:55:21 2018	Bob Ross (STEAM_0:1:54818617): /forceunlock
+Mon Jan 22 18:55:21 2018	Bob Ross (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Mon Jan 22 18:55:50 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 18:57:47 2018	Vincent Luciano (STEAM_0:0:18354638): http://steamcommunity.com/id/a1steaksa/myworkshopfiles/?appid=4000&browsefilter=mysubscriptions&p=1
+Mon Jan 22 18:58:28 2018	Vincent Luciano (STEAM_0:0:18354638): http://steamcommunity.com/sharedfiles/filedetails/?id=536338229
+Mon Jan 22 19:03:00 2018	Vincent Luciano (STEAM_0:0:18354638) spawned SENT gd_beer
+Mon Jan 22 19:03:02 2018	Griff (STEAM_0:0:51599729) spawned SENT gd_lsd
+Mon Jan 22 19:03:21 2018	Vincent Luciano (STEAM_0:0:18354638) spawned SENT gd_redwine
+Mon Jan 22 19:03:30 2018	Vincent Luciano was killed by Himself with a suicide trick
+Mon Jan 22 19:03:32 2018	Vincent Luciano (STEAM_0:0:18354638) spawned
+Mon Jan 22 19:03:49 2018	Griff (STEAM_0:0:51599729) spawned SENT bitcoinminertwo
+Mon Jan 22 19:09:23 2018	Bob Ross (STEAM_0:1:54818617): yes
+Mon Jan 22 19:13:17 2018	Griff (STEAM_0:0:51599729): griffq@hotmail.com
+Mon Jan 22 19:13:25 2018	Griff (STEAM_0:0:51599729): griffinq178@gmail.com
+Mon Jan 22 19:17:19 2018	Griff (STEAM_0:0:51599729): https://discord.gg/9CqTWp
+Mon Jan 22 19:31:13 2018	Bob Ross (STEAM_0:1:54818617) spawned SENT gmt_instrument_piano

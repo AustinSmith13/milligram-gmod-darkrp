@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "gdrugs/drugpot/weedplant_bud"
+	"$bumpmap" "gdrugs/drugpot/weedplant_bud_bump"
+}

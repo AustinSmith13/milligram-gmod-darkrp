@@ -1,0 +1,1563 @@
+[02:01:23] New map: rp_bangclaw
+[10:48:52] Client "Griff" connected.
+[10:49:22] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 30 seconds).
+[11:14:08] Griff<STEAM_0:0:51599729> spawned model models/props_c17/consolebox01a.mdl
+[11:14:20] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x1.mdl
+
+
+
+[11:23:18] New map: rp_bangclaw
+[11:23:34] Client "Griff" connected.
+[11:23:49] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[11:24:05] Griff<STEAM_0:0:51599729> spawned model models/props_c17/canister_propane01a.mdl
+[11:24:09] Griff was killed by prop_physics
+[11:31:04] Griff<STEAM_0:0:51599729> spawned model models/props_wasteland/barricade001a.mdl
+[11:35:37] Griff<STEAM_0:0:51599729> spawned model models/props_c17/concrete_barrier001a.mdl
+[11:37:58] Client "Bob Ross" connected.
+[11:38:54] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 56 seconds).
+[11:40:05] Bob Ross<STEAM_0:1:54818617> spawned model models/props_c17/door01_left.mdl
+[11:40:59] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[11:41:02] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x3.mdl
+[11:42:02] Griff: .add bob
+[11:51:02] Griff: t
+[11:57:23] Griff<STEAM_0:0:51599729> spawned model models/props_c17/furniturebathtub001a.mdl
+[12:05:56] Griff<STEAM_0:0:51599729> spawned model models/props_borealis/borealis_door001a.mdl
+[12:14:37] Client "[NWA] XpewpewX" connected.
+[12:17:24] Client "[NWA] XpewpewX" spawned in server <STEAM_0:0:75946431> (took 167 seconds).
+[12:18:25] Bob Ross<STEAM_0:1:54818617> spawned model models/beer/wiremod/gps.mdl
+[12:18:28] [NWA] XpewpewX: your mom
+[12:18:33] [NWA] XpewpewX suicided!
+[12:19:50] [NWA] XpewpewX suicided!
+[12:20:05] Bob Ross suicided!
+[12:20:08] Griff killed [NWA] XpewpewX using player
+[12:20:28] Griff: /drop
+[12:21:21] Griff: /drop
+[12:22:32] Griff: /dro
+[12:22:34] Griff: /drop
+[12:23:07] Bob Ross<STEAM_0:1:54818617> spawned model models/props_phx/construct/metal_tube.mdl
+[12:23:52] [NWA] XpewpewX<STEAM_0:0:75946431> spawned model models/props_lab/blastdoor001c.mdl
+[12:24:23] [NWA] XpewpewX<STEAM_0:0:75946431> spawned model models/props_lab/blastdoor001c.mdl
+[12:24:40] [NWA] XpewpewX<STEAM_0:0:75946431> spawned model models/props_lab/blastdoor001c.mdl
+[12:24:52] [NWA] XpewpewX<STEAM_0:0:75946431> spawned model models/props_lab/blastdoor001b.mdl
+[12:25:01] [NWA] XpewpewX<STEAM_0:0:75946431> spawned model models/props_lab/blastdoor001c.mdl
+[12:25:27] Griff: /job Door to Door Salesman
+[12:27:13] Griff: /y I am selling wares!
+[12:33:11] Griff: /warrent
+[12:33:24] Griff: /wanted
+[12:33:37] Griff: /wanted xpew Standard Search
+[12:33:58] [NWA] XpewpewX: // you shall not passss
+[12:34:03] Griff: /wanted xpew Search
+[12:35:48] Dropped "[NWA] XpewpewX" from server<STEAM_0:0:75946431>
+[12:38:26] Griff: /job Stock Broker
+[12:41:56] Griff suicided!
+[12:43:18] Griff suicided!
+[12:43:18] Griff suicided!
+[12:43:19] Griff suicided!
+[12:43:19] Griff suicided!
+[12:43:20] Griff suicided!
+[12:43:20] Griff suicided!
+[12:43:20] Griff suicided!
+[12:43:21] Griff suicided!
+[12:43:21] Griff suicided!
+[12:43:22] Griff suicided!
+[12:43:22] Griff suicided!
+[12:43:23] Griff suicided!
+[12:43:23] Griff suicided!
+[12:43:23] Griff suicided!
+[12:43:24] Griff suicided!
+[12:43:24] Griff suicided!
+[12:43:25] Griff suicided!
+[12:43:28] Bob Ross suicided!
+[12:43:29] Bob Ross suicided!
+[12:43:29] Bob Ross suicided!
+[12:43:29] Bob Ross suicided!
+[12:43:30] Bob Ross suicided!
+[12:43:30] Bob Ross suicided!
+[12:43:31] Bob Ross suicided!
+[12:43:31] Bob Ross suicided!
+[12:43:31] Bob Ross suicided!
+[12:43:32] Bob Ross suicided!
+[12:43:32] Bob Ross suicided!
+[12:43:33] Bob Ross suicided!
+[12:43:33] Bob Ross suicided!
+[12:43:34] Bob Ross suicided!
+[12:43:34] Bob Ross suicided!
+[12:43:34] Bob Ross suicided!
+[12:43:35] Bob Ross suicided!
+[12:43:35] Bob Ross suicided!
+[12:43:36] Bob Ross suicided!
+[12:43:36] Bob Ross suicided!
+[12:43:36] Bob Ross suicided!
+[12:43:37] Bob Ross suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:50] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:43:51] Griff suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:04] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:05] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:12] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:13] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:14] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:15] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:16] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:17] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:18] Bob Ross suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:22] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:23] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:24] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:25] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:26] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:27] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:28] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:29] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:30] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:31] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:44:32] Griff suicided!
+[12:45:23] Griff was killed by entityflame
+[12:45:53] Bob Ross was killed by entityflame
+[12:46:39] Griff suicided!
+[12:46:42] Bob Ross suicided!
+[12:49:35] Griff suicided!
+[12:51:55] Bob Ross suicided!
+[12:51:56] Griff suicided!
+[12:55:32] Dropped "Griff" from server<STEAM_0:0:51599729>
+[12:55:34] Client "Griff" connected.
+[12:55:48] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 14 seconds).
+[12:56:24] Griff suicided!
+[12:59:31] Griff<STEAM_0:0:51599729> spawned model models/props_c17/oildrum001.mdl
+[12:59:55] Bob Ross was killed by prop_physics
+[13:00:33] Griff suicided!
+[13:02:56] Griff<STEAM_0:0:51599729> spawned model models/props_c17/furniturebathtub001a.mdl
+[13:03:26] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate7x8.mdl
+[13:03:36] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate7x8.mdl
+[13:07:05] Griff<STEAM_0:0:51599729> spawned model models/hunter/blocks/cube025x025x025.mdl
+[13:07:05] Griff<STEAM_0:0:51599729> spawned model models/hunter/blocks/cube025x025x025.mdl
+[13:07:05] Griff<STEAM_0:0:51599729> spawned model models/hunter/blocks/cube025x025x025.mdl
+[13:07:05] Griff<STEAM_0:0:51599729> spawned model models/hunter/blocks/cube025x025x025.mdl
+[13:07:05] Griff<STEAM_0:0:51599729> spawned model models/hunter/blocks/cube025x025x025.mdl
+[13:07:05] Griff<STEAM_0:0:51599729> spawned model models/hunter/blocks/cube025x025x025.mdl
+[13:07:06] Griff<STEAM_0:0:51599729> spawned model models/hunter/blocks/cube025x025x025.mdl
+[13:07:06] Griff<STEAM_0:0:51599729> spawned model models/hunter/blocks/cube025x025x025.mdl
+[13:07:06] Griff<STEAM_0:0:51599729> spawned model models/hunter/blocks/cube025x025x025.mdl
+[13:07:16] Griff<STEAM_0:0:51599729> spawned model models/props_c17/furniturebathtub001a.mdl
+[13:07:20] Bob Ross was killed by prop_physics
+[13:07:47] Griff<STEAM_0:0:51599729> spawned model models/props_lab/blastdoor001c.mdl
+[13:07:58] Griff<STEAM_0:0:51599729> spawned model models/props_lab/blastdoor001c.mdl
+[13:08:28] Dropped "Griff" from server<STEAM_0:0:51599729>
+[13:28:28] Bob Ross<STEAM_0:1:54818617> spawned model models/beer/wiremod/gate_e2.mdl
+[13:28:31] Bob Ross<STEAM_0:1:54818617> spawned model models/beer/wiremod/gate_e2_mini.mdl
+[14:25:09] Bob Ross: .add Bob\
+[14:26:25] Bob Ross<STEAM_0:1:54818617> spawned model models/props_interiors/refrigerator01a.mdl
+[14:29:45] Bob Ross<STEAM_0:1:54818617> spawned model models/props_interiors/radiator01a.mdl
+[14:30:01] Bob Ross: .setguard
+[14:30:49] Bob Ross: .setguard
+[14:35:29] Bob Ross: .setguard
+[14:35:55] Bob Ross: .model models/Combine_Super_Soldier.mdl
+[14:36:26] Bob Ross: .setguard
+[14:36:38] Bob Ross: .model models/Humans/Group03m/Female_07.mdl
+[14:37:13] Bob Ross: .model models/Combine_Super_Soldier.mdl
+[14:37:30] Bob Ross: .model models/Eli.mdl
+[14:40:50] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/wood_crate001a.mdl
+[14:40:59] Bob Ross: .dist 300
+[14:41:13] Bob Ross: .dist cock
+[15:46:45] Client "Quartz" connected.
+[15:48:58] Client "Quartz" spawned in server <STEAM_0:0:240471299> (took 133 seconds).
+[15:49:50] Quartz: holy banana im in a server
+[15:50:01] Quartz: took forever
+[15:50:21] Quartz: Hey. are you there bruther
+[15:50:51] Quartz: Bob brother
+[15:50:54] Quartz: borther
+[15:51:18] Quartz: Rip borther
+[15:51:31] Dropped "Quartz" from server<STEAM_0:0:240471299>
+[16:14:13] Client "xX_SNAKE_Xx" connected.
+[16:17:33] Client "xX_SNAKE_Xx" spawned in server <STEAM_0:1:419545536> (took 200 seconds).
+[16:21:30] Dropped "xX_SNAKE_Xx" from server<STEAM_0:1:419545536>
+[16:55:49] Client "PootisPow" connected.
+[17:31:31] Client "Salty Gamer YT" connected.
+[18:37:10] Client "Hell Fire" connected.
+[18:37:31] Client "Hell Fire" spawned in server <STEAM_0:1:20129756> (took 21 seconds).
+[18:39:03] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/bench01a.mdl
+[18:39:18] Hell Fire<STEAM_0:1:20129756> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[19:39:14] Hell Fire: yo
+[19:39:20] Bob Ross: hi
+[19:39:25] Hell Fire: hello person
+[19:39:29] Hell Fire: cheese
+[19:39:32] Hell Fire: cheese
+[19:39:38] Bob Ross: whats up bud
+[19:39:52] Hell Fire: Nothen just checking out what your doing
+[19:40:02] Bob Ross: trying to make stock market
+[19:40:05] Hell Fire: nice
+[19:40:10] Bob Ross: like 2 lines in
+[19:40:20] Hell Fire: only 2000 more to go
+[19:40:27] Bob Ross: yeah
+[19:48:49] Hell Fire: hey cute
+[19:49:07] Bob Ross: any ideas on how to determine the price for these stocks?
+[19:49:27] Hell Fire: it should be based on a market so it might be best to create an artificial market to get it going
+[19:49:28] Hell Fire: AI
+[19:49:38] Hell Fire: That gives players an actual service to base value on
+[19:49:53] Bob Ross: idk how to do that
+[19:49:55] Hell Fire: Otherwise you just have a fancy toy with numbers that dont mean anything
+[19:50:06] Hell Fire: Not my problem
+[19:50:13] Hell Fire: :D
+[19:56:16] Bob Ross: // any ideas on how i could save data with an e2?
+[19:56:22] Hell Fire: tables
+[19:56:23] Hell Fire: use tables
+[19:56:47] Bob Ross: but like to where i can get off and still have it
+[19:57:00] Hell Fire: ?
+[19:57:18] Bob Ross: like permantly
+[19:57:24] Hell Fire: persist
+[20:04:25] Hell Fire: im realizing how broken e2 is
+[20:04:27] Hell Fire: My god
+[20:04:48] Hell Fire: We need a new language
+[20:04:56] Bob Ross: make one
+[20:04:57] Hell Fire: e2 is horrible
+[20:05:03] Hell Fire: i am but for my own game
+[20:07:07] Bob Ross: // what the function to check how long a string is
+[20:07:20] Hell Fire: count
+[20:08:50] Hell Fire: Well im off
+[20:08:58] Bob Ross: // see ya
+[20:09:01] Dropped "Hell Fire" from server<STEAM_0:1:20129756>
+[21:18:26] Client "JuanFadox | Gamdom.com" connected.
+[21:59:59] Client "Griff" connected.
+[22:00:55] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 56 seconds).
+[22:02:24] Bob Ross<STEAM_0:1:54818617> spawned model models/props_combine/breendesk.mdl
+[22:03:34] Bob Ross: .setguard
+[22:03:43] Bob Ross: .add griff
+[22:04:35] Bob Ross: .model models/Eli.mdl
+[22:05:09] Bob Ross: .model models/Humans/Group01/Female_01.mdl
+[22:17:11] Bob Ross: /rpname dick
+[22:17:11] Bob Ross<STEAM_0:1:54818617> changed their name to dick
+[22:17:34] dick: /rpname BIg Fat Cock
+[22:17:34] dick<STEAM_0:1:54818617> changed their name to BIg Fat Cock
+[22:19:00] BIg Fat Cock: // S/5^2
+[22:27:20] Dropped "Griff" from server<STEAM_0:0:51599729>
+[22:27:36] BIg Fat Cock: /rpname Tyler Gates
+[22:27:37] BIg Fat Cock<STEAM_0:1:54818617> changed their name to Tyler Gates
+[22:27:50] Client "Griff" connected.
+[22:28:05] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[22:29:18] Griff<STEAM_0:0:51599729> spawned model models/props_c17/furniturefridge001a.mdl
+[22:30:01] Griff<STEAM_0:0:51599729> spawned model models/props_interiors/bathtub01a.mdl
+[22:30:01] Griff was killed by prop_physics
+[22:30:05] Griff<STEAM_0:0:51599729> spawned model models/props_interiors/bathtub01a.mdl
+[22:30:14] Griff<STEAM_0:0:51599729> spawned model models/props_interiors/bathtub01a.mdl
+[22:30:16] Tyler Gates was killed by prop_physics
+[22:30:23] Griff<STEAM_0:0:51599729> spawned model models/props_interiors/bathtub01a.mdl
+[22:30:28] Griff<STEAM_0:0:51599729> spawned model models/props_interiors/bathtub01a.mdl
+[22:30:30] Griff<STEAM_0:0:51599729> spawned model models/props_interiors/bathtub01a.mdl
+[22:30:34] Griff<STEAM_0:0:51599729> spawned model models/props_interiors/bathtub01a.mdl
+[22:30:41] Griff<STEAM_0:0:51599729> spawned model models/props_interiors/bathtub01a.mdl
+[22:30:42] Griff was killed by prop_physics
+[22:30:45] Griff<STEAM_0:0:51599729> spawned model models/props_interiors/bathtub01a.mdl
+[22:30:47] Tyler Gates was killed by prop_physics
+[22:30:51] Griff<STEAM_0:0:51599729> spawned model models/props_c17/oildrum001.mdl
+[22:30:57] Griff<STEAM_0:0:51599729> spawned model models/props_c17/gravestone_statue001a.mdl
+[22:32:52] Griff<STEAM_0:0:51599729> spawned model models/props_junk/propane_tank001a.mdl
+[22:32:59] Griff<STEAM_0:0:51599729> spawned model models/props_junk/propane_tank001a.mdl
+[22:33:07] Griff<STEAM_0:0:51599729> spawned model models/props_junk/propane_tank001a.mdl
+[22:33:13] Griff<STEAM_0:0:51599729> spawned model models/props_interiors/sinkkitchen01a.mdl
+[22:33:17] Griff<STEAM_0:0:51599729> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[22:33:19] Tyler Gates<STEAM_0:1:54818617> spawned ragdoll models/humans/group01/male_03.mdl
+[22:33:19] Tyler Gates was killed by prop_physics
+[22:33:25] Griff<STEAM_0:0:51599729> spawned model models/props_lab/blastdoor001c.mdl
+[22:33:26] Tyler Gates was killed by prop_physics
+[22:33:28] Griff<STEAM_0:0:51599729> spawned model models/props_lab/blastdoor001c.mdl
+[22:33:30] Griff<STEAM_0:0:51599729> spawned model models/props_lab/blastdoor001c.mdl
+[22:33:32] Griff<STEAM_0:0:51599729> spawned model models/props_lab/blastdoor001c.mdl
+[22:33:34] Griff<STEAM_0:0:51599729> spawned model models/props_lab/blastdoor001c.mdl
+[22:33:35] Griff<STEAM_0:0:51599729> spawned model models/props_junk/propane_tank001a.mdl
+[22:33:37] Griff<STEAM_0:0:51599729> spawned model models/props_junk/propane_tank001a.mdl
+[22:33:55] Griff<STEAM_0:0:51599729> spawned model models/props_interiors/pot02a.mdl
+[22:34:03] Griff<STEAM_0:0:51599729> spawned model models/props_interiors/pot02a.mdl
+[22:39:58] Dropped "Griff" from server<STEAM_0:0:51599729>
+[22:39:58] Client "Griff" connected.
+[22:40:13] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[22:43:41] Griff: t
+[22:44:33] Griff: t
+[22:45:05] Griff: t
+[22:51:24] Griff: t
+[22:51:54] Griff: t
+[22:52:14] Griff: t
+[22:54:03] Dropped "Griff" from server<STEAM_0:0:51599729>
+[22:55:36] Client "Griff" connected.
+[22:55:53] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 17 seconds).
+[23:28:43] Dropped "Griff" from server<STEAM_0:0:51599729>
+[23:29:04] Dropped "Tyler Gates" from server<STEAM_0:1:54818617>

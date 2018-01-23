@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "gdrugs/whitewine/label"
+	$alphatest 1
+	$nocull 1
+}

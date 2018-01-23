@@ -1,0 +1,3 @@
+Thu Jan 18 20:03:12 2018	Griff (STEAM_0:0:51599729) has joined the game
+Thu Jan 18 20:03:12 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 20:03:21 2018	Griff (STEAM_0:0:51599729): !menu

@@ -1,0 +1,385 @@
+Thu Jan 18 12:02:46 2018	Bob Ross (STEAM_0:1:54818617) has joined the game
+Thu Jan 18 12:02:46 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 12:09:00 2018	Griff (STEAM_0:0:51599729) has joined the game
+Thu Jan 18 12:09:00 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 12:11:45 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 12:20:32 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 12:20:33 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 12:20:43 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 12:20:44 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 12:26:28 2018	Griff (STEAM_0:0:51599729): t
+Thu Jan 18 12:31:10 2018	Tyler Gates (STEAM_0:1:54818617): .calc 400
+Thu Jan 18 12:33:07 2018	Tyler Gates (STEAM_0:1:54818617): .CALC 400
+Thu Jan 18 12:33:12 2018	Tyler Gates (STEAM_0:1:54818617): .calc 400
+Thu Jan 18 12:33:51 2018	Tyler Gates (STEAM_0:1:54818617): .calc oqihd
+Thu Jan 18 12:33:54 2018	Griff (STEAM_0:0:51599729): .calc 100
+Thu Jan 18 12:34:08 2018	Griff (STEAM_0:0:51599729): .calc 100
+Thu Jan 18 12:34:20 2018	Griff (STEAM_0:0:51599729): .calc 200
+Thu Jan 18 12:34:22 2018	Griff (STEAM_0:0:51599729): .calc 100
+Thu Jan 18 12:34:24 2018	Tyler Gates (STEAM_0:1:54818617): .calc 200
+Thu Jan 18 12:34:24 2018	Griff (STEAM_0:0:51599729): .calc 200
+Thu Jan 18 12:34:38 2018	Tyler Gates (STEAM_0:1:54818617): .calc 100
+Thu Jan 18 12:34:45 2018	Griff (STEAM_0:0:51599729): .calc 1
+Thu Jan 18 12:34:49 2018	Tyler Gates (STEAM_0:1:54818617): .calc 1
+Thu Jan 18 12:34:50 2018	Griff (STEAM_0:0:51599729): .calc 2
+Thu Jan 18 12:34:53 2018	Griff (STEAM_0:0:51599729): .calc 3
+Thu Jan 18 12:34:56 2018	Griff (STEAM_0:0:51599729): .calc 10
+Thu Jan 18 12:34:58 2018	Griff (STEAM_0:0:51599729): .calc 9
+Thu Jan 18 12:35:01 2018	Griff (STEAM_0:0:51599729): .calc 7
+Thu Jan 18 12:35:03 2018	Griff (STEAM_0:0:51599729): .calc 6
+Thu Jan 18 12:35:20 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 12:35:22 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 12:36:46 2018	Tyler Gates (STEAM_0:1:54818617): .calc 20
+Thu Jan 18 12:36:47 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 12:36:49 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 12:37:08 2018	Tyler Gates (STEAM_0:1:54818617): .calc 20000
+Thu Jan 18 12:37:13 2018	Griff (STEAM_0:0:51599729): .calc 2000
+Thu Jan 18 12:38:19 2018	Griff (STEAM_0:0:51599729): /dro
+Thu Jan 18 12:38:21 2018	Griff (STEAM_0:0:51599729): /drop
+Thu Jan 18 12:39:36 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 12:39:40 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 12:40:30 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 12:40:36 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 12:45:16 2018	Tyler Gates (STEAM_0:1:54818617): .calc 200
+Thu Jan 18 12:50:51 2018	Griff (STEAM_0:0:51599729): t
+Thu Jan 18 12:50:54 2018	Griff (STEAM_0:0:51599729): t
+Thu Jan 18 12:51:06 2018	Griff (STEAM_0:0:51599729): t
+Thu Jan 18 12:51:21 2018	Tyler Gates (STEAM_0:1:54818617): .calc 200
+Thu Jan 18 12:51:27 2018	Tyler Gates (STEAM_0:1:54818617): .calc 5
+Thu Jan 18 12:51:40 2018	Griff (STEAM_0:0:51599729): t
+Thu Jan 18 12:51:59 2018	Griff (STEAM_0:0:51599729): t
+Thu Jan 18 12:52:01 2018	Griff (STEAM_0:0:51599729): t
+Thu Jan 18 12:59:38 2018	Tyler Gates was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 12:59:47 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 13:00:22 2018	Kim Josh Un (STEAM_0:1:46746400) has joined the game
+Thu Jan 18 13:00:22 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:03:09 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:13:10 2018	Kim Josh Un was killed by Entity [710][prop_physics] with a prop_physics
+Thu Jan 18 13:13:16 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:15:52 2018	Kim Josh Un (STEAM_0:1:46746400): !stop
+Thu Jan 18 13:15:54 2018	Kim Josh Un (STEAM_0:1:46746400): /me Checking door for traps
+Thu Jan 18 13:15:56 2018	Kim Josh Un (STEAM_0:1:46746400): /me Strips weapons and comms
+Thu Jan 18 13:15:58 2018	Kim Josh Un (STEAM_0:1:46746400): yes sir
+Thu Jan 18 13:15:59 2018	Kim Josh Un (STEAM_0:1:46746400): /advert Mug over
+Thu Jan 18 13:16:09 2018	Kim Josh Un (STEAM_0:1:46746400): /advert Mug over
+Thu Jan 18 13:16:17 2018	Kim Josh Un (STEAM_0:1:46746400): /me Checking door for traps
+Thu Jan 18 13:16:19 2018	Kim Josh Un (STEAM_0:1:46746400): !stop
+Thu Jan 18 13:16:21 2018	Kim Josh Un (STEAM_0:1:46746400): /me Salutes
+Thu Jan 18 13:16:22 2018	Kim Josh Un (STEAM_0:1:46746400): /advert Die in name of allah
+Thu Jan 18 13:17:14 2018	Griff (STEAM_0:0:51599729): /setmoney kim 1000000
+Thu Jan 18 13:17:14 2018	Griff (STEAM_0:0:51599729) set Kim Josh Un's money to $1,000,000
+Thu Jan 18 13:17:38 2018	Tyler Gates (STEAM_0:1:54818617): .dist 50
+Thu Jan 18 13:17:50 2018	Tyler Gates (STEAM_0:1:54818617): .dist 75
+Thu Jan 18 13:18:59 2018	Tyler Gates (STEAM_0:1:54818617): .add Griff
+Thu Jan 18 13:20:19 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 13:20:33 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 13:20:33 2018	Tyler Gates (STEAM_0:1:54818617) arrested Griff
+Thu Jan 18 13:20:39 2018	Griff (STEAM_0:0:51599729): /forceunarrest
+Thu Jan 18 13:20:40 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:20:49 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 13:20:54 2018	Griff (STEAM_0:0:51599729): /unarrest griff
+Thu Jan 18 13:20:54 2018	Griff (STEAM_0:0:51599729) force-unarrested Griff
+Thu Jan 18 13:20:58 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 13:20:59 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 13:21:05 2018	Kim Josh Un (STEAM_0:1:46746400): !menu
+Thu Jan 18 13:21:30 2018	Tyler Gates was killed by Griff with a m9k_scar_drp
+Thu Jan 18 13:21:31 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 13:21:56 2018	Griff was killed by Tyler Gates with a m9k_scar_drp
+Thu Jan 18 13:21:57 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 13:22:08 2018	Tyler Gates was killed by Griff with a rpg_missile
+Thu Jan 18 13:22:09 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 13:22:17 2018	Tyler Gates was killed by Griff with a ls_sniper
+Thu Jan 18 13:22:20 2018	Tyler Gates (STEAM_0:1:54818617): /license Griff
+Thu Jan 18 13:22:21 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 13:22:33 2018	Tyler Gates (STEAM_0:1:54818617): /weaponslicense griff
+Thu Jan 18 13:24:15 2018	Tyler Gates (STEAM_0:1:54818617): .setguard
+Thu Jan 18 13:25:47 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:26:29 2018	Tyler Gates was killed by Griff with a m9k_thompson_drp
+Thu Jan 18 13:26:30 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 13:26:35 2018	Kim Josh Un was killed by Griff with a m9k_dbarrel_drp
+Thu Jan 18 13:26:37 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:26:39 2018	Tyler Gates was killed by Griff with a m9k_dbarrel_drp
+Thu Jan 18 13:26:40 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 13:26:46 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 13:26:46 2018	Tyler Gates (STEAM_0:1:54818617) arrested Griff
+Thu Jan 18 13:26:50 2018	Griff (STEAM_0:0:51599729): /unarrest griff
+Thu Jan 18 13:26:50 2018	Griff (STEAM_0:0:51599729) force-unarrested Griff
+Thu Jan 18 13:27:00 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:27:06 2018	Tyler Gates was killed by Griff with a m9k_dbarrel_drp
+Thu Jan 18 13:27:07 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 13:27:13 2018	Tyler Gates was killed by Griff with a m9k_dbarrel_drp
+Thu Jan 18 13:27:15 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 13:27:26 2018	Kim Josh Un was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 13:27:28 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:27:39 2018	Kim Josh Un was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 13:27:41 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:27:45 2018	Griff (STEAM_0:0:51599729): /drop
+Thu Jan 18 13:27:52 2018	Griff was killed by Tyler Gates with a m9k_dbarrel_drp
+Thu Jan 18 13:27:54 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 13:28:07 2018	Tyler Gates was killed by Griff with a m9k_dbarrel_drp
+Thu Jan 18 13:28:08 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 13:28:21 2018	Tyler Gates (STEAM_0:1:54818617): /pm girff lick my nuts
+Thu Jan 18 13:28:28 2018	Tyler Gates (STEAM_0:1:54818617): /pm griff
+Thu Jan 18 13:28:30 2018	Kim Josh Un was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 13:28:32 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:28:35 2018	Tyler Gates (STEAM_0:1:54818617): /pm griff test
+Thu Jan 18 13:28:40 2018	Griff (STEAM_0:0:51599729): /pm tyler ye
+Thu Jan 18 13:28:51 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:29:01 2018	Kim Josh Un (STEAM_0:1:46746400): /me Salutes
+Thu Jan 18 13:29:03 2018	Kim Josh Un (STEAM_0:1:46746400): yes sir
+Thu Jan 18 13:29:03 2018	Kim Josh Un (STEAM_0:1:46746400): /advert Mug over
+Thu Jan 18 13:29:13 2018	Kim Josh Un (STEAM_0:1:46746400): /advert Mug over
+Thu Jan 18 13:29:19 2018	Kim Josh Un (STEAM_0:1:46746400): /advert Mug over
+Thu Jan 18 13:29:19 2018	Griff (STEAM_0:0:51599729): /advert test
+Thu Jan 18 13:29:20 2018	Kim Josh Un (STEAM_0:1:46746400): /advert Die in name of allah
+Thu Jan 18 13:29:21 2018	Kim Josh Un (STEAM_0:1:46746400): /advert Mug over
+Thu Jan 18 13:29:22 2018	Kim Josh Un (STEAM_0:1:46746400): /advert Mug over
+Thu Jan 18 13:29:23 2018	Kim Josh Un (STEAM_0:1:46746400): /advert Mug over
+Thu Jan 18 13:29:28 2018	Kim Josh Un (STEAM_0:1:46746400): /advert Die in name of allah
+Thu Jan 18 13:29:55 2018	Griff (STEAM_0:0:51599729): /advert TySoft This is TySoft H.Q. Home of TyCoin
+Thu Jan 18 13:30:37 2018	Kim Josh Un was killed by Griff with a m9k_dbarrel_drp
+Thu Jan 18 13:33:15 2018	chrisman0325 (STEAM_0:1:54672897) has joined the game
+Thu Jan 18 13:33:15 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 13:33:23 2018	Griff (STEAM_0:0:51599729): !menu
+Thu Jan 18 13:34:39 2018	chrisman0325 was killed by Himself with a suicide trick
+Thu Jan 18 13:34:39 2018	Griff (STEAM_0:0:51599729): !slay chris
+Thu Jan 18 13:34:46 2018	chrisman0325 (STEAM_0:1:54672897) disconnected
+Thu Jan 18 13:34:52 2018	Tyler Gates was killed by Himself with a suicide trick
+Thu Jan 18 13:34:55 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 13:35:04 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:35:30 2018	Griff was killed by Kim Josh Un with a m9k_dbarrel_drp
+Thu Jan 18 13:35:31 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 13:35:46 2018	Kim Josh Un was killed by Griff with a m9k_dbarrel_drp
+Thu Jan 18 13:35:50 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:35:56 2018	Kim Josh Un was killed by Griff with a m9k_dbarrel_drp
+Thu Jan 18 13:35:59 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:36:01 2018	Griff was killed by Kim Josh Un with a m9k_dbarrel_drp
+Thu Jan 18 13:36:02 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 13:36:15 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT sent_ball
+Thu Jan 18 13:36:23 2018	Kim Josh Un (STEAM_0:1:46746400): !menu
+Thu Jan 18 13:37:27 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT sent_ball
+Thu Jan 18 13:37:27 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT sent_ball
+Thu Jan 18 13:37:39 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT gmt_instrument_piano
+Thu Jan 18 13:38:12 2018	Tyler Gates (STEAM_0:1:54818617) spawned SENT darkrp_moneypot
+Thu Jan 18 13:38:28 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT sent_deployableballoons
+Thu Jan 18 13:38:40 2018	Tyler Gates (STEAM_0:1:54818617): /setmoney 100000000000
+Thu Jan 18 13:38:50 2018	Tyler Gates (STEAM_0:1:54818617): /setmoney 10000000
+Thu Jan 18 13:39:02 2018	Tyler Gates (STEAM_0:1:54818617): /setmoney Tyler Gates 10000000
+Thu Jan 18 13:39:31 2018	Tyler Gates (STEAM_0:1:54818617): ksajbf
+Thu Jan 18 13:39:32 2018	Kim Josh Un was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 13:39:33 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:39:47 2018	Kim Josh Un (STEAM_0:1:46746400): !stop
+Thu Jan 18 13:39:49 2018	Kim Josh Un (STEAM_0:1:46746400): /me Salutes
+Thu Jan 18 13:39:49 2018	Kim Josh Un (STEAM_0:1:46746400): /me Strips weapons and comms
+Thu Jan 18 13:39:51 2018	Kim Josh Un (STEAM_0:1:46746400): /advert Mug over
+Thu Jan 18 13:39:54 2018	Kim Josh Un (STEAM_0:1:46746400): /advert Mug over
+Thu Jan 18 13:39:59 2018	Kim Josh Un (STEAM_0:1:46746400): !menu
+Thu Jan 18 13:40:00 2018	chrisman0325 (STEAM_0:1:54672897) has joined the game
+Thu Jan 18 13:40:00 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 13:40:10 2018	Griff (STEAM_0:0:51599729): t
+Thu Jan 18 13:40:15 2018	Tyler Gates (STEAM_0:1:54818617): im gay
+Thu Jan 18 13:40:38 2018	chrisman0325 was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 13:40:42 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 13:40:43 2018	Kim Josh Un (STEAM_0:1:46746400): !menu
+Thu Jan 18 13:41:17 2018	Kim Josh Un was killed by Himself with a suicide trick
+Thu Jan 18 13:41:19 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:41:19 2018	Griff (STEAM_0:0:51599729): !maul josh
+Thu Jan 18 13:41:30 2018	Kim Josh Un was killed by NPC [729][npc_fastzombie] with a npc_fastzombie
+Thu Jan 18 13:41:31 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:41:38 2018	Tyler Gates (STEAM_0:1:54818617): cat
+Thu Jan 18 13:41:42 2018	Griff (STEAM_0:0:51599729): im a fag
+Thu Jan 18 13:41:57 2018	Kim Josh Un was killed by Griff with a m9k_dbarrel_drp
+Thu Jan 18 13:41:58 2018	chrisman0325 was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 13:41:59 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:42:01 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 13:42:25 2018	Kim Josh Un was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 13:42:27 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:42:31 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 13:43:00 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:43:58 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 13:43:59 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 13:46:46 2018	Griff (STEAM_0:0:51599729): im gay
+Thu Jan 18 13:47:43 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 13:47:55 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 13:47:55 2018	Griff (STEAM_0:0:51599729) arrested chrisman0325
+Thu Jan 18 13:48:16 2018	Griff (STEAM_0:0:51599729) unarrested chrisman0325
+Thu Jan 18 13:48:52 2018	Griff (STEAM_0:0:51599729): gaywas
+Thu Jan 18 13:48:53 2018	Kim Josh Un (STEAM_0:1:46746400): gay
+Thu Jan 18 13:49:00 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:49:24 2018	Griff (STEAM_0:0:51599729): .test
+Thu Jan 18 13:49:34 2018	Griff (STEAM_0:0:51599729): .test
+Thu Jan 18 13:50:01 2018	Tyler Gates was killed by Himself with a suicide trick
+Thu Jan 18 13:50:04 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 13:50:09 2018	Tyler Gates was killed by Himself with a suicide trick
+Thu Jan 18 13:50:12 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 13:50:17 2018	Kim Josh Un was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 13:50:19 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:50:25 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 13:50:25 2018	Griff (STEAM_0:0:51599729) arrested Tyler Gates
+Thu Jan 18 13:50:25 2018	chrisman0325 was killed by Kim Josh Un with a m9k_hk45_drp
+Thu Jan 18 13:50:30 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 13:50:30 2018	Tyler Gates (STEAM_0:1:54818617): /forcelock
+Thu Jan 18 13:50:30 2018	Tyler Gates (STEAM_0:1:54818617) force-locked a door with forcelock (locked door is saved)
+Thu Jan 18 13:50:32 2018	Tyler Gates (STEAM_0:1:54818617): /forceunlock
+Thu Jan 18 13:50:32 2018	Tyler Gates (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Thu Jan 18 13:50:32 2018	Griff (STEAM_0:0:51599729): /unarrest ty
+Thu Jan 18 13:50:32 2018	Griff (STEAM_0:0:51599729) force-unarrested Bob Ross
+Thu Jan 18 13:50:43 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 13:50:43 2018	Griff (STEAM_0:0:51599729) arrested chrisman0325
+Thu Jan 18 13:50:48 2018	Griff was killed by Tyler Gates with a m9k_scar_drp
+Thu Jan 18 13:50:48 2018	Griff (STEAM_0:0:51599729): /unarrest chris
+Thu Jan 18 13:50:48 2018	Griff (STEAM_0:0:51599729) force-unarrested chrisman0325
+Thu Jan 18 13:50:49 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 13:51:00 2018	chrisman0325 (STEAM_0:1:54672897): /buy
+Thu Jan 18 13:51:16 2018	Griff (STEAM_0:0:51599729) spawned SENT gmt_instrument_piano
+Thu Jan 18 13:51:27 2018	Kim Josh Un was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 13:51:32 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:52:13 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT gmt_instrument_piano
+Thu Jan 18 13:52:58 2018	Kim Josh Un was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 13:53:03 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:53:43 2018	Griff (STEAM_0:0:51599729) spawned SENT edit_fog
+Thu Jan 18 13:53:46 2018	Griff (STEAM_0:0:51599729) spawned SENT edit_sky
+Thu Jan 18 13:53:47 2018	Griff (STEAM_0:0:51599729) spawned SENT edit_sun
+Thu Jan 18 13:54:05 2018	chrisman0325 was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 13:54:05 2018	Griff (STEAM_0:0:51599729) spawned SENT sent_ball
+Thu Jan 18 13:54:13 2018	Tyler Gates (STEAM_0:1:54818617): .buy 200
+Thu Jan 18 13:54:16 2018	Griff (STEAM_0:0:51599729): .buy 200
+Thu Jan 18 13:54:17 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT sent_ball
+Thu Jan 18 13:54:17 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT sent_ball
+Thu Jan 18 13:54:17 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT sent_ball
+Thu Jan 18 13:54:17 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT sent_ball
+Thu Jan 18 13:54:18 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT sent_ball
+Thu Jan 18 13:54:18 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT sent_ball
+Thu Jan 18 13:54:18 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT sent_ball
+Thu Jan 18 13:54:18 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT sent_ball
+Thu Jan 18 13:54:18 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT sent_ball
+Thu Jan 18 13:54:23 2018	Griff (STEAM_0:0:51599729): .buy 40000000000000
+Thu Jan 18 13:54:25 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 13:54:26 2018	Griff (STEAM_0:0:51599729): .buy 10000
+Thu Jan 18 13:54:39 2018	Griff (STEAM_0:0:51599729) spawned SENT gmt_instrument_piano
+Thu Jan 18 13:54:51 2018	chrisman0325 was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 13:55:06 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 13:55:07 2018	chrisman0325 (STEAM_0:1:54672897) disconnected
+Thu Jan 18 13:55:15 2018	Kim Josh Un (STEAM_0:1:46746400) disconnected
+Thu Jan 18 13:55:34 2018	chrisman0325 (STEAM_0:1:54672897) has joined the game
+Thu Jan 18 13:55:34 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 13:56:07 2018	Kim Josh Un (STEAM_0:1:46746400) has joined the game
+Thu Jan 18 13:56:07 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:56:08 2018	Griff (STEAM_0:0:51599729) spawned SENT gmt_instrument_piano
+Thu Jan 18 13:56:31 2018	Griff (STEAM_0:0:51599729) spawned SENT gmt_instrument_piano
+Thu Jan 18 13:56:46 2018	chrisman0325 was killed by Griff with a m9k_hk45_drp
+Thu Jan 18 13:56:48 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 13:56:52 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT gmt_instrument_piano
+Thu Jan 18 13:57:01 2018	Griff (STEAM_0:0:51599729) spawned SENT sent_ball
+Thu Jan 18 13:57:31 2018	chrisman0325 was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 13:57:31 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT gmt_instrument_piano
+Thu Jan 18 13:57:33 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 13:57:56 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT gmt_instrument_piano
+Thu Jan 18 13:57:56 2018	Kim Josh Un was killed by Entity [732][gmt_instrument_piano] with a gmt_instrument_piano
+Thu Jan 18 13:58:22 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 13:59:14 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 13:59:22 2018	chrisman0325 was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 13:59:24 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 14:00:07 2018	chrisman0325 was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 14:00:09 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 14:00:19 2018	Tyler Gates was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 14:00:22 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT gmt_instrument_piano
+Thu Jan 18 14:00:31 2018	Griff (STEAM_0:0:51599729) spawned SENT gmt_instrument_piano
+Thu Jan 18 14:00:36 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 14:00:43 2018	Tyler Gates (STEAM_0:1:54818617): .buy 20
+Thu Jan 18 14:01:04 2018	Tyler Gates (STEAM_0:1:54818617): .buy 20
+Thu Jan 18 14:01:13 2018	Griff (STEAM_0:0:51599729): .buy 20
+Thu Jan 18 14:01:26 2018	Griff (STEAM_0:0:51599729): .buy 500
+Thu Jan 18 14:02:09 2018	Tyler Gates (STEAM_0:1:54818617): .buy 20
+Thu Jan 18 14:02:14 2018	Tyler Gates (STEAM_0:1:54818617): .buy 50
+Thu Jan 18 14:02:41 2018	Kim Josh Un was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 14:02:44 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 14:03:19 2018	chrisman0325 (STEAM_0:1:54672897) spawned SENT sent_ball
+Thu Jan 18 14:03:20 2018	chrisman0325 (STEAM_0:1:54672897) spawned SENT sent_ball
+Thu Jan 18 14:03:20 2018	chrisman0325 (STEAM_0:1:54672897) spawned SENT sent_ball
+Thu Jan 18 14:03:20 2018	chrisman0325 (STEAM_0:1:54672897) spawned SENT sent_ball
+Thu Jan 18 14:03:20 2018	chrisman0325 (STEAM_0:1:54672897) spawned SENT sent_ball
+Thu Jan 18 14:03:21 2018	chrisman0325 (STEAM_0:1:54672897) spawned SENT sent_ball
+Thu Jan 18 14:03:21 2018	chrisman0325 (STEAM_0:1:54672897) spawned SENT sent_ball
+Thu Jan 18 14:03:21 2018	chrisman0325 (STEAM_0:1:54672897) spawned SENT sent_ball
+Thu Jan 18 14:03:26 2018	chrisman0325 (STEAM_0:1:54672897) spawned SENT item_ammo_357
+Thu Jan 18 14:03:28 2018	chrisman0325 (STEAM_0:1:54672897) spawned SENT item_ammo_357
+Thu Jan 18 14:03:35 2018	chrisman0325 (STEAM_0:1:54672897) spawned SENT item_suit
+Thu Jan 18 14:03:52 2018	Tyler Gates (STEAM_0:1:54818617): .buy 20
+Thu Jan 18 14:04:08 2018	chrisman0325 (STEAM_0:1:54672897) spawned SENT sent_deployableballoons
+Thu Jan 18 14:04:23 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 14:04:25 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 14:04:25 2018	chrisman0325 (STEAM_0:1:54672897) spawned SENT darkrp_moneypot
+Thu Jan 18 14:04:27 2018	Tyler Gates (STEAM_0:1:54818617): .buy 30
+Thu Jan 18 14:04:34 2018	Tyler Gates (STEAM_0:1:54818617): .buy 10
+Thu Jan 18 14:06:03 2018	Griff (STEAM_0:0:51599729): /dropmoney 500
+Thu Jan 18 14:06:04 2018	Griff (STEAM_0:0:51599729) has dropped $500
+Thu Jan 18 14:06:53 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT gmt_instrument_piano
+Thu Jan 18 14:07:37 2018	Griff (STEAM_0:0:51599729): /dropmoney 500
+Thu Jan 18 14:07:38 2018	Griff (STEAM_0:0:51599729) has dropped $500
+Thu Jan 18 14:07:46 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT gmt_instrument_piano
+Thu Jan 18 14:08:24 2018	chrisman0325 (STEAM_0:1:54672897) disconnected
+Thu Jan 18 14:09:48 2018	chrisman0325 (STEAM_0:1:54672897) has joined the game
+Thu Jan 18 14:09:48 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 14:11:31 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 14:12:26 2018	Kim Josh Un (STEAM_0:1:46746400) spawned SENT gmt_instrument_piano
+Thu Jan 18 14:12:37 2018	Griff (STEAM_0:0:51599729): /rpmoney chris 100000
+Thu Jan 18 14:12:44 2018	Griff (STEAM_0:0:51599729): /setmoney chris 10000000
+Thu Jan 18 14:12:44 2018	Griff (STEAM_0:0:51599729) set chrisman0325's money to $10,000,000
+Thu Jan 18 14:12:54 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 14:12:54 2018	Griff (STEAM_0:0:51599729) arrested Kim Josh Un
+Thu Jan 18 14:13:00 2018	Griff (STEAM_0:0:51599729): /unarrest josh
+Thu Jan 18 14:13:00 2018	Griff (STEAM_0:0:51599729) force-unarrested Kim Josh Un
+Thu Jan 18 14:13:02 2018	Kim Josh Un (STEAM_0:1:46746400): !unarrest
+Thu Jan 18 14:13:40 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 14:13:52 2018	Griff (STEAM_0:0:51599729): /dropmoney 1500
+Thu Jan 18 14:13:53 2018	Griff (STEAM_0:0:51599729) has dropped $1,500
+Thu Jan 18 14:14:16 2018	Kim Josh Un was killed by chrisman0325 with a m9k_scar_drp
+Thu Jan 18 14:14:17 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 14:14:46 2018	Kim Josh Un was killed by Griff with a m9k_scar_drp
+Thu Jan 18 14:14:47 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 14:16:07 2018	Griff (STEAM_0:0:51599729) disconnected
+Thu Jan 18 14:16:38 2018	Kim Josh Un was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 14:16:42 2018	Kim Josh Un (STEAM_0:1:46746400) disconnected
+Thu Jan 18 14:53:56 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 14:54:25 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 14:54:39 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 14:55:21 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 15:02:08 2018	chrisman0325 was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 15:02:10 2018	chrisman0325 (STEAM_0:1:54672897) spawned
+Thu Jan 18 15:12:00 2018	chrisman0325 (STEAM_0:1:54672897) disconnected
+Thu Jan 18 19:13:44 2018	Tyler Gates (STEAM_0:1:54818617) disconnected
+Thu Jan 18 19:25:13 2018	Griff (STEAM_0:0:51599729) has joined the game
+Thu Jan 18 19:25:13 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 19:25:19 2018	Bob Ross (STEAM_0:1:54818617) has joined the game
+Thu Jan 18 19:25:19 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 19:27:26 2018	Kim Josh Un (STEAM_0:1:46746400) has joined the game
+Thu Jan 18 19:27:26 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 19:31:22 2018	Kim Josh Un (STEAM_0:1:46746400): /advert Die in name of allah
+Thu Jan 18 19:31:39 2018	Kim Josh Un (STEAM_0:1:46746400): !menu
+Thu Jan 18 19:31:51 2018	Kim Josh Un was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 19:31:53 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 19:32:01 2018	Kim Josh Un was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 19:32:02 2018	Kim Josh Un (STEAM_0:1:46746400) spawned
+Thu Jan 18 19:32:08 2018	Kim Josh Un (STEAM_0:1:46746400) disconnected
+Thu Jan 18 19:34:53 2018	stmyrchris (STEAM_0:1:72709106) has joined the game
+Thu Jan 18 19:34:53 2018	stmyrchris (STEAM_0:1:72709106) spawned
+Thu Jan 18 19:35:35 2018	Tyler Gates (STEAM_0:1:54818617): aye
+Thu Jan 18 19:36:23 2018	stmyrchris was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 19:36:35 2018	stmyrchris (STEAM_0:1:72709106) spawned
+Thu Jan 18 19:37:44 2018	Tyler Gates (STEAM_0:1:54818617): you want play game
+Thu Jan 18 19:38:11 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 19:39:36 2018	stmyrchris (STEAM_0:1:72709106) disconnected
+Thu Jan 18 19:46:35 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 19:52:42 2018	Griff was killed by Entity [719][prop_physics] with a prop_physics
+Thu Jan 18 19:52:43 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 19:57:53 2018	Tyler Gates (STEAM_0:1:54818617): .add griff
+Thu Jan 18 19:58:13 2018	Griff (STEAM_0:0:51599729): .add ty
+Thu Jan 18 19:58:56 2018	Tyler Gates (STEAM_0:1:54818617): .add fruff
+Thu Jan 18 19:59:05 2018	Tyler Gates (STEAM_0:1:54818617): .add griff
+Thu Jan 18 19:59:27 2018	Tyler Gates (STEAM_0:1:54818617): .setguard
+Thu Jan 18 19:59:46 2018	me have big dong (STEAM_0:0:93670970) has joined the game
+Thu Jan 18 19:59:46 2018	me have big dong (STEAM_0:0:93670970) spawned
+Thu Jan 18 19:59:49 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 19:59:50 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 20:01:44 2018	me have big dong (STEAM_0:0:93670970) disconnected

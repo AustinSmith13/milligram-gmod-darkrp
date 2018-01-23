@@ -1,0 +1,77 @@
+Mon Jan 22 19:33:54 2018	Griff (STEAM_0:0:51599729) has joined the game
+Mon Jan 22 19:33:54 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 19:34:09 2018	A1steaksa (STEAM_0:0:18354638) has joined the game
+Mon Jan 22 19:34:09 2018	Vincent Luciano (STEAM_0:0:18354638) spawned
+Mon Jan 22 19:34:22 2018	Griff (STEAM_0:0:51599729): !cac
+Mon Jan 22 19:34:23 2018	Griff (STEAM_0:0:51599729): t
+Mon Jan 22 19:35:46 2018	Vincent Luciano was killed by Griff with a lite_deagle
+Mon Jan 22 19:35:50 2018	Vincent Luciano (STEAM_0:0:18354638) spawned
+Mon Jan 22 19:35:58 2018	Bob Ross (STEAM_0:1:54818617) has joined the game
+Mon Jan 22 19:35:58 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Mon Jan 22 19:38:02 2018	Griff (STEAM_0:0:51599729): 
+Mon Jan 22 19:38:07 2018	Griff (STEAM_0:0:51599729): 
+Mon Jan 22 19:38:42 2018	Griff (STEAM_0:0:51599729): !cac_menu
+Mon Jan 22 19:38:46 2018	Griff (STEAM_0:0:51599729) disconnected
+Mon Jan 22 19:39:14 2018	Griff (STEAM_0:0:51599729) has joined the game
+Mon Jan 22 19:39:14 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 19:39:24 2018	Griff (STEAM_0:0:51599729): !cac_menu
+Mon Jan 22 19:40:10 2018	Vincent Luciano (STEAM_0:0:18354638) disconnected
+Mon Jan 22 19:40:44 2018	A1steaksa (STEAM_0:0:18354638) has joined the game
+Mon Jan 22 19:40:44 2018	Vincent Luciano (STEAM_0:0:18354638) spawned
+Mon Jan 22 19:40:57 2018	Bob Ross (STEAM_0:1:54818617) disconnected
+Mon Jan 22 19:41:26 2018	Bob Ross (STEAM_0:1:54818617) has joined the game
+Mon Jan 22 19:41:26 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Mon Jan 22 19:41:34 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) has joined the game
+Mon Jan 22 19:41:34 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Mon Jan 22 19:43:39 2018	Vincent Luciano (STEAM_0:0:18354638): print("shit")
+Mon Jan 22 19:44:17 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Mon Jan 22 19:44:18 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 19:44:56 2018	Vincent Luciano was killed by Entity [96][prop_physics] with a prop_physics
+Mon Jan 22 19:44:57 2018	Griff was killed by Bob Ross with a lite_p90
+Mon Jan 22 19:44:58 2018	Vincent Luciano (STEAM_0:0:18354638) spawned
+Mon Jan 22 19:44:59 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 19:45:25 2018	Bob Ross was killed by Griff with a lite_sg550
+Mon Jan 22 19:45:33 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Mon Jan 22 19:46:04 2018	Akihiro | 太糟了 was killed by Entity [0][worldspawn] with a unknown
+Mon Jan 22 19:46:06 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Mon Jan 22 19:46:07 2018	Griff was killed by Bob Ross with a lite_m3
+Mon Jan 22 19:46:08 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 19:46:12 2018	Bob Ross was killed by Griff with a lite_mp5
+Mon Jan 22 19:46:17 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Mon Jan 22 19:46:38 2018	Bob Ross (STEAM_0:1:54818617): /setmoney bob 700000
+Mon Jan 22 19:46:38 2018	Bob Ross (STEAM_0:1:54818617) set Bob Ross's money to $700,000
+Mon Jan 22 19:46:41 2018	Bob Ross was killed by Griff with a lite_mp5
+Mon Jan 22 19:46:46 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Mon Jan 22 19:47:20 2018	Griff was killed by Bob Ross with a lite_xm1014
+Mon Jan 22 19:47:21 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 19:47:52 2018	Bob Ross was killed by Griff with a lite_scout
+Mon Jan 22 19:47:54 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Mon Jan 22 19:48:09 2018	Bob Ross was killed by Griff with a lite_sg552
+Mon Jan 22 19:48:10 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Mon Jan 22 19:48:14 2018	Akihiro | 太糟了 was killed by Griff with a lite_tmp
+Mon Jan 22 19:48:14 2018	Griff was killed by Bob Ross with a lite_m4a1
+Mon Jan 22 19:48:15 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Mon Jan 22 19:48:17 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 19:48:24 2018	Griff was killed by Bob Ross with a lite_aug
+Mon Jan 22 19:48:25 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 19:48:31 2018	Bob Ross (STEAM_0:1:54818617) spawned SENT sent_arc_pinmachine
+Mon Jan 22 19:49:29 2018	Griff (STEAM_0:0:51599729) spawned SENT sent_arc_pinmachine
+Mon Jan 22 19:50:02 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Mon Jan 22 19:51:42 2018	Griff (STEAM_0:0:51599729): /setmoney aki 20000
+Mon Jan 22 19:51:42 2018	Griff (STEAM_0:0:51599729) set Akihiro | 太糟了's money to $20,000
+Mon Jan 22 19:52:32 2018	Akihiro | 太糟了 was killed by Entity [0][worldspawn] with a unknown
+Mon Jan 22 19:52:33 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Mon Jan 22 19:53:29 2018	Akihiro | 太糟了 was killed by Entity [0][worldspawn] with a unknown
+Mon Jan 22 19:53:31 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Mon Jan 22 19:53:53 2018	Griff (STEAM_0:0:51599729): // hello world
+Mon Jan 22 19:53:54 2018	Vincent Luciano (STEAM_0:0:18354638): // ulx ban "Bob Ross" 2d Prop surfing
+Mon Jan 22 19:53:57 2018	Bob Ross (STEAM_0:1:54818617): :unhappy::unhappy:
+Mon Jan 22 19:56:30 2018	Bob Ross (STEAM_0:1:54818617): /setmoney bob 1000000000
+Mon Jan 22 19:56:30 2018	Bob Ross (STEAM_0:1:54818617) set Bob Ross's money to $1,000,000,000
+Mon Jan 22 19:57:55 2018	Akihiro | 太糟了 (STEAM_0:1:188481945): 
+Mon Jan 22 19:58:13 2018	Bob Ross (STEAM_0:1:54818617) spawned SENT sent_arc_pinmachine
+Mon Jan 22 20:00:09 2018	Griff (STEAM_0:0:51599729) disconnected
+Mon Jan 22 20:00:31 2018	Griff (STEAM_0:0:51599729) has joined the game
+Mon Jan 22 20:00:31 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 20:00:56 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 20:02:20 2018	Akihiro | 太糟了 was killed by Entity [0][worldspawn] with a unknown

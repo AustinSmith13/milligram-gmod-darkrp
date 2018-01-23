@@ -1,0 +1,20 @@
+Thu Jan 18 20:04:04 2018	Griff (STEAM_0:0:51599729) has joined the game
+Thu Jan 18 20:04:04 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 20:04:11 2018	Bob Ross (STEAM_0:1:54818617) has joined the game
+Thu Jan 18 20:04:11 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Thu Jan 18 20:05:44 2018	Tyler Gates (STEAM_0:1:54818617): VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+Thu Jan 18 20:05:45 2018	Tyler Gates (STEAM_0:1:54818617): /forceunlock
+Thu Jan 18 20:05:45 2018	Tyler Gates (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Thu Jan 18 20:05:49 2018	Tyler Gates (STEAM_0:1:54818617): /forceunlock
+Thu Jan 18 20:05:49 2018	Tyler Gates (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Thu Jan 18 20:05:53 2018	Tyler Gates (STEAM_0:1:54818617): /forceunlock
+Thu Jan 18 20:05:53 2018	Tyler Gates (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Thu Jan 18 20:07:50 2018	Griff (STEAM_0:0:51599729): /setspawn
+Thu Jan 18 20:11:06 2018	Tyler Gates (STEAM_0:1:54818617): /forceunlock
+Thu Jan 18 20:11:06 2018	Tyler Gates (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Thu Jan 18 20:13:31 2018	Tyler Gates (STEAM_0:1:54818617): .setguard
+Thu Jan 18 20:21:22 2018	Griff (STEAM_0:0:51599729) spawned
+Thu Jan 18 20:23:27 2018	Tyler Gates (STEAM_0:1:54818617): /forceunlock
+Thu Jan 18 20:23:27 2018	Tyler Gates (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Thu Jan 18 20:25:29 2018	Tyler Gates was killed by Entity [0][worldspawn] with a unknown
+Thu Jan 18 20:25:30 2018	Tyler Gates (STEAM_0:1:54818617) spawned

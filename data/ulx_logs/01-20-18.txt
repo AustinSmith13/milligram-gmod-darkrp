@@ -1,0 +1,451 @@
+[02:10:45] New map: rp_bangclaw
+[15:17:54] Client "Bob Ross" connected.
+[15:18:49] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 55 seconds).
+[15:19:41] Tyler Gates changed the map to rp_downtown_v4c_v2
+[15:19:41] Server is shutting down/changing levels.
+
+
+
+[15:19:48] New map: rp_downtown_v4c_v2
+[15:20:20] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 36 seconds).
+[15:21:10] Tyler Gates changed the map to rp_downtown_v4c_v3
+[15:21:10] Server is shutting down/changing levels.
+
+
+
+[15:21:17] New map: rp_downtown_v4c_v3
+[15:21:49] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 35 seconds).
+[15:24:19] Tyler Gates changed the map to rp_downtown_v4_exl
+[15:24:19] Server is shutting down/changing levels.
+
+
+
+[15:24:26] New map: rp_downtown_v4_exl
+[15:24:56] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 33 seconds).
+[15:26:56] Tyler Gates: /forceunlock
+[15:28:19] Tyler Gates: /forceunlock
+[15:28:28] Tyler Gates: /forceunlock
+[15:28:34] Tyler Gates: /forceunlock
+[15:29:20] Tyler Gates: /forceunlock
+[15:29:24] Tyler Gates: /forceunlock
+[15:29:31] Tyler Gates: /forceunlock
+[15:29:38] Tyler Gates: /forceunlock
+[15:34:09] Tyler Gates suicided!
+[15:34:54] Tyler Gates: /forceunlock
+[15:35:20] Tyler Gates: /forceunlock
+[15:35:25] Tyler Gates: /forceunlock
+[15:35:33] Tyler Gates: /forceunlock
+[15:35:37] Tyler Gates: /forceunlock
+[15:35:41] Tyler Gates: /forceunlock
+[15:36:29] Tyler Gates: /forceunlock
+[15:36:41] Tyler Gates: /forceunlock
+[15:36:46] Tyler Gates: /forceunlock
+[15:36:50] Tyler Gates: /forceunlock
+[15:37:01] Tyler Gates: /forceunlock
+[15:37:02] Tyler Gates: /forceunlock
+[15:37:05] Tyler Gates: /forceunlock
+[15:37:08] Tyler Gates: /forceunlock
+[15:37:10] Tyler Gates: /forceunlock
+[15:37:16] Tyler Gates: /forceunlock
+[15:38:11] Tyler Gates: /forceunlock
+[15:38:17] Tyler Gates: /forceunlock
+[15:38:27] Tyler Gates: /forceunlock
+[15:38:39] Tyler Gates: /forceunlock
+[15:38:56] Tyler Gates: /forceunlock
+[15:41:45] Tyler Gates: /forceunlock
+[15:41:50] Tyler Gates: /forceunlock
+[15:41:53] Tyler Gates: /forceunlock
+[15:42:04] Tyler Gates: /forceunlock
+[15:42:15] Tyler Gates: /forceunlock
+[15:48:50] Client "$crim" connected.
+[15:49:36] Client "$crim" spawned in server <STEAM_0:0:92881884> (took 46 seconds).
+[15:50:49] $crim: bob russ
+[15:51:36] Client "ThunderPanda" connected.
+[15:51:46] $crim: sell me some guns
+[15:51:57] Tyler Gates: okay
+[15:52:06] $crim: i need ammo
+[15:52:19] Client "ThunderPanda" spawned in server <STEAM_0:0:87381926> (took 43 seconds).
+[15:52:21] Tyler Gates: you can buy ammo in the F4 menu
+[15:52:33] $crim: show up as nothing
+[15:52:44] Tyler Gates: in entities
+[15:52:55] $crim: k
+[15:53:17] $crim killed ThunderPanda using player
+[15:54:24] $crim<STEAM_0:0:92881884> spawned model models/props_c17/furniturefridge001a.mdl
+[15:55:17] $crim killed ThunderPanda using player
+[15:56:01] $crim killed ThunderPanda using player
+[15:56:17] $crim killed ThunderPanda using player
+[15:56:29] $crim killed ThunderPanda using player
+[15:56:46] $crim killed ThunderPanda using player
+[15:57:12] ThunderPanda killed $crim using player
+[15:57:16] $crim killed ThunderPanda using player
+[15:57:26] ThunderPanda killed $crim using player
+[15:57:30] $crim killed ThunderPanda using player
+[15:57:42] ThunderPanda killed Tyler Gates using player
+[15:57:43] $crim: we're 1v1ing
+[15:57:46] $crim killed ThunderPanda using player
+[15:57:58] $crim killed ThunderPanda using player
+[15:58:02] $crim killed Tyler Gates using player
+[15:58:08] ThunderPanda killed $crim using player
+[15:58:19] $crim killed ThunderPanda using player
+[15:58:23] $crim suicided!
+[15:58:25] Tyler Gates: /forceunlock
+[15:58:29] $crim killed ThunderPanda using player
+[15:58:36] $crim suicided!
+[15:58:44] $crim killed ThunderPanda using player
+[15:58:50] $crim killed Tyler Gates using player
+[15:59:16] Tyler Gates: /forcelock
+[15:59:33] $crim: /dropweapon
+[16:00:25] Tyler Gates: /forceunlock
+[16:00:56] Tyler Gates killed ThunderPanda using player
+[16:01:59] ThunderPanda killed Tyler Gates using player
+[16:03:32] (SILENT) Tyler Gates began spectating $crim
+[16:04:01] (SILENT) Tyler Gates stopped spectating $crim
+[16:04:27] Tyler Gates killed $crim using player
+[16:04:29] Tyler Gates killed ThunderPanda using player
+[16:05:04] $crim<STEAM_0:0:92881884> spawned model models/props_c17/fence03a.mdl
+[16:05:11] ThunderPanda<STEAM_0:0:87381926> spawned model models/props_c17/gaspipes006a.mdl
+[16:05:12] (SILENT) Tyler Gates began spectating $crim
+[16:09:28] ThunderPanda: WHERER UAT
+[16:09:33] (SILENT) Tyler Gates stopped spectating $crim
+[16:09:37] $crim: ayy boi
+[16:12:37] ThunderPanda killed Tyler Gates using player
+[16:13:29] $crim killed Tyler Gates using player
+[16:13:35] Tyler Gates: /unownalldoors
+[16:13:50] $crim killed Tyler Gates using player
+[16:14:23] $crim killed Tyler Gates using player
+[16:14:48] ThunderPanda killed Tyler Gates using player
+[16:15:15] (SILENT) Tyler Gates began spectating $crim
+[16:17:50] (SILENT) Tyler Gates stopped spectating $crim
+[16:19:28] $crim: where ya at
+[16:19:49] Tyler Gates killed ThunderPanda using player
+[16:20:42] ThunderPanda killed Tyler Gates using player
+[16:23:15] (SILENT) Tyler Gates began spectating $crim
+[16:24:22] (SILENT) Tyler Gates stopped spectating $crim
+[16:24:27] (SILENT) Tyler Gates began spectating ThunderPanda
+[16:24:37] (SILENT) Tyler Gates stopped spectating ThunderPanda
+[16:26:24] $crim killed Tyler Gates using player
+[16:27:23] $crim killed Tyler Gates using player
+[16:27:40] $crim<STEAM_0:0:92881884> spawned model models/props_c17/fence03a.mdl
+[16:27:43] $crim<STEAM_0:0:92881884> spawned model models/props_c17/fence03a.mdl
+[16:27:54] $crim<STEAM_0:0:92881884> spawned model models/props_c17/fence03a.mdl
+[16:29:58] Tyler Gates set the hp for Themself to 100
+[16:33:20] ThunderPanda killed Tyler Gates using player
+[16:35:36] $crim: talk
+[16:36:40] $crim killed Tyler Gates using player
+[16:37:13] ThunderPanda killed Tyler Gates using player
+[16:40:00] $crim suicided!
+[16:45:17] ThunderPanda killed Tyler Gates using player
+[16:46:58] Tyler Gates: // you guys should read the rule
+[16:49:54] (SILENT) Tyler Gates began spectating $crim
+[16:53:01] Client "Boocester" connected.
+[16:53:38] Client "Boocester" spawned in server <STEAM_0:0:138311010> (took 37 seconds).
+[16:54:12] Boocester<STEAM_0:0:138311010> spawned model models/props_c17/concrete_barrier001a.mdl
+[16:54:19] Boocester<STEAM_0:0:138311010> spawned model models/props_c17/concrete_barrier001a.mdl
+[16:54:21] (SILENT) Tyler Gates stopped spectating $crim
+[16:54:22] Boocester<STEAM_0:0:138311010> spawned model models/props_c17/concrete_barrier001a.mdl
+[16:54:26] Boocester was killed by prop_physics
+[16:54:35] Boocester<STEAM_0:0:138311010> spawned model models/props_c17/concrete_barrier001a.mdl
+[16:54:37] $crim killed Boocester using player
+[16:54:40] Boocester<STEAM_0:0:138311010> spawned model models/props_c17/furniturecouch002a.mdl
+[16:54:43] $crim was killed by prop_physics
+[16:54:47] Boocester<STEAM_0:0:138311010> spawned model models/props_c17/furniturecouch002a.mdl
+[16:54:50] Boocester<STEAM_0:0:138311010> spawned model models/props_c17/furniturecouch002a.mdl
+[16:55:03] Boocester<STEAM_0:0:138311010> spawned model models/props_lab/blastdoor001c.mdl
+[16:55:05] Boocester<STEAM_0:0:138311010> spawned model models/props_lab/blastdoor001c.mdl
+[16:55:10] Boocester<STEAM_0:0:138311010> spawned model models/props_lab/blastdoor001c.mdl
+[16:55:12] Boocester<STEAM_0:0:138311010> spawned model models/props_lab/blastdoor001c.mdl
+[16:55:15] Boocester<STEAM_0:0:138311010> spawned model models/props_lab/blastdoor001c.mdl
+[16:55:17] ThunderPanda killed Boocester using player
+[16:55:24] Boocester<STEAM_0:0:138311010> spawned model models/props_c17/concrete_barrier001a.mdl
+[16:55:28] $crim was killed by prop_physics
+[16:55:34] Boocester<STEAM_0:0:138311010> spawned model models/props_c17/concrete_barrier001a.mdl
+[16:55:36] $crim was killed by prop_physics
+[16:55:42] Boocester<STEAM_0:0:138311010> spawned model models/props_lab/blastdoor001c.mdl
+[16:55:44] Boocester<STEAM_0:0:138311010> spawned model models/props_lab/blastdoor001c.mdl
+[16:55:47] Boocester<STEAM_0:0:138311010> spawned model models/props_lab/blastdoor001c.mdl
+[16:55:49] Boocester<STEAM_0:0:138311010> spawned model models/props_lab/blastdoor001c.mdl
+[16:55:51] Boocester<STEAM_0:0:138311010> spawned model models/props_lab/blastdoor001c.mdl
+[16:55:52] Tyler Gates was killed by prop_physics
+[16:56:02] Boocester<STEAM_0:0:138311010> spawned model models/props_c17/concrete_barrier001a.mdl
+[16:56:05] ThunderPanda was killed by prop_physics
+[16:56:12] Boocester<STEAM_0:0:138311010> spawned model models/props_lab/blastdoor001c.mdl
+[16:56:14] $crim killed Boocester using player
+[16:56:20] Boocester<STEAM_0:0:138311010> spawned model models/props_c17/concrete_barrier001a.mdl
+[16:56:23] $crim killed Tyler Gates using player
+[16:56:25] Boocester<STEAM_0:0:138311010> spawned model models/props_c17/concrete_barrier001a.mdl
+[16:56:27] Boocester<STEAM_0:0:138311010> spawned model models/props_c17/concrete_barrier001a.mdl
+[16:56:27] Tyler Gates banned Boocester for 1 day (Prop Killing)
+[16:56:27] Dropped "Boocester" from server<STEAM_0:0:138311010>
+[16:56:46] ThunderPanda<STEAM_0:0:87381926> spawned model models/props_vehicles/generatortrailer01.mdl
+[16:57:11] ThunderPanda killed Tyler Gates using player
+[16:57:44] $crim: yo
+[16:57:47] $crim: how do we move this
+[16:58:14] $crim: /warrant prop kill
+[16:58:22] $crim: /warrant Tyler Gates
+[16:58:45] $crim: thanks
+[16:59:32] ThunderPanda killed $crim using player
+[17:00:10] $crim killed ThunderPanda using player
+[17:02:02] $crim killed ThunderPanda using player
+[17:02:16] $crim killed ThunderPanda using player
+[17:02:36] $crim killed ThunderPanda using player
+[17:02:53] ThunderPanda killed $crim using player
+[17:03:21] $crim killed ThunderPanda using player
+[17:03:25] $crim suicided!
+[17:04:01] ThunderPanda killed $crim using player
+[17:04:57] ThunderPanda killed $crim using player
+[17:05:16] ThunderPanda killed $crim using player
+[17:05:23] $crim killed ThunderPanda using player
+[17:05:31] $crim killed ThunderPanda using player
+[17:05:40] $crim killed ThunderPanda using player
+[17:05:46] Dropped "$crim" from server<STEAM_0:0:92881884>
+[17:05:56] Dropped "ThunderPanda" from server<STEAM_0:0:87381926>
+[17:28:39] Dropped "Tyler Gates" from server<STEAM_0:1:54818617>
+
+
+
+[22:55:24] New map: rp_bangclaw
+[22:55:33] Client "Griff" connected.
+[22:55:39] Client "Bob Ross" connected.
+[22:56:09] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 36 seconds).
+[22:56:09] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 30 seconds).
+[22:56:23] Griff: !motd
+[22:56:34] Tyler Gates: !motd
+[22:56:48] Griff changed the map to rp_downtown_v4_exl
+[22:56:48] Server is shutting down/changing levels.
+
+
+
+[22:56:55] New map: rp_downtown_v4_exl
+[22:57:22] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 30 seconds).
+[22:57:24] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 32 seconds).
+[22:57:37] Griff: !motd
+[22:59:34] Griff: !motd
+[22:59:40] Tyler Gates: !motd
+[23:00:22] Tyler Gates: /forceunlock
+[23:00:32] Tyler Gates: /forceunlock
+[23:00:36] Tyler Gates: /forceunlock
+[23:00:43] Tyler Gates: /forceunlock
+[23:02:24] Griff was killed by trigger_hurt
+[23:04:28] Tyler Gates: /setmoney 1000
+[23:04:42] Tyler Gates: /setmoney 100
+[23:04:45] Griff: !menu
+[23:04:54] Griff changed the map to rp_downtown_v4_exl
+[23:04:54] Server is shutting down/changing levels.
+
+
+
+[23:04:57] New map: rp_downtown_v4_exl
+[23:05:22] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 28 seconds).
+[23:05:23] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 29 seconds).
+[23:05:30] Client "Hell Fire" connected.
+[23:05:41] Griff: !menu
+[23:06:46] Client "Hell Fire" spawned in server <STEAM_0:1:20129756> (took 76 seconds).
+[23:08:39] Tyler Gates: /rpname Bob Ross
+[23:08:39] Tyler Gates<STEAM_0:1:54818617> changed their name to Bob Ross
+[23:08:54] Hell Fire was killed by trigger_hurt
+[23:08:59] Client "$crim" connected.
+[23:09:11] Bob Ross: /forceunlock
+[23:09:15] Client "ThunderPanda" connected.
+[23:09:23] Bob Ross: /forceunlock
+[23:09:37] Client "$crim" spawned in server <STEAM_0:0:92881884> (took 38 seconds).
+[23:09:57] Client "ThunderPanda" spawned in server <STEAM_0:0:87381926> (took 42 seconds).
+[23:12:35] Bob Ross teleported to Hell Fire
+[23:12:41] Bob Ross: VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+[23:12:42] Bob Ross: VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+[23:12:43] Bob Ross: VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+[23:12:43] Bob Ross: VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+[23:12:44] Bob Ross: VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+[23:13:32] Dropped "ThunderPanda" from server<STEAM_0:0:87381926>
+[23:13:36] Client "ThunderPanda" connected.
+[23:13:40] Client "Hyper" connected.
+[23:13:50] Client "ThunderPanda" spawned in server <STEAM_0:0:87381926> (took 14 seconds).
+[23:14:22] Hell Fire suicided!
+[23:14:43] Client "Hyper" spawned in server <STEAM_0:0:66617318> (took 63 seconds).
+[23:14:55] Client "Akihiro | 太糟了" connected.
+[23:15:57] Client "Akihiro | 太糟了" spawned in server <STEAM_0:1:188481945> (took 62 seconds).
+[23:16:21] Akihiro | 太糟了: all lives matter
+[23:16:54] Bob Ross: /laws
+[23:17:06] Bob Ross: /placelaws
+[23:17:31] Griff added Akihiro | 太糟了 to group admin
+[23:17:40] $crim killed Hyper using player
+[23:17:42] $crim killed Akihiro | 太糟了 using player
+[23:18:23] $crim killed ThunderPanda using player
+[23:19:18] ThunderPanda killed Akihiro | 太糟了 using player
+[23:19:28] ThunderPanda killed Akihiro | 太糟了 using player
+[23:19:33] Hell Fire suicided!
+[23:19:35] ThunderPanda killed $crim using player
+[23:19:43] Bob Ross: /warrant $crim
+[23:20:07] Bob Ross: /warrant $crim Bad boy
+[23:20:13] ThunderPanda killed Akihiro | 太糟了 using player
+[23:20:23] ThunderPanda killed Akihiro | 太糟了 using player
+[23:20:36] $crim killed Griff using player
+[23:20:57] $crim killed Griff using player
+[23:20:58] ThunderPanda killed Bob Ross using player
+[23:21:06] Griff killed $crim using player
+[23:21:07] ThunderPanda killed Griff using player
+[23:21:22] Dropped "$crim" from server<STEAM_0:0:92881884>
+[23:21:26] Client "$crim" connected.
+[23:21:44] Client "$crim" spawned in server <STEAM_0:0:92881884> (took 18 seconds).
+[23:22:02] Bob Ross: /broadcast STOP FUCKING KILLING EACHOTHER YOU FUCKING TARDS
+[23:22:10] Dropped "$crim" from server<STEAM_0:0:92881884>
+[23:22:46] Client "$crim" connected.
+[23:22:56] Bob Ross: /wanted HYPER GAY
+[23:23:09] Client "$crim" spawned in server <STEAM_0:0:92881884> (took 23 seconds).
+[23:23:14] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:23:20] Bob Ross: /me handcuff
+[23:23:29] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:23:35] Griff killed Akihiro | 太糟了 using player
+[23:23:36] $crim<STEAM_0:0:92881884> spawned model models/props_borealis/mooring_cleat01.mdl
+[23:23:36] $crim<STEAM_0:0:92881884> spawned model models/props_borealis/mooring_cleat01.mdl
+[23:23:42] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:23:58] $crim<STEAM_0:0:92881884> spawned model models/props_borealis/bluebarrel001.mdl
+[23:24:00] $crim<STEAM_0:0:92881884> spawned model models/props_borealis/bluebarrel001.mdl
+[23:24:06] $crim<STEAM_0:0:92881884> spawned model models/props_borealis/bluebarrel001.mdl
+[23:24:11] ThunderPanda killed $crim using player
+[23:24:46] Hyper killed Griff using player
+[23:25:31] $crim: /warrant hellgate
+[23:25:37] $crim: /warrant hellfire
+[23:25:43] $crim: /warrant hellfire rdm
+[23:25:45] Griff killed Hyper using player
+[23:25:55] $crim: /warrant Hell Fire shootout
+[23:25:58] Griff killed Akihiro | 太糟了 using player
+[23:26:33] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/concrete_barrier001a.mdl
+[23:26:39] ThunderPanda killed Griff using player
+[23:26:40] ThunderPanda killed Bob Ross using player
+[23:26:49] $crim killed ThunderPanda using player
+[23:27:47] Griff: /drop
+[23:27:49] Bob Ross: /setjailpos
+[23:28:10] ThunderPanda killed Griff using player
+[23:28:20] Bob Ross: /wanted Hell Loving men
+[23:28:26] Griff killed ThunderPanda using player
+[23:28:29] Bob Ross: /addjailpos
+[23:28:49] Bob Ross: /addjailpos
+[23:29:13] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/concrete_barrier001a.mdl
+[23:29:40] ThunderPanda killed Akihiro | 太糟了 using player
+[23:29:45] ThunderPanda killed Hyper using player
+[23:29:47] $crim killed ThunderPanda using player
+[23:30:29] ThunderPanda killed Griff using player
+[23:31:18] Griff: /unlock
+[23:31:27] Bob Ross: /unarrest
+[23:31:28] Griff: /forceunlock
+[23:31:48] Griff: /forceunlock
+[23:31:51] Griff: /forceunlock
+[23:31:54] Griff killed Akihiro | 太糟了 using player
+[23:32:15] Client "robinwoo gametame.com" connected.
+[23:32:23] Griff: /forceunlock
+[23:32:46] Griff: /forcelock
+[23:32:49] Griff: /forceunlock
+[23:33:22] Hell Fire was killed by trigger_hurt
+[23:33:42] Client "robinwoo gametame.com" spawned in server <STEAM_0:0:155876364> (took 87 seconds).
+[23:34:03] Griff: /forcelock
+[23:34:22] Hell Fire killed Griff using player
+[23:34:53] Bob Ross killed Hyper using player
+[23:34:57] Hell Fire suicided!
+[23:35:00] robinwoo gametame.com: How do i do things
+[23:35:34] $crim killed Hell Fire using player
+[23:35:36] $crim killed robinwoo gametame.com using player
+[23:35:43] $crim killed Griff using player
+[23:35:49] $crim killed Hell Fire using player
+[23:35:55] $crim killed Griff using player
+[23:36:03] robinwoo gametame.com: What
+[23:36:03] ThunderPanda killed Bob Ross using player
+[23:37:19] Bob Ross: /lockdown
+[23:37:43] Hell Fire<STEAM_0:1:20129756> spawned model models/props/cs_assault/moneypallet03c.mdl
+[23:37:43] Hyper<STEAM_0:0:66617318> spawned model models/gibs/hgibs.mdl
+[23:37:47] Hell Fire<STEAM_0:1:20129756> spawned model models/props/cs_assault/moneypallet03c.mdl
+[23:37:51] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/weapons/w_snip_awp.mdl
+[23:37:55] Hell Fire<STEAM_0:1:20129756> spawned model models/props/cs_assault/moneypalleta.mdl
+[23:37:56] Bob Ross: /broadcast Please return to your homes for your safety we have info that a gang in the are may be turning people gay
+[23:38:14] Hell Fire killed Griff using player
+[23:38:16] Bob Ross: /agenda
+[23:38:34] Bob Ross: /agenda Keep fags out of the town
+[23:39:13] Griff killed Akihiro | 太糟了 using player
+[23:39:13] Griff killed Hell Fire using player
+[23:39:16] (TEAM) robinwoo gametame.com: u
+[23:39:18] Hyper<STEAM_0:0:66617318> spawned model models/combine_apc.mdl
+[23:39:24] Bob Ross: /unlockdown
+[23:39:31] Hyper was killed by prop_physics
+[23:39:46] $crim: /advert we're shool shooter role playing 
+[23:39:53] robinwoo gametame.com: im new 
+[23:39:57] $crim: we're school shooting role playing
+[23:40:01] $crim: :^)
+[23:40:13] $crim: we're gangsteeirs 
+[23:40:31] Hell Fire<STEAM_0:1:20129756> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:41:11] Bob Ross<STEAM_0:1:54818617> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:41:29] Hell Fire<STEAM_0:1:20129756> spawned model models/props_junk/trashdumpster02b.mdl
+[23:41:32] Hell Fire<STEAM_0:1:20129756> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:41:49] $crim: meeting at spawn
+[23:42:03] Bob Ross<STEAM_0:1:54818617> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:42:04] robinwoo gametame.com<STEAM_0:0:155876364> spawned model models/props_lab/blastdoor001c.mdl
+[23:42:09] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/concrete_barrier001a.mdl
+[23:42:09] $crim: /advert fuck niggers
+[23:42:23] Bob Ross<STEAM_0:1:54818617> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:42:29] Hyper<STEAM_0:0:66617318> spawned model models/props_interiors/furniture_couch01a.mdl
+[23:42:38] $crim: meeting at spawn
+[23:42:40] robinwoo gametame.com<STEAM_0:0:155876364> spawned model models/props_lab/blastdoor001a.mdl
+[23:42:58] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/concrete_barrier001a.mdl
+[23:43:20] $crim killed Griff using player
+[23:43:23] Griff: /arrest
+[23:43:24] robinwoo gametame.com<STEAM_0:0:155876364> spawned model models/props_interiors/furniture_couch01a.mdl
+[23:43:30] Griff: /arrest $r
+[23:43:38] robinwoo gametame.com: same
+[23:43:41] Griff: /unarrest $r
+[23:44:03] Hell Fire<STEAM_0:1:20129756> spawned model models/props_debris/metal_panel01a.mdl
+[23:44:08] Hell Fire<STEAM_0:1:20129756> spawned model models/hunter/plates/plate1x2.mdl
+[23:44:15] Hell Fire<STEAM_0:1:20129756> spawned model models/hunter/plates/plate1x1.mdl
+[23:44:36] $crim killed Akihiro | 太糟了 using player
+[23:44:38] Hell Fire<STEAM_0:1:20129756> spawned model models/hunter/plates/plate2x4.mdl
+[23:44:40] $crim killed robinwoo gametame.com using player
+[23:44:43] Bob Ross: /addlaw Being gay is now ALLOWED
+[23:44:47] $crim killed Akihiro | 太糟了 using player
+[23:44:48] robinwoo gametame.com: ?
+[23:44:54] Bob Ross: /agenda Keep crime down
+[23:44:55] Hell Fire<STEAM_0:1:20129756> spawned model models/hunter/plates/plate2x3.mdl
+[23:45:03] Hyper<STEAM_0:0:66617318> spawned model models/props_interiors/furniture_couch02a.mdl
+[23:45:05] $crim killed Akihiro | 太糟了 using player
+[23:45:07] $crim killed Griff using player
+[23:45:10] $crim killed robinwoo gametame.com using player
+[23:45:13] Hell Fire<STEAM_0:1:20129756> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:45:14] $crim killed Griff using player
+[23:45:34] Griff granted god mode upon Themself
+[23:45:35] Hyper<STEAM_0:0:66617318> spawned model models/props_combine/breendesk.mdl
+[23:46:02] $crim killed ThunderPanda using player
+[23:46:04] robinwoo gametame.com: do you need a licens for a gun?
+[23:46:12] $crim killed ThunderPanda using player
+[23:46:30] Griff: !kick thunder RDM
+[23:46:30] Griff kicked ThunderPanda (RDM)
+[23:46:30] Dropped "ThunderPanda" from server<STEAM_0:0:87381926>
+[23:46:38] Griff: !kick rim rdm
+[23:46:38] Griff kicked $crim (rdm)
+[23:46:38] Dropped "$crim" from server<STEAM_0:0:92881884>
+[23:46:50] Griff revoked god mode from Themself
+[23:47:20] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/concrete_barrier001a.mdl
+[23:47:25] robinwoo gametame.com was killed by prop_physics
+[23:47:39] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/concrete_barrier001a.mdl
+[23:47:59] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/concrete_barrier001a.mdl
+[23:48:13] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/weapons/w_snip_awp.mdl
+[23:48:34] Dropped "robinwoo gametame.com" from server<STEAM_0:0:155876364>
+[23:48:39] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/concrete_barrier001a.mdl
+[23:49:13] Hyper was killed by prop_physics
+[23:49:17] Bob Ross: /forceunlock
+[23:49:21] Bob Ross: /forceunlock
+[23:49:23] Bob Ross: /forceunlock
+[23:49:25] Bob Ross: /forcelock
+[23:49:36] Griff killed Akihiro | 太糟了 using stunstick
+[23:49:50] Bob Ross: /forceunlock
+[23:49:52] Bob Ross: /forcelock
+[23:51:00] Bob Ross: /forceunlock
+[23:51:02] Bob Ross: /forceunlock
+[23:51:13] Bob Ross: /forceunlock
+[23:51:39] Bob Ross: /forcelock
+[23:53:36] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/gate_door01a.mdl
+[23:53:37] Hell Fire<STEAM_0:1:20129756> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:54:08] Bob Ross: /pm griff maybe hes gay
+[23:54:38] Griff: /demote hyper Gay
+[23:58:47] Hyper killed Akihiro | 太糟了 using player
+[23:58:54] Griff: /forceunlock
+[23:59:07] Griff: !strip hell
+[23:59:07] Griff stripped weapons from Hell Fire
+[23:59:42] Griff: /forcelock
+[23:59:48] Griff: /forcelock
+<Logging continued in "data/ulx_logs/01-21-18.txt">

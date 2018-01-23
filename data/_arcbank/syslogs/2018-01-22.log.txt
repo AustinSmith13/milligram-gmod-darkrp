@@ -1,0 +1,24 @@
+***ARCBank System Log***
+... did you mess something up this time?
+Dates are in YYYY-MM-DD
+2018-01-22 19:33:27 > Log File Created at _arcbank/syslogs/2018-01-22.log.txt
+2018-01-22 19:33:27 > WARNING! THE SYSTEM DIDN'T SHUT DOWN PROPERLY! EXPECT CORRUPTED ACCOUNTS!
+2018-01-22 19:33:28 > No settings file found! Using defaults.
+2018-01-22 19:33:28 > ARCBank is ready!
+2018-01-22 19:33:28 > No bank accounts from v1.3.8 or older have been found.
+2018-01-22 19:36:15 > Griff (STEAM_0:0:51599729) used the command: atm_spawn
+2018-01-22 19:48:32 > Griff (STEAM_0:0:51599729) used the command: atm_spawn
+2018-01-22 19:48:45 > Bob Ross (STEAM_0:1:54818617) used the command: atm_spawn
+2018-01-22 19:48:54 > Bob Ross (STEAM_0:1:54818617) used the command: atm_spawn
+2018-01-22 19:49:15 > Griff (STEAM_0:0:51599729) used the command: atm_spawn
+2018-01-22 19:49:16 > Bob Ross (STEAM_0:1:54818617) used the command: atm_spawn
+2018-01-22 19:49:24 > Griff (STEAM_0:0:51599729) used the command: atm_spawn
+2018-01-22 19:49:51 > Griff (STEAM_0:0:51599729) created _knkekqknl4ydumb2guytkojzg4zds===_ with a starting balance of 500
+2018-01-22 19:50:01 > Griff (STEAM_0:0:51599729) upgraded account _knkekqknl4ydumb2guytkojzg4zds===_
+2018-01-22 19:50:16 > Bob Ross (STEAM_0:1:54818617) created _knkekqknl4ydumj2gu2dqmjygyyto===_ with a starting balance of 500
+2018-01-22 19:50:19 > Griff (STEAM_0:0:51599729) deposited 600 into _knkekqknl4ydumb2guytkojzg4zds===_
+2018-01-22 19:55:03 > Griff (STEAM_0:0:51599729) transfered 500 to Bob Ross (STEAM_0:1:54818617) _knkekqknl4ydumb2guytkojzg4zds===_ -> _knkekqknl4ydumj2gu2dqmjygyyto===_
+2018-01-22 19:55:24 > Bob Ross (STEAM_0:1:54818617) created kr4vg33goq======_ with a starting balance of 0
+2018-01-22 19:55:52 > Bob Ross (STEAM_0:1:54818617) upgraded account kr4vg33goq======_
+2018-01-22 19:56:55 > Bob Ross (STEAM_0:1:54818617) deposited 1000000000 into kr4vg33goq======_
+2018-01-22 19:57:30 > Bob Ross (STEAM_0:1:54818617) added Griff (STEAM_0:0:51599729) to account kr4vg33goq======_

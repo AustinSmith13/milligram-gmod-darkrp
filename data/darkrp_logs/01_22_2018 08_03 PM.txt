@@ -1,0 +1,11 @@
+Mon Jan 22 20:03:32 2018	Griff (STEAM_0:0:51599729) has joined the game
+Mon Jan 22 20:03:32 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 20:03:40 2018	A1steaksa (STEAM_0:0:18354638) has joined the game
+Mon Jan 22 20:03:40 2018	Griff was killed by Himself with a suicide trick
+Mon Jan 22 20:03:40 2018	Vincent Luciano (STEAM_0:0:18354638) spawned
+Mon Jan 22 20:03:50 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 20:04:24 2018	Griff (STEAM_0:0:51599729): assadasd
+Mon Jan 22 20:05:53 2018	Griff (STEAM_0:0:51599729) disconnected
+Mon Jan 22 20:06:11 2018	Griff (STEAM_0:0:51599729) has joined the game
+Mon Jan 22 20:06:11 2018	Griff (STEAM_0:0:51599729) spawned
+Mon Jan 22 20:06:42 2018	Griff (STEAM_0:0:51599729): !menu

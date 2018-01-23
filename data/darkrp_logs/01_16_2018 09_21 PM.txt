@@ -1,0 +1,72 @@
+Tue Jan 16 21:21:26 2018	Griff (STEAM_0:0:51599729) has joined the game
+Tue Jan 16 21:21:26 2018	Griff (STEAM_0:0:51599729) spawned
+Tue Jan 16 21:22:05 2018	Bob Ross (STEAM_0:1:54818617) has joined the game
+Tue Jan 16 21:22:05 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Tue Jan 16 22:00:31 2018	FireFlare (STEAM_0:0:88760806) has joined the game
+Tue Jan 16 22:00:31 2018	FireFlare (STEAM_0:0:88760806) spawned
+Tue Jan 16 22:02:36 2018	FireFlare (STEAM_0:0:88760806): were are you 
+Tue Jan 16 22:05:04 2018	FireFlare (STEAM_0:0:88760806): WERE ARE YOU GUYS!!
+Tue Jan 16 22:05:12 2018	FireFlare was killed by Entity [0][worldspawn] with a unknown
+Tue Jan 16 22:05:14 2018	FireFlare (STEAM_0:0:88760806) spawned
+Tue Jan 16 22:07:39 2018	FireFlare was killed by Entity [0][worldspawn] with a unknown
+Tue Jan 16 22:07:45 2018	FireFlare (STEAM_0:0:88760806) disconnected
+Tue Jan 16 22:10:44 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Tue Jan 16 22:23:41 2018	Griff (STEAM_0:0:51599729): .add bob
+Tue Jan 16 22:24:22 2018	Griff (STEAM_0:0:51599729): .add bob
+Tue Jan 16 22:27:08 2018	Griff (STEAM_0:0:51599729): .add bob
+Tue Jan 16 22:27:29 2018	Griff (STEAM_0:0:51599729): .add bob
+Tue Jan 16 22:31:11 2018	Griff (STEAM_0:0:51599729): y
+Tue Jan 16 22:33:20 2018	Hyper (STEAM_0:0:66617318) has joined the game
+Tue Jan 16 22:33:20 2018	Hyper (STEAM_0:0:66617318) spawned
+Tue Jan 16 22:34:15 2018	Griff (STEAM_0:0:51599729): .add hyper
+Tue Jan 16 22:34:58 2018	Griff (STEAM_0:0:51599729): !menu
+Tue Jan 16 22:36:29 2018	not a girl gamer (STEAM_0:0:98691242) has joined the game
+Tue Jan 16 22:36:29 2018	not a girl gamer (STEAM_0:0:98691242) spawned
+Tue Jan 16 22:36:32 2018	Hyper (STEAM_0:0:66617318) spawned
+Tue Jan 16 22:42:58 2018	Griff (STEAM_0:0:51599729): /setmoney hyper 1000000
+Tue Jan 16 22:42:58 2018	Griff (STEAM_0:0:51599729) set Hyper's money to $1,000,000
+Tue Jan 16 22:46:58 2018	not a girl gamer (STEAM_0:0:98691242) disconnected
+Tue Jan 16 22:48:53 2018	Griff (STEAM_0:0:51599729) spawned
+Tue Jan 16 22:56:49 2018	Griff was killed by Hyper with a m9k_hk45_drp
+Tue Jan 16 22:56:50 2018	Griff (STEAM_0:0:51599729) spawned
+Tue Jan 16 22:58:09 2018	Hyper was killed by Griff with a m9k_honeybadger_drp
+Tue Jan 16 22:58:10 2018	Hyper (STEAM_0:0:66617318) spawned
+Tue Jan 16 22:58:55 2018	Hyper (STEAM_0:0:66617318) spawned
+Tue Jan 16 22:59:07 2018	Griff (STEAM_0:0:51599729): /drop
+Tue Jan 16 22:59:10 2018	Griff (STEAM_0:0:51599729): /drop
+Tue Jan 16 22:59:14 2018	Griff (STEAM_0:0:51599729): /drop
+Tue Jan 16 22:59:21 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Tue Jan 16 22:59:22 2018	Griff (STEAM_0:0:51599729) spawned
+Tue Jan 16 23:00:08 2018	Griff (STEAM_0:0:51599729) spawned
+Tue Jan 16 23:01:29 2018	Griff was killed by Hyper with a m9k_mp7_drp
+Tue Jan 16 23:01:30 2018	Griff (STEAM_0:0:51599729) spawned
+Tue Jan 16 23:02:01 2018	Hyper was killed by Griff with a m9k_remington7615p_drp
+Tue Jan 16 23:02:06 2018	Hyper (STEAM_0:0:66617318) spawned
+Tue Jan 16 23:03:04 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Tue Jan 16 23:03:05 2018	Griff (STEAM_0:0:51599729) spawned
+Tue Jan 16 23:04:23 2018	Griff was killed by Hyper with a m9k_scar_drp
+Tue Jan 16 23:04:28 2018	Griff (STEAM_0:0:51599729) spawned
+Tue Jan 16 23:06:07 2018	Griff (STEAM_0:0:51599729) spawned
+Tue Jan 16 23:08:01 2018	Hyper (STEAM_0:0:66617318) spawned
+Tue Jan 16 23:08:40 2018	Griff (STEAM_0:0:51599729): .add hyper
+Tue Jan 16 23:11:11 2018	Griff (STEAM_0:0:51599729): .add griff
+Tue Jan 16 23:11:18 2018	Hyper (STEAM_0:0:66617318): .add griff
+Tue Jan 16 23:11:50 2018	Griff (STEAM_0:0:51599729): .add hyper
+Tue Jan 16 23:11:52 2018	Griff (STEAM_0:0:51599729): .add griff
+Tue Jan 16 23:11:52 2018	Hyper (STEAM_0:0:66617318) spawned
+Tue Jan 16 23:11:55 2018	Griff (STEAM_0:0:51599729): .add bob
+Tue Jan 16 23:16:17 2018	Hyper (STEAM_0:0:66617318): /requestlicense
+Tue Jan 16 23:16:25 2018	Hyper (STEAM_0:0:66617318): /unownalldoors
+Tue Jan 16 23:20:26 2018	Hyper was killed by Entity [0][worldspawn] with a unknown
+Tue Jan 16 23:20:31 2018	Hyper (STEAM_0:0:66617318) spawned
+Tue Jan 16 23:20:37 2018	Hyper was killed by Entity [0][worldspawn] with a unknown
+Tue Jan 16 23:20:39 2018	Hyper (STEAM_0:0:66617318) spawned
+Tue Jan 16 23:21:24 2018	Hyper was killed by Entity [0][worldspawn] with a unknown
+Tue Jan 16 23:21:26 2018	Hyper (STEAM_0:0:66617318) spawned
+Tue Jan 16 23:21:34 2018	Hyper was killed by Entity [0][worldspawn] with a unknown
+Tue Jan 16 23:21:36 2018	Hyper (STEAM_0:0:66617318) spawned
+Tue Jan 16 23:27:50 2018	Hyper (STEAM_0:0:66617318) disconnected
+Tue Jan 16 23:49:44 2018	Bob Ross was killed by Griff with a m9k_mp7_drp
+Tue Jan 16 23:49:45 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Tue Jan 16 23:50:58 2018	Griff (STEAM_0:0:51599729) disconnected
+Tue Jan 16 23:51:07 2018	Bob Ross (STEAM_0:1:54818617) disconnected

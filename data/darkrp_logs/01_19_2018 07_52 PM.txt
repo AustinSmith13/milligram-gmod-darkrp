@@ -1,0 +1,3 @@
+Fri Jan 19 19:52:11 2018	Bob Ross (STEAM_0:1:54818617) has joined the game
+Fri Jan 19 19:52:11 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Fri Jan 19 19:54:22 2018	Tyler Gates (STEAM_0:1:54818617) disconnected

@@ -1,0 +1,12 @@
+Tue Jan 16 16:44:49 2018	Griff (STEAM_0:0:51599729) has joined the game
+Tue Jan 16 16:44:49 2018	Griff (STEAM_0:0:51599729) spawned
+Tue Jan 16 16:47:08 2018	Griff (STEAM_0:0:51599729) spawned SENT bronze_printer
+Tue Jan 16 16:47:10 2018	Griff (STEAM_0:0:51599729) spawned SENT gmod_test_panel_adv
+Tue Jan 16 16:47:21 2018	Griff (STEAM_0:0:51599729) spawned SENT sent_ball
+Tue Jan 16 16:47:22 2018	Griff (STEAM_0:0:51599729) spawned SENT sent_ball
+Tue Jan 16 16:47:25 2018	Griff (STEAM_0:0:51599729) spawned SENT gmod_wire_ramcard_proxy024
+Tue Jan 16 16:47:26 2018	Griff (STEAM_0:0:51599729) spawned SENT gmod_wire_ramcard_default024
+Tue Jan 16 16:47:30 2018	Griff (STEAM_0:0:51599729) spawned SENT darkrp_moneypot
+Tue Jan 16 16:55:26 2018	Griff (STEAM_0:0:51599729) disconnected
+Tue Jan 16 16:55:41 2018	Griff (STEAM_0:0:51599729) has joined the game
+Tue Jan 16 16:55:41 2018	Griff (STEAM_0:0:51599729) spawned

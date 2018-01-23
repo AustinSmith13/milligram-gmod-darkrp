@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "gdrugs/drugpot/weedplant_leaf_texture"
+	"$surfaceprop" "Grass"
+}

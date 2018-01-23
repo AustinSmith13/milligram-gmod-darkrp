@@ -1,0 +1,45 @@
+
+[
+	
+	[
+		"3oFhofcGT9yHChtZxJbpSoHQTwEPGfuFzvH",
+		"3Vxem5eRnSQyikXhVjyNowfKYJKMQqhMECI",
+		100
+	],
+	
+	[
+		"31SDelKZpmcjKHiMdqVKjTARLXunJTvryVm",
+		"3oFhofcGT9yHChtZxJbpSoHQTwEPGfuFzvH",
+		15
+	],
+	
+	[
+		"3oFhofcGT9yHChtZxJbpSoHQTwEPGfuFzvH",
+		"3CUVgr6iNrdaKBForregXNdyDNHvcFxCfzK",
+		1
+	],
+	
+	[
+		"3oFhofcGT9yHChtZxJbpSoHQTwEPGfuFzvH",
+		"31SDelKZpmcjKHiMdqVKjTARLXunJTvryVm",
+		200
+	],
+	
+	[
+		"31SDelKZpmcjKHiMdqVKjTARLXunJTvryVm",
+		"3oFhofcGT9yHChtZxJbpSoHQTwEPGfuFzvH",
+		1
+	],
+	
+	[
+		"3oFhofcGT9yHChtZxJbpSoHQTwEPGfuFzvH",
+		"31SDelKZpmcjKHiMdqVKjTARLXunJTvryVm",
+		5
+	],
+	
+	[
+		"31SDelKZpmcjKHiMdqVKjTARLXunJTvryVm",
+		"3oFhofcGT9yHChtZxJbpSoHQTwEPGfuFzvH",
+		0.3
+	]
+]

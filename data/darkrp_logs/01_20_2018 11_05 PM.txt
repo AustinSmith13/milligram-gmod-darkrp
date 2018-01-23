@@ -1,0 +1,367 @@
+Sat Jan 20 23:05:22 2018	Bob Ross (STEAM_0:1:54818617) has joined the game
+Sat Jan 20 23:05:22 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Sat Jan 20 23:05:23 2018	Griff (STEAM_0:0:51599729) has joined the game
+Sat Jan 20 23:05:23 2018	Griff (STEAM_0:0:51599729) spawned
+Sat Jan 20 23:05:41 2018	Griff (STEAM_0:0:51599729): !menu
+Sat Jan 20 23:05:51 2018	Griff (STEAM_0:0:51599729) spawned
+Sat Jan 20 23:06:46 2018	Hell Fire (STEAM_0:1:20129756) has joined the game
+Sat Jan 20 23:06:46 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sat Jan 20 23:06:47 2018	Tyler Gates (STEAM_0:1:54818617) spawned
+Sat Jan 20 23:08:39 2018	Tyler Gates (STEAM_0:1:54818617): /rpname Bob Ross
+Sat Jan 20 23:08:54 2018	Hell Fire was killed by Entity [721][trigger_hurt] with a trigger_hurt
+Sat Jan 20 23:08:56 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sat Jan 20 23:09:11 2018	Bob Ross (STEAM_0:1:54818617): /forceunlock
+Sat Jan 20 23:09:11 2018	Bob Ross (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Sat Jan 20 23:09:23 2018	Bob Ross (STEAM_0:1:54818617): /forceunlock
+Sat Jan 20 23:09:23 2018	Bob Ross (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Sat Jan 20 23:09:37 2018	$crim (STEAM_0:0:92881884) has joined the game
+Sat Jan 20 23:09:37 2018	$crim (STEAM_0:0:92881884) spawned
+Sat Jan 20 23:09:57 2018	ThunderPanda (STEAM_0:0:87381926) has joined the game
+Sat Jan 20 23:09:57 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sat Jan 20 23:10:14 2018	$crim (STEAM_0:0:92881884) spawned
+Sat Jan 20 23:10:24 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sat Jan 20 23:10:49 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sat Jan 20 23:12:41 2018	Bob Ross (STEAM_0:1:54818617): VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+Sat Jan 20 23:12:42 2018	Bob Ross (STEAM_0:1:54818617): VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+Sat Jan 20 23:12:43 2018	Bob Ross (STEAM_0:1:54818617): VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+Sat Jan 20 23:12:43 2018	Bob Ross (STEAM_0:1:54818617): VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+Sat Jan 20 23:12:44 2018	Bob Ross (STEAM_0:1:54818617): VINH'LL FIX IT@@@@@@@@@@@@@@@@@@@@@@@@@
+Sat Jan 20 23:13:32 2018	ThunderPanda (STEAM_0:0:87381926) disconnected
+Sat Jan 20 23:13:50 2018	ThunderPanda (STEAM_0:0:87381926) has joined the game
+Sat Jan 20 23:13:50 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sat Jan 20 23:14:22 2018	Hell Fire was killed by Himself with a suicide trick
+Sat Jan 20 23:14:23 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sat Jan 20 23:14:43 2018	Hyper (STEAM_0:0:66617318) has joined the game
+Sat Jan 20 23:14:43 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:15:21 2018	Hyper was killed by Entity [0][worldspawn] with a unknown
+Sat Jan 20 23:15:24 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:15:57 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) has joined the game
+Sat Jan 20 23:15:57 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:16:16 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:16:21 2018	Akihiro | 太糟了 (STEAM_0:1:188481945): all lives matter
+Sat Jan 20 23:16:30 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sat Jan 20 23:16:54 2018	Bob Ross (STEAM_0:1:54818617): /laws
+Sat Jan 20 23:17:06 2018	Bob Ross (STEAM_0:1:54818617): /placelaws
+Sat Jan 20 23:17:18 2018	Hyper was killed by Entity [0][worldspawn] with a unknown
+Sat Jan 20 23:17:19 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:17:40 2018	Hyper was killed by $crim with a m9k_ak47_drp
+Sat Jan 20 23:17:42 2018	Akihiro | 太糟了 was killed by $crim with a m9k_ak47_drp
+Sat Jan 20 23:17:43 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:17:53 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:18:23 2018	ThunderPanda was killed by $crim with a m9k_ak47_drp
+Sat Jan 20 23:18:29 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:18:40 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sat Jan 20 23:19:12 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sat Jan 20 23:19:18 2018	Akihiro | 太糟了 was killed by ThunderPanda with a m9k_m3_drp
+Sat Jan 20 23:19:20 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:19:28 2018	Akihiro | 太糟了 was killed by ThunderPanda with a m9k_m3_drp
+Sat Jan 20 23:19:29 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:19:33 2018	Hell Fire was killed by Himself with a suicide trick
+Sat Jan 20 23:19:34 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sat Jan 20 23:19:35 2018	$crim was killed by ThunderPanda with a m9k_m3_drp
+Sat Jan 20 23:19:37 2018	$crim (STEAM_0:0:92881884) spawned
+Sat Jan 20 23:19:43 2018	Bob Ross (STEAM_0:1:54818617): /warrant $crim
+Sat Jan 20 23:20:07 2018	Bob Ross (STEAM_0:1:54818617): /warrant $crim Bad boy
+Sat Jan 20 23:20:13 2018	Akihiro | 太糟了 was killed by ThunderPanda with a m9k_m3_drp
+Sat Jan 20 23:20:14 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:20:23 2018	Akihiro | 太糟了 was killed by ThunderPanda with a m9k_m3_drp
+Sat Jan 20 23:20:24 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:20:36 2018	Griff was killed by $crim with a m9k_m3_drp
+Sat Jan 20 23:20:37 2018	Griff (STEAM_0:0:51599729) spawned
+Sat Jan 20 23:20:57 2018	Griff was killed by $crim with a m9k_m3_drp
+Sat Jan 20 23:20:58 2018	Bob Ross was killed by ThunderPanda with a m9k_m3_drp
+Sat Jan 20 23:20:59 2018	Griff (STEAM_0:0:51599729) spawned
+Sat Jan 20 23:21:00 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sat Jan 20 23:21:06 2018	$crim was killed by Griff with a m9k_hk45_drp
+Sat Jan 20 23:21:07 2018	$crim (STEAM_0:0:92881884) spawned
+Sat Jan 20 23:21:07 2018	Griff was killed by ThunderPanda with a m9k_m3_drp
+Sat Jan 20 23:21:08 2018	Griff (STEAM_0:0:51599729) spawned
+Sat Jan 20 23:21:22 2018	$crim (STEAM_0:0:92881884) disconnected
+Sat Jan 20 23:21:31 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sat Jan 20 23:21:44 2018	$crim (STEAM_0:0:92881884) has joined the game
+Sat Jan 20 23:21:44 2018	$crim (STEAM_0:0:92881884) spawned
+Sat Jan 20 23:22:02 2018	Bob Ross (STEAM_0:1:54818617): /broadcast STOP FUCKING KILLING EACHOTHER YOU FUCKING TARDS
+Sat Jan 20 23:22:10 2018	$crim (STEAM_0:0:92881884) disconnected
+Sat Jan 20 23:22:56 2018	Bob Ross (STEAM_0:1:54818617): /wanted HYPER GAY
+Sat Jan 20 23:22:56 2018	Bob Ross has made Hyper wanted, reason: GAY
+Sat Jan 20 23:23:09 2018	$crim (STEAM_0:0:92881884) has joined the game
+Sat Jan 20 23:23:09 2018	$crim (STEAM_0:0:92881884) spawned
+Sat Jan 20 23:23:20 2018	Bob Ross (STEAM_0:1:54818617): /me handcuff
+Sat Jan 20 23:23:35 2018	Akihiro | 太糟了 was killed by Griff with a m9k_hk45_drp
+Sat Jan 20 23:23:36 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:24:11 2018	$crim was killed by ThunderPanda with a m9k_fg42_drp
+Sat Jan 20 23:24:12 2018	$crim (STEAM_0:0:92881884) spawned
+Sat Jan 20 23:24:26 2018	$crim (STEAM_0:0:92881884) spawned
+Sat Jan 20 23:24:46 2018	Griff was killed by Hyper with a m9k_m416_drp
+Sat Jan 20 23:24:50 2018	Griff (STEAM_0:0:51599729) spawned
+Sat Jan 20 23:24:56 2018	Hyper is no longer wanted by the Police.
+Sat Jan 20 23:25:31 2018	$crim (STEAM_0:0:92881884): /warrant hellgate
+Sat Jan 20 23:25:37 2018	$crim (STEAM_0:0:92881884): /warrant hellfire
+Sat Jan 20 23:25:43 2018	$crim (STEAM_0:0:92881884): /warrant hellfire rdm
+Sat Jan 20 23:25:45 2018	Hyper was killed by Griff with a m9k_m60_drp
+Sat Jan 20 23:25:54 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:25:55 2018	$crim (STEAM_0:0:92881884): /warrant Hell Fire shootout
+Sat Jan 20 23:25:58 2018	Akihiro | 太糟了 was killed by Griff with a m9k_m60_drp
+Sat Jan 20 23:26:00 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:26:39 2018	Griff was killed by ThunderPanda with a m9k_fg42_drp
+Sat Jan 20 23:26:40 2018	Griff (STEAM_0:0:51599729) spawned
+Sat Jan 20 23:26:40 2018	Bob Ross was killed by ThunderPanda with a m9k_fg42_drp
+Sat Jan 20 23:26:41 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sat Jan 20 23:26:49 2018	ThunderPanda was killed by $crim with a m9k_hk45_drp
+Sat Jan 20 23:26:57 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sat Jan 20 23:27:47 2018	Griff (STEAM_0:0:51599729): /drop
+Sat Jan 20 23:27:49 2018	Bob Ross (STEAM_0:1:54818617): /setjailpos
+Sat Jan 20 23:28:10 2018	Griff was killed by ThunderPanda with a m9k_m3_drp
+Sat Jan 20 23:28:13 2018	Griff (STEAM_0:0:51599729) spawned
+Sat Jan 20 23:28:20 2018	Bob Ross (STEAM_0:1:54818617): /wanted Hell Loving men
+Sat Jan 20 23:28:20 2018	Bob Ross has made Hell Fire wanted, reason: Loving men
+Sat Jan 20 23:28:26 2018	ThunderPanda was killed by Griff with a m9k_m60_drp
+Sat Jan 20 23:28:29 2018	Bob Ross (STEAM_0:1:54818617): /addjailpos
+Sat Jan 20 23:28:30 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sat Jan 20 23:28:49 2018	Bob Ross (STEAM_0:1:54818617): /addjailpos
+Sat Jan 20 23:29:40 2018	Akihiro | 太糟了 was killed by ThunderPanda with a m9k_fg42_drp
+Sat Jan 20 23:29:43 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:29:45 2018	Hyper was killed by ThunderPanda with a m9k_fg42_drp
+Sat Jan 20 23:29:47 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:29:47 2018	ThunderPanda was killed by $crim with a m9k_scar_drp
+Sat Jan 20 23:29:55 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sat Jan 20 23:30:17 2018	$crim was killed by Entity [0][worldspawn] with a unknown
+Sat Jan 20 23:30:18 2018	$crim (STEAM_0:0:92881884) spawned
+Sat Jan 20 23:30:20 2018	Hell Fire is no longer wanted by the Police.
+Sat Jan 20 23:30:29 2018	Griff was killed by ThunderPanda with a m9k_fg42_drp
+Sat Jan 20 23:30:31 2018	Griff (STEAM_0:0:51599729) spawned
+Sat Jan 20 23:30:36 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sat Jan 20 23:30:36 2018	$crim (STEAM_0:0:92881884) arrested Hell Fire
+Sat Jan 20 23:30:36 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sat Jan 20 23:30:36 2018	Griff (STEAM_0:0:51599729) arrested ThunderPanda
+Sat Jan 20 23:30:53 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:30:53 2018	$crim (STEAM_0:0:92881884) arrested Hyper
+Sat Jan 20 23:30:55 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:30:55 2018	$crim (STEAM_0:0:92881884) arrested Akihiro | 太糟了
+Sat Jan 20 23:31:09 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sat Jan 20 23:31:09 2018	$crim (STEAM_0:0:92881884) arrested Bob Ross
+Sat Jan 20 23:31:11 2018	$crim (STEAM_0:0:92881884) spawned
+Sat Jan 20 23:31:11 2018	Griff (STEAM_0:0:51599729) arrested $crim
+Sat Jan 20 23:31:18 2018	Griff (STEAM_0:0:51599729): /unlock
+Sat Jan 20 23:31:27 2018	Bob Ross (STEAM_0:1:54818617): /unarrest
+Sat Jan 20 23:31:28 2018	Griff (STEAM_0:0:51599729): /forceunlock
+Sat Jan 20 23:31:28 2018	Griff (STEAM_0:0:51599729) force-unlocked a door with forcelock (unlocked door is saved)
+Sat Jan 20 23:31:31 2018	Griff (STEAM_0:0:51599729) unarrested Bob Ross
+Sat Jan 20 23:31:48 2018	Griff (STEAM_0:0:51599729): /forceunlock
+Sat Jan 20 23:31:48 2018	Griff (STEAM_0:0:51599729) force-unlocked a door with forcelock (unlocked door is saved)
+Sat Jan 20 23:31:51 2018	Griff (STEAM_0:0:51599729): /forceunlock
+Sat Jan 20 23:31:54 2018	Akihiro | 太糟了 was killed by Griff with a m9k_hk45_drp
+Sat Jan 20 23:32:04 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:32:23 2018	Griff (STEAM_0:0:51599729): /forceunlock
+Sat Jan 20 23:32:23 2018	Griff (STEAM_0:0:51599729) force-unlocked a door with forcelock (unlocked door is saved)
+Sat Jan 20 23:32:46 2018	Griff (STEAM_0:0:51599729): /forcelock
+Sat Jan 20 23:32:46 2018	Griff (STEAM_0:0:51599729) force-locked a door with forcelock (locked door is saved)
+Sat Jan 20 23:32:49 2018	Griff (STEAM_0:0:51599729): /forceunlock
+Sat Jan 20 23:32:49 2018	Griff (STEAM_0:0:51599729) force-unlocked a door with forcelock (unlocked door is saved)
+Sat Jan 20 23:32:53 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sat Jan 20 23:32:53 2018	Griff (STEAM_0:0:51599729) arrested Hell Fire
+Sat Jan 20 23:33:22 2018	Hell Fire was killed by Entity [311][trigger_hurt] with a trigger_hurt
+Sat Jan 20 23:33:24 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sat Jan 20 23:33:35 2018	$crim (STEAM_0:0:92881884) unarrested Hell Fire
+Sat Jan 20 23:33:42 2018	robinwoo gametame.com (STEAM_0:0:155876364) has joined the game
+Sat Jan 20 23:33:42 2018	robinwoo gametame.com (STEAM_0:0:155876364) spawned
+Sat Jan 20 23:34:03 2018	Griff (STEAM_0:0:51599729): /forcelock
+Sat Jan 20 23:34:03 2018	Griff (STEAM_0:0:51599729) force-locked a door with forcelock (locked door is saved)
+Sat Jan 20 23:34:22 2018	Griff was killed by Hell Fire with a weapon_mac102
+Sat Jan 20 23:34:23 2018	Griff (STEAM_0:0:51599729) spawned
+Sat Jan 20 23:34:53 2018	Hyper was killed by Bob Ross with a m9k_scar_drp
+Sat Jan 20 23:34:56 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:34:57 2018	Hell Fire was killed by Himself with a suicide trick
+Sat Jan 20 23:34:59 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sat Jan 20 23:35:00 2018	robinwoo gametame.com (STEAM_0:0:155876364): How do i do things
+Sat Jan 20 23:35:25 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sat Jan 20 23:35:34 2018	Hell Fire was killed by $crim with a m9k_ak74_drp
+Sat Jan 20 23:35:36 2018	robinwoo gametame.com was killed by $crim with a m9k_ak74_drp
+Sat Jan 20 23:35:37 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sat Jan 20 23:35:43 2018	Griff was killed by $crim with a m9k_ak74_drp
+Sat Jan 20 23:35:45 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:35:45 2018	Griff (STEAM_0:0:51599729) spawned
+Sat Jan 20 23:35:49 2018	Hell Fire was killed by $crim with a m9k_ak74_drp
+Sat Jan 20 23:35:50 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sat Jan 20 23:35:55 2018	Griff was killed by $crim with a m9k_ak74_drp
+Sat Jan 20 23:35:58 2018	Griff (STEAM_0:0:51599729) spawned
+Sat Jan 20 23:36:03 2018	robinwoo gametame.com (STEAM_0:0:155876364): What
+Sat Jan 20 23:36:03 2018	Bob Ross was killed by ThunderPanda with a m9k_fg42_drp
+Sat Jan 20 23:36:04 2018	$crim (STEAM_0:0:92881884) spawned
+Sat Jan 20 23:36:04 2018	Griff (STEAM_0:0:51599729) arrested $crim
+Sat Jan 20 23:36:04 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sat Jan 20 23:36:04 2018	Griff (STEAM_0:0:51599729) arrested ThunderPanda
+Sat Jan 20 23:36:06 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sat Jan 20 23:36:07 2018	robinwoo gametame.com (STEAM_0:0:155876364) spawned
+Sat Jan 20 23:36:27 2018	Griff (STEAM_0:0:51599729) spawned
+Sat Jan 20 23:37:19 2018	Bob Ross (STEAM_0:1:54818617): /lockdown
+Sat Jan 20 23:37:56 2018	Bob Ross (STEAM_0:1:54818617): /broadcast Please return to your homes for your safety we have info that a gang in the are may be turning people gay
+Sat Jan 20 23:38:14 2018	Griff was killed by Hell Fire with a m9k_luger_drp
+Sat Jan 20 23:38:15 2018	Griff (STEAM_0:0:51599729) spawned
+Sat Jan 20 23:38:16 2018	Bob Ross (STEAM_0:1:54818617): /agenda
+Sat Jan 20 23:38:34 2018	Bob Ross (STEAM_0:1:54818617): /agenda Keep fags out of the town
+Sat Jan 20 23:39:13 2018	Akihiro | 太糟了 was killed by Griff with a m9k_m24_drp
+Sat Jan 20 23:39:13 2018	Hell Fire was killed by Griff with a m9k_m24_drp
+Sat Jan 20 23:39:14 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sat Jan 20 23:39:16 2018	robinwoo gametame.com (STEAM_0:0:155876364): u
+Sat Jan 20 23:39:20 2018	$crim (STEAM_0:0:92881884) spawned
+Sat Jan 20 23:39:24 2018	Bob Ross (STEAM_0:1:54818617): /unlockdown
+Sat Jan 20 23:39:24 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:39:31 2018	Hyper was killed by Entity [94][prop_physics] with a prop_physics
+Sat Jan 20 23:39:36 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:39:46 2018	$crim (STEAM_0:0:92881884): /advert we're shool shooter role playing 
+Sat Jan 20 23:39:49 2018	$crim was killed by Entity [0][worldspawn] with a unknown
+Sat Jan 20 23:39:50 2018	$crim (STEAM_0:0:92881884) spawned
+Sat Jan 20 23:39:53 2018	robinwoo gametame.com (STEAM_0:0:155876364): im new 
+Sat Jan 20 23:39:57 2018	$crim (STEAM_0:0:92881884): we're school shooting role playing
+Sat Jan 20 23:40:01 2018	$crim (STEAM_0:0:92881884): :^)
+Sat Jan 20 23:40:13 2018	$crim (STEAM_0:0:92881884): we're gangsteeirs 
+Sat Jan 20 23:40:40 2018	robinwoo gametame.com (STEAM_0:0:155876364) spawned
+Sat Jan 20 23:40:48 2018	Akihiro | 太糟了 was killed by Entity [0][worldspawn] with a unknown
+Sat Jan 20 23:40:49 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:41:49 2018	$crim (STEAM_0:0:92881884): meeting at spawn
+Sat Jan 20 23:42:09 2018	$crim (STEAM_0:0:92881884): /advert fuck niggers
+Sat Jan 20 23:42:38 2018	$crim (STEAM_0:0:92881884): meeting at spawn
+Sat Jan 20 23:43:20 2018	Griff was killed by $crim with a m9k_m3_drp
+Sat Jan 20 23:43:23 2018	Griff (STEAM_0:0:51599729): /arrest
+Sat Jan 20 23:43:27 2018	ThunderPanda was killed by Entity [0][worldspawn] with a unknown
+Sat Jan 20 23:43:29 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sat Jan 20 23:43:30 2018	Griff (STEAM_0:0:51599729): /arrest $r
+Sat Jan 20 23:43:30 2018	Griff (STEAM_0:0:51599729) spawned
+Sat Jan 20 23:43:30 2018	Griff (STEAM_0:0:51599729) force-arrested Griff
+Sat Jan 20 23:43:30 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sat Jan 20 23:43:30 2018	Griff (STEAM_0:0:51599729) force-arrested Bob Ross
+Sat Jan 20 23:43:30 2018	Hell Fire (STEAM_0:1:20129756) spawned
+Sat Jan 20 23:43:30 2018	Griff (STEAM_0:0:51599729) force-arrested Hell Fire
+Sat Jan 20 23:43:30 2018	$crim (STEAM_0:0:92881884) spawned
+Sat Jan 20 23:43:30 2018	Griff (STEAM_0:0:51599729) force-arrested $crim
+Sat Jan 20 23:43:30 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sat Jan 20 23:43:30 2018	Griff (STEAM_0:0:51599729) force-arrested ThunderPanda
+Sat Jan 20 23:43:30 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:43:30 2018	Griff (STEAM_0:0:51599729) force-arrested Hyper
+Sat Jan 20 23:43:30 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:43:30 2018	Griff (STEAM_0:0:51599729) force-arrested Akihiro | 太糟了
+Sat Jan 20 23:43:30 2018	robinwoo gametame.com (STEAM_0:0:155876364) spawned
+Sat Jan 20 23:43:30 2018	Griff (STEAM_0:0:51599729) force-arrested robinwoo gametame.com
+Sat Jan 20 23:43:38 2018	robinwoo gametame.com (STEAM_0:0:155876364): same
+Sat Jan 20 23:43:41 2018	Griff (STEAM_0:0:51599729): /unarrest $r
+Sat Jan 20 23:43:41 2018	Griff (STEAM_0:0:51599729) force-unarrested Griff
+Sat Jan 20 23:43:41 2018	Griff (STEAM_0:0:51599729) force-unarrested Bob Ross
+Sat Jan 20 23:43:41 2018	Griff (STEAM_0:0:51599729) force-unarrested Hell Fire
+Sat Jan 20 23:43:41 2018	Griff (STEAM_0:0:51599729) force-unarrested $crim
+Sat Jan 20 23:43:41 2018	Griff (STEAM_0:0:51599729) force-unarrested ThunderPanda
+Sat Jan 20 23:43:41 2018	Griff (STEAM_0:0:51599729) force-unarrested Hyper
+Sat Jan 20 23:43:41 2018	Griff (STEAM_0:0:51599729) force-unarrested Akihiro | 太糟了
+Sat Jan 20 23:43:41 2018	Griff (STEAM_0:0:51599729) force-unarrested robinwoo gametame.com
+Sat Jan 20 23:44:36 2018	Akihiro | 太糟了 was killed by $crim with a m9k_m3_drp
+Sat Jan 20 23:44:39 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:44:40 2018	robinwoo gametame.com was killed by $crim with a m9k_m3_drp
+Sat Jan 20 23:44:43 2018	Bob Ross (STEAM_0:1:54818617): /addlaw Being gay is now ALLOWED
+Sat Jan 20 23:44:47 2018	Akihiro | 太糟了 was killed by $crim with a m9k_m3_drp
+Sat Jan 20 23:44:48 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:44:48 2018	robinwoo gametame.com (STEAM_0:0:155876364): ?
+Sat Jan 20 23:44:54 2018	Bob Ross (STEAM_0:1:54818617): /agenda Keep crime down
+Sat Jan 20 23:45:00 2018	robinwoo gametame.com (STEAM_0:0:155876364) spawned
+Sat Jan 20 23:45:05 2018	Akihiro | 太糟了 was killed by $crim with a m9k_m3_drp
+Sat Jan 20 23:45:07 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:45:07 2018	Griff was killed by $crim with a m9k_m3_drp
+Sat Jan 20 23:45:08 2018	Griff (STEAM_0:0:51599729) spawned
+Sat Jan 20 23:45:10 2018	robinwoo gametame.com was killed by $crim with a m9k_m3_drp
+Sat Jan 20 23:45:14 2018	Griff was killed by $crim with a m9k_m3_drp
+Sat Jan 20 23:45:15 2018	robinwoo gametame.com (STEAM_0:0:155876364) spawned
+Sat Jan 20 23:45:16 2018	$crim was killed by Entity [0][worldspawn] with a unknown
+Sat Jan 20 23:45:17 2018	$crim (STEAM_0:0:92881884) spawned
+Sat Jan 20 23:45:18 2018	Griff (STEAM_0:0:51599729) spawned
+Sat Jan 20 23:46:02 2018	ThunderPanda was killed by $crim with a m9k_m3_drp
+Sat Jan 20 23:46:04 2018	robinwoo gametame.com (STEAM_0:0:155876364): do you need a licens for a gun?
+Sat Jan 20 23:46:04 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sat Jan 20 23:46:12 2018	ThunderPanda was killed by $crim with a m9k_m3_drp
+Sat Jan 20 23:46:14 2018	ThunderPanda (STEAM_0:0:87381926) spawned
+Sat Jan 20 23:46:30 2018	Griff (STEAM_0:0:51599729): !kick thunder RDM
+Sat Jan 20 23:46:30 2018	ThunderPanda (STEAM_0:0:87381926) disconnected
+Sat Jan 20 23:46:38 2018	Griff (STEAM_0:0:51599729): !kick rim rdm
+Sat Jan 20 23:46:38 2018	$crim (STEAM_0:0:92881884) disconnected
+Sat Jan 20 23:47:25 2018	robinwoo gametame.com was killed by Entity [236][prop_physics] with a prop_physics
+Sat Jan 20 23:47:33 2018	robinwoo gametame.com (STEAM_0:0:155876364) spawned
+Sat Jan 20 23:48:34 2018	robinwoo gametame.com (STEAM_0:0:155876364) disconnected
+Sat Jan 20 23:48:56 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sat Jan 20 23:49:13 2018	Hyper was killed by Entity [238][prop_physics] with a prop_physics
+Sat Jan 20 23:49:17 2018	Bob Ross (STEAM_0:1:54818617): /forceunlock
+Sat Jan 20 23:49:17 2018	Bob Ross (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Sat Jan 20 23:49:19 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:49:21 2018	Bob Ross (STEAM_0:1:54818617): /forceunlock
+Sat Jan 20 23:49:21 2018	Bob Ross (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Sat Jan 20 23:49:23 2018	Bob Ross (STEAM_0:1:54818617): /forceunlock
+Sat Jan 20 23:49:23 2018	Bob Ross (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Sat Jan 20 23:49:25 2018	Bob Ross (STEAM_0:1:54818617): /forcelock
+Sat Jan 20 23:49:25 2018	Bob Ross (STEAM_0:1:54818617) force-locked a door with forcelock (locked door is saved)
+Sat Jan 20 23:49:36 2018	Akihiro | 太糟了 was killed by Griff with a stunstick
+Sat Jan 20 23:49:37 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:49:50 2018	Bob Ross (STEAM_0:1:54818617): /forceunlock
+Sat Jan 20 23:49:50 2018	Bob Ross (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Sat Jan 20 23:49:51 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:49:52 2018	Bob Ross (STEAM_0:1:54818617): /forcelock
+Sat Jan 20 23:49:52 2018	Bob Ross (STEAM_0:1:54818617) force-locked a door with forcelock (locked door is saved)
+Sat Jan 20 23:51:00 2018	Bob Ross (STEAM_0:1:54818617): /forceunlock
+Sat Jan 20 23:51:00 2018	Bob Ross (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Sat Jan 20 23:51:02 2018	Bob Ross (STEAM_0:1:54818617): /forceunlock
+Sat Jan 20 23:51:02 2018	Bob Ross (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Sat Jan 20 23:51:13 2018	Bob Ross (STEAM_0:1:54818617): /forceunlock
+Sat Jan 20 23:51:13 2018	Bob Ross (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Sat Jan 20 23:51:39 2018	Bob Ross (STEAM_0:1:54818617): /forcelock
+Sat Jan 20 23:51:39 2018	Bob Ross (STEAM_0:1:54818617) force-locked a door with forcelock (locked door is saved)
+Sat Jan 20 23:54:08 2018	Bob Ross (STEAM_0:1:54818617): /pm griff maybe hes gay
+Sat Jan 20 23:54:38 2018	Griff (STEAM_0:0:51599729): /demote hyper Gay
+Sat Jan 20 23:54:38 2018	Griff(STEAM_0:0:51599729)[Civil Protection Chief] has started a vote for the demotion of Hyper(STEAM_0:0:66617318)[Mayor] for Gay
+Sat Jan 20 23:55:04 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:55:21 2018	Hyper was killed by Entity [0][worldspawn] with a unknown
+Sat Jan 20 23:55:24 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Sat Jan 20 23:55:25 2018	Griff (STEAM_0:0:51599729) spawned
+Sat Jan 20 23:55:25 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:55:33 2018	Hyper was killed by Entity [0][worldspawn] with a unknown
+Sat Jan 20 23:55:35 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:55:43 2018	Hyper was killed by Entity [0][worldspawn] with a unknown
+Sat Jan 20 23:55:47 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:56:09 2018	Hyper was killed by Entity [0][worldspawn] with a unknown
+Sat Jan 20 23:56:12 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:56:22 2018	Hyper was killed by Entity [0][worldspawn] with a unknown
+Sat Jan 20 23:56:23 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:56:42 2018	Akihiro | 太糟了 was killed by Entity [0][worldspawn] with a unknown
+Sat Jan 20 23:56:44 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:56:50 2018	Akihiro | 太糟了 was killed by Entity [0][worldspawn] with a unknown
+Sat Jan 20 23:56:51 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:57:58 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:58:14 2018	Hyper was killed by Entity [0][worldspawn] with a unknown
+Sat Jan 20 23:58:16 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:58:28 2018	Hyper was killed by Entity [0][worldspawn] with a unknown
+Sat Jan 20 23:58:30 2018	Hyper (STEAM_0:0:66617318) spawned
+Sat Jan 20 23:58:47 2018	Akihiro | 太糟了 was killed by Hyper with a m9k_hk45_drp
+Sat Jan 20 23:58:49 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sat Jan 20 23:58:54 2018	Griff (STEAM_0:0:51599729): /forceunlock
+Sat Jan 20 23:58:54 2018	Griff (STEAM_0:0:51599729) force-unlocked a door with forcelock (unlocked door is saved)
+Sat Jan 20 23:59:05 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sat Jan 20 23:59:07 2018	Griff (STEAM_0:0:51599729): !strip hell
+Sat Jan 20 23:59:42 2018	Griff (STEAM_0:0:51599729): /forcelock
+Sat Jan 20 23:59:42 2018	Griff (STEAM_0:0:51599729) force-locked a door with forcelock (locked door is saved)
+Sat Jan 20 23:59:48 2018	Griff (STEAM_0:0:51599729): /forcelock
+Sat Jan 20 23:59:48 2018	Griff (STEAM_0:0:51599729) force-locked a door with forcelock (locked door is saved)
+Sun Jan 21 00:00:24 2018	Bob Ross was killed by Himself with a suicide trick
+Sun Jan 21 00:00:29 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Sun Jan 21 00:02:49 2018	Bob Ross (STEAM_0:1:54818617): /forceunlock
+Sun Jan 21 00:02:49 2018	Bob Ross (STEAM_0:1:54818617) force-unlocked a door with forcelock (unlocked door is saved)
+Sun Jan 21 00:03:49 2018	Hyper was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 00:03:52 2018	Hyper (STEAM_0:0:66617318) spawned
+Sun Jan 21 00:04:35 2018	Griff was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 00:04:37 2018	Hyper was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 00:04:37 2018	Griff (STEAM_0:0:51599729) spawned
+Sun Jan 21 00:04:38 2018	Hyper (STEAM_0:0:66617318) spawned
+Sun Jan 21 00:05:02 2018	Griff (STEAM_0:0:51599729): /forceunlock
+Sun Jan 21 00:05:02 2018	Griff (STEAM_0:0:51599729) force-unlocked a door with forcelock (unlocked door is saved)
+Sun Jan 21 00:05:25 2018	Griff (STEAM_0:0:51599729): /forcelock
+Sun Jan 21 00:05:25 2018	Griff (STEAM_0:0:51599729) force-locked a door with forcelock (locked door is saved)
+Sun Jan 21 00:07:31 2018	Hyper was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 00:07:33 2018	Akihiro | 太糟了 was killed by Entity [0][worldspawn] with a unknown
+Sun Jan 21 00:07:34 2018	Hyper (STEAM_0:0:66617318) spawned
+Sun Jan 21 00:07:34 2018	Akihiro | 太糟了 (STEAM_0:1:188481945) spawned
+Sun Jan 21 00:07:40 2018	Hell Fire was killed by Griff with a m9k_scar_drp
+Sun Jan 21 00:07:42 2018	Hell Fire (STEAM_0:1:20129756) spawned

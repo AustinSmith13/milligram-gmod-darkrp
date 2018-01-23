@@ -1,0 +1,18 @@
+[02:21:11] New map: rp_bangclaw
+[19:44:52] Client "Bob Ross" connected.
+[19:45:50] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 58 seconds).
+[19:47:08] Tyler Gates changed the map to rp_downtown_v1
+[19:47:08] Server is shutting down/changing levels.
+
+
+
+[19:47:15] New map: rp_downtown_v1
+[19:47:49] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 38 seconds).
+[19:51:33] Tyler Gates changed the map to rp_downtown_v4_exl
+[19:51:33] Server is shutting down/changing levels.
+
+
+
+[19:51:39] New map: rp_downtown_v4_exl
+[19:52:11] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 35 seconds).
+[19:54:22] Dropped "Tyler Gates" from server<STEAM_0:1:54818617>

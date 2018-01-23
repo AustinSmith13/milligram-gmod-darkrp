@@ -1,0 +1,27 @@
+1	1516672191	_knkekqknl4ydumb2guytkojzg4zds===_		STEAM_0:0:51599729		500	500	128	Griff
+2	1516672194	_knkekqknl4ydumb2guytkojzg4zds===_		STEAM_0:0:51599729		45	545	512	Citizen
+3	1516672201	_knkekqknl4ydumb2guytkojzg4zds===_		STEAM_0:0:51599729		0		8	
+4	1516672216	_knkekqknl4ydumj2gu2dqmjygyyto===_		STEAM_0:1:54818617		500	500	128	Bob Ross
+5	1516672219	_knkekqknl4ydumb2guytkojzg4zds===_		STEAM_0:0:51599729		600	1145	1	ATM
+6	1516672326	_knkekqknl4ydumj2gu2dqmjygyyto===_		STEAM_0:1:54818617		45	545	512	Citizen
+7	1516672354	_knkekqknl4ydumb2guytkojzg4zds===_		STEAM_0:0:51599729		45	1190	512	Citizen
+8	1516672486	_knkekqknl4ydumj2gu2dqmjygyyto===_		STEAM_0:1:54818617		45	590	512	Citizen
+9	1516672503	_knkekqknl4ydumj2gu2dqmjygyyto===_	_knkekqknl4ydumb2guytkojzg4zds===_	STEAM_0:1:54818617	STEAM_0:0:51599729	-500	90	2	ATM Transfer
+10	1516672503	_knkekqknl4ydumb2guytkojzg4zds===_	_knkekqknl4ydumj2gu2dqmjygyyto===_	STEAM_0:0:51599729	STEAM_0:1:54818617	500	1690	2	ATM Transfer
+11	1516672514	_knkekqknl4ydumb2guytkojzg4zds===_		STEAM_0:0:51599729		45	1735	512	Citizen
+12	1516672524	kr4vg33goq======_		STEAM_0:1:54818617		0	0	128	TySoft
+13	1516672552	kr4vg33goq======_		STEAM_0:1:54818617		0		8	
+14	1516672615	kr4vg33goq======_		STEAM_0:1:54818617		1000000000	1000000000	1	ATM
+15	1516672646	_knkekqknl4ydumj2gu2dqmjygyyto===_		STEAM_0:1:54818617		45	135	512	Citizen
+16	1516672650	kr4vg33goq======_		STEAM_0:1:54818617	STEAM_0:0:51599729	0		32	
+17	1516672674	_knkekqknl4ydumb2guytkojzg4zds===_		STEAM_0:0:51599729		45	1780	512	Citizen
+18	1516672806	_knkekqknl4ydumj2gu2dqmjygyyto===_		STEAM_0:1:54818617		45	180	512	Citizen
+19	1516673624	_knkekqknl4ydumb2guytkojzg4zds===_		STEAM_0:0:51599729		45	1825	512	Citizen
+20	1516673629	_knkekqknl4ydumj2gu2dqmjygyyto===_		STEAM_0:1:54818617		45	225	512	Citizen
+21	1516673784	_knkekqknl4ydumb2guytkojzg4zds===_		STEAM_0:0:51599729		45	1870	512	Citizen
+22	1516673789	_knkekqknl4ydumj2gu2dqmjygyyto===_		STEAM_0:1:54818617		45	270	512	Citizen
+23	1516673944	_knkekqknl4ydumb2guytkojzg4zds===_		STEAM_0:0:51599729		45	1915	512	Citizen
+24	1516674025	_knkekqknl4ydumj2gu2dqmjygyyto===_		STEAM_0:1:54818617		60	330	512	Mob boss
+25	1516674104	_knkekqknl4ydumb2guytkojzg4zds===_		STEAM_0:0:51599729		45	1960	512	Citizen
+26	1516674185	_knkekqknl4ydumj2gu2dqmjygyyto===_		STEAM_0:1:54818617		60	390	512	Mob boss
+27	1516674264	_knkekqknl4ydumb2guytkojzg4zds===_		STEAM_0:0:51599729		45	2005	512	Citizen

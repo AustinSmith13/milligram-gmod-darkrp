@@ -1,0 +1,14 @@
+Tue Jan 16 18:09:34 2018	Griff (STEAM_0:0:51599729) has joined the game
+Tue Jan 16 18:09:34 2018	Griff (STEAM_0:0:51599729) spawned
+Tue Jan 16 18:09:44 2018	Bob Ross (STEAM_0:1:54818617) has joined the game
+Tue Jan 16 18:09:44 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Tue Jan 16 18:12:22 2018	Bob Ross was killed by Griff with a m9k_m60_drp
+Tue Jan 16 18:12:23 2018	Bob Ross (STEAM_0:1:54818617) spawned
+Tue Jan 16 18:13:03 2018	Griff was killed by Bob Ross with a m9k_deagle_drp
+Tue Jan 16 18:13:05 2018	Griff (STEAM_0:0:51599729) spawned
+Tue Jan 16 18:18:34 2018	Griff (STEAM_0:0:51599729): !motd
+Tue Jan 16 18:19:05 2018	Griff (STEAM_0:0:51599729): !motd
+Tue Jan 16 18:20:02 2018	Griff (STEAM_0:0:51599729): !motd
+Tue Jan 16 18:20:06 2018	Griff (STEAM_0:0:51599729) disconnected
+Tue Jan 16 18:20:21 2018	Griff (STEAM_0:0:51599729) has joined the game
+Tue Jan 16 18:20:21 2018	Griff (STEAM_0:0:51599729) spawned

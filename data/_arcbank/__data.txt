@@ -1,0 +1,1 @@
+{"EmoPlayers":[],"NommedCards":[],"BlindPlayers":[],"OldPlayers":[],"ProperShutdown":false,"LastInterestTime":1516671510}

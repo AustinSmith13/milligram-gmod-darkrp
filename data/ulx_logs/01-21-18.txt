@@ -1,0 +1,1691 @@
+<Logging continued from "data/ulx_logs/01-20-18.txt">
+[00:00:24] Bob Ross suicided!
+[00:01:40] Bob Ross<STEAM_0:1:54818617> spawned model models/props_c17/furniturefridge001a.mdl
+[00:01:59] Bob Ross<STEAM_0:1:54818617> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[00:02:12] Bob Ross<STEAM_0:1:54818617> spawned model models/props_c17/furniturestove001a.mdl
+[00:02:29] Griff stripped weapons from Akihiro | 太糟了
+[00:02:32] Bob Ross<STEAM_0:1:54818617> spawned model models/props_c17/furniturestove001a.mdl
+[00:02:49] Bob Ross: /forceunlock
+[00:03:32] Griff<STEAM_0:0:51599729> spawned model models/props_c17/furnituresink001a.mdl
+[00:03:42] Akihiro | 太糟了<STEAM_0:1:188481945> spawned ragdoll models/player/ct_gign.mdl
+[00:03:46] Akihiro | 太糟了<STEAM_0:1:188481945> spawned ragdoll models/player/ct_gign.mdl
+[00:03:58] Akihiro | 太糟了<STEAM_0:1:188481945> spawned ragdoll models/player/t_arctic.mdl
+[00:04:03] Akihiro | 太糟了<STEAM_0:1:188481945> spawned ragdoll models/player/ct_sas.mdl
+[00:04:06] Akihiro | 太糟了<STEAM_0:1:188481945> spawned ragdoll models/player/ct_gsg9.mdl
+[00:04:09] Akihiro | 太糟了<STEAM_0:1:188481945> spawned ragdoll models/player/ct_sas.mdl
+[00:04:12] Akihiro | 太糟了<STEAM_0:1:188481945> spawned ragdoll models/player/ct_gign.mdl
+[00:04:16] Akihiro | 太糟了<STEAM_0:1:188481945> spawned ragdoll models/player/t_arctic.mdl
+[00:04:27] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_militia/fishriver01.mdl
+[00:04:31] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/de_nuke/nuklogo.mdl
+[00:05:02] Griff: /forceunlock
+[00:05:15] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/xqm/coastertrack/special_full_loop_4.mdl
+[00:05:25] Griff: /forcelock
+[00:05:58] Akihiro | 太糟了<STEAM_0:1:188481945> spawned ragdoll models/player/hwm/spy.mdl
+[00:06:03] Akihiro | 太糟了<STEAM_0:1:188481945> spawned ragdoll models/player/spy.mdl
+[00:06:41] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_halloween/eyeball_projectile.mdl
+[00:06:44] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_halloween/eyeball_projectile.mdl
+[00:06:45] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_halloween/eyeball_projectile.mdl
+[00:06:45] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_halloween/eyeball_projectile.mdl
+[00:06:46] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_halloween/eyeball_projectile.mdl
+[00:06:46] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_halloween/eyeball_projectile.mdl
+[00:06:46] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_halloween/eyeball_projectile.mdl
+[00:06:46] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_halloween/eyeball_projectile.mdl
+[00:06:46] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_halloween/eyeball_projectile.mdl
+[00:06:47] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_halloween/eyeball_projectile.mdl
+[00:06:47] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_halloween/eyeball_projectile.mdl
+[00:06:47] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_halloween/eyeball_projectile.mdl
+[00:06:47] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_halloween/eyeball_projectile.mdl
+[00:06:47] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_halloween/eyeball_projectile.mdl
+[00:06:47] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_halloween/eyeball_projectile.mdl
+[00:06:47] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_halloween/eyeball_projectile.mdl
+[00:06:48] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props_halloween/eyeball_projectile.mdl
+[00:07:40] Griff killed Hell Fire using player
+[00:07:45] Akihiro | 太糟了<STEAM_0:1:188481945> spawned ragdoll models/player/hwm/demo.mdl
+[00:08:06] Hell Fire<STEAM_0:1:20129756> spawned model models/props_junk/cinderblock01a.mdl
+[00:08:37] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/snowman_face.mdl
+[00:08:50] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_militia/van.mdl
+[00:09:03] Griff changed the map to rp_paralake_city_v1
+[00:09:03] Server is shutting down/changing levels.
+
+
+
+[00:09:19] New map: rp_paralake_city_v1
+[00:09:56] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 42 seconds).
+[00:10:13] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 59 seconds).
+[00:10:13] Griff suicided!
+[00:10:47] Client "Hell Fire" spawned in server <STEAM_0:1:20129756> (took 93 seconds).
+[00:11:03] Client "Akihiro | 太糟了" spawned in server <STEAM_0:1:188481945> (took 109 seconds).
+[00:11:09] Client "Hyper" spawned in server <STEAM_0:0:66617318> (took 115 seconds).
+[00:11:09] Akihiro | 太糟了 suicided!
+[00:11:24] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/computer_monitor.mdl
+[00:11:24] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/computer_monitor.mdl
+[00:11:24] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/computer_monitor.mdl
+[00:11:24] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/computer_monitor.mdl
+[00:11:25] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/computer_monitor.mdl
+[00:11:25] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/computer_monitor.mdl
+[00:11:25] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/computer_monitor.mdl
+[00:11:25] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/computer_monitor.mdl
+[00:12:03] Akihiro | 太糟了: !tp
+[00:12:08] Akihiro | 太糟了: !tp hyper
+[00:12:08] Akihiro | 太糟了 teleported Hyper
+[00:12:12] Akihiro | 太糟了: !tpto hyper
+[00:12:15] Akihiro | 太糟了: !help
+[00:12:17] Akihiro | 太糟了: !wtf
+[00:12:23] Akihiro | 太糟了: !commands
+[00:12:25] Akihiro | 太糟了: !pls
+[00:13:12] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:12] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:13] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:13] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:13] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:13] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:13] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:13] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:14] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:14] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:14] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:14] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:14] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:14] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:14] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:14] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:14] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:15] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:15] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:15] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:15] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:15] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:15] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:15] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:15] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:15] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:15] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:15] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:15] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:16] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:16] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:16] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:16] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:16] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:16] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:16] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:16] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:16] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:16] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:16] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:16] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:16] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:16] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:16] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:17] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:17] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:17] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:17] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:17] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:17] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:17] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:17] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:17] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:17] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:17] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:17] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:18] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:18] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:18] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:18] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:18] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:18] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:18] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:18] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:18] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:18] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:18] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:18] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:18] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:19] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:19] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:19] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:33] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:33] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:33] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:33] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:33] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:33] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:33] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:34] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:34] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:34] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:34] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:34] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:34] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:34] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:34] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:34] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:34] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:34] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:35] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:35] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:35] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:35] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:35] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:35] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:35] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:35] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:35] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:35] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:35] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:36] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:36] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:36] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:36] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:36] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:36] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:36] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:36] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:36] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:36] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:37] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:37] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:37] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:37] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:37] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:37] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:37] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:37] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:37] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:37] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:38] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:38] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:38] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:38] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:38] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:38] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:38] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:38] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:38] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:38] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:38] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:38] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:38] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:38] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:38] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:39] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:39] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:39] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:39] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:39] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:39] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:39] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:39] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:39] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:39] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:39] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:39] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:39] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:39] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:39] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:40] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:40] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:40] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:40] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:40] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:40] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:40] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:40] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:40] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:40] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:40] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:40] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:41] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:41] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:41] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:41] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:41] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:41] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:41] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:41] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:42] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:42] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:42] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:42] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:42] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:42] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:43] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:43] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:43] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:43] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:43] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:43] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:43] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:43] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:43] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:43] Akihiro | 太糟了<STEAM_0:1:188481945> spawned model models/props/cs_office/chair_office.mdl
+[00:13:52] Dropped "Hyper" from server<STEAM_0:0:66617318>
+[00:13:59] Griff: !kick aki
+[00:13:59] Griff kicked Akihiro | 太糟了
+[00:13:59] Dropped "Akihiro | 太糟了" from server<STEAM_0:1:188481945>
+[00:14:20] Griff changed the map to rp_downtown_v4_exl
+[00:14:20] Server is shutting down/changing levels.
+
+
+
+[00:14:25] New map: rp_downtown_v4_exl
+[00:14:53] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 31 seconds).
+[00:16:14] Dropped "Bob Ross" from server<STEAM_0:1:54818617>
+[00:36:40] Client "[NWA] Zombieman 428" connected.
+[00:37:33] Client "[NWA] Zombieman 428" spawned in server <STEAM_0:1:82399471> (took 53 seconds).
+[00:38:10] Dropped "[NWA] Zombieman 428" from server<STEAM_0:1:82399471>
+
+
+
+[02:46:25] New map: rp_downtown_v4_exl
+[11:27:43] Client "Griff" connected.
+[11:28:05] Client "Bob Ross" connected.
+[11:28:12] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 29 seconds).
+[11:28:59] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 54 seconds).
+[11:30:39] Dropped "Griff" from server<STEAM_0:0:51599729>
+[11:30:39] Client "Griff" connected.
+[11:30:43] Dropped "Bob Ross" from server<STEAM_0:1:54818617>
+[11:30:44] Client "Bob Ross" connected.
+[11:30:57] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 18 seconds).
+[11:31:02] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 18 seconds).
+[11:32:00] Bob Ross: /forceunlock
+[11:32:02] Bob Ross: /forceunlock
+[11:32:07] Bob Ross: /forceunlock
+[11:35:09] Bob Ross suicided!
+[11:35:28] Dropped "Bob Ross" from server<STEAM_0:1:54818617>
+[11:35:28] Client "Bob Ross" connected.
+[11:35:47] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 19 seconds).
+[11:42:27] Griff: /wanted
+[11:42:31] Griff: /wanted bob tol
+[11:47:16] Griff changed the map to rp_downtown_v4_exl
+[11:47:16] Server is shutting down/changing levels.
+
+
+
+[11:47:20] New map: rp_downtown_v4_exl
+[11:47:41] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 24 seconds).
+[11:47:46] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 29 seconds).
+[11:48:54] Dropped "Bob Ross" from server<STEAM_0:1:54818617>
+[11:48:54] Client "Bob Ross" connected.
+[11:49:13] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 19 seconds).
+
+
+
+[11:51:20] New map: rp_downtown_v4_exl
+[11:51:25] Client "Bob Ross" connected.
+[11:51:27] Client "Griff" connected.
+[11:51:41] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 14 seconds).
+[11:51:46] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 21 seconds).
+[11:53:06] Dropped "Griff" from server<STEAM_0:0:51599729>
+[11:53:06] Client "Griff" connected.
+[11:53:21] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[11:53:36] Bob Ross: /forceunlock
+[11:54:57] Dropped "Griff" from server<STEAM_0:0:51599729>
+[11:54:57] Client "Griff" connected.
+[11:55:12] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[11:58:10] Dropped "Griff" from server<STEAM_0:0:51599729>
+[11:58:11] Client "Griff" connected.
+[11:58:26] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[11:59:43] Griff: !menu
+[11:59:50] Griff changed the map to rp_downtown_v4_exl
+[11:59:50] Server is shutting down/changing levels.
+
+
+
+[11:59:54] New map: rp_downtown_v4_exl
+[12:00:15] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 24 seconds).
+[12:00:21] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 30 seconds).
+[12:01:40] Griff: !menu
+[12:01:48] Griff changed the map to rp_downtown_v4_exl
+[12:01:48] Server is shutting down/changing levels.
+
+
+
+[12:01:51] New map: rp_downtown_v4_exl
+[12:02:14] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 26 seconds).
+[12:02:17] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 29 seconds).
+[12:02:49] Griff killed Bob Ross using player
+[12:04:00] Griff changed the map to rp_downtown_v4_exl
+[12:04:00] Server is shutting down/changing levels.
+
+
+
+[12:04:04] New map: rp_downtown_v4_exl
+[12:04:24] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 23 seconds).
+[12:04:28] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 27 seconds).
+[12:06:11] Bob Ross: /AGENDA FIX SERVER
+[12:06:38] Griff changed the map to rp_downtown_v4_exl
+[12:06:38] Server is shutting down/changing levels.
+
+
+
+[12:06:42] New map: rp_downtown_v4_exl
+[12:07:02] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 23 seconds).
+[12:07:06] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 27 seconds).
+[12:07:43] Bob Ross: /agenda fix server
+[12:11:30] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+
+
+
+[12:16:21] New map: rp_downtown_v4_exl
+[12:16:24] Client "Griff" connected.
+[12:16:31] Client "Bob Ross" connected.
+[12:16:39] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[12:16:54] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 23 seconds).
+[12:18:39] Griff changed the map to rp_downtown_v4_exl
+[12:18:39] Server is shutting down/changing levels.
+
+
+
+[12:18:43] New map: rp_downtown_v4_exl
+[12:19:04] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 24 seconds).
+[12:19:07] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 27 seconds).
+
+
+
+[12:26:45] New map: rp_downtown_v4_exl
+[12:27:09] Client "Griff" connected.
+[12:27:24] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[12:27:43] Client "Bob Ross" connected.
+[12:28:05] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 22 seconds).
+[12:28:07] Griff<STEAM_0:0:51599729> spawned sent rp_sixpack
+[12:28:12] Griff<STEAM_0:0:51599729> spawned sent rp_banana
+[12:28:18] Griff<STEAM_0:0:51599729> spawned sent rp_weed_plant
+[12:28:28] Bob Ross<STEAM_0:1:54818617> spawned sent rp_weed_plant
+[12:29:07] Griff<STEAM_0:0:51599729> spawned sent rp_weed
+[12:29:15] Griff<STEAM_0:0:51599729> spawned sent rp_stove
+[12:29:20] Client "twitchn" connected.
+[12:30:03] Bob Ross<STEAM_0:1:54818617> spawned sent rp_crate
+[12:30:31] Bob Ross<STEAM_0:1:54818617> spawned sent rp_crate
+[12:30:34] Griff<STEAM_0:0:51599729> spawned sent rp_weed_plant
+[12:30:36] Griff<STEAM_0:0:51599729> spawned sent rp_weed
+[12:31:14] Bob Ross<STEAM_0:1:54818617> spawned sent rp_weed
+[12:31:27] Griff<STEAM_0:0:51599729> spawned sent rp_crate
+[12:33:47] Bob Ross<STEAM_0:1:54818617> spawned sent rp_stove
+[12:33:52] Bob Ross<STEAM_0:1:54818617> spawned sent rp_gas
+[12:34:28] Bob Ross<STEAM_0:1:54818617> spawned sent rp_dealer
+[12:35:33] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/metalbucket01a.mdl
+[12:36:18] Bob Ross<STEAM_0:1:54818617> spawned sent rp_chloride
+[12:36:41] Bob Ross<STEAM_0:1:54818617> spawned sent rp_sodium
+[12:37:57] Bob Ross<STEAM_0:1:54818617> spawned sent rp_pot
+[12:39:01] Dropped "Griff" from server<STEAM_0:0:51599729>
+[12:39:01] Client "Griff" connected.
+[12:39:15] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 14 seconds).
+[12:41:46] Dropped "Griff" from server<STEAM_0:0:51599729>
+[12:41:46] Client "Griff" connected.
+[12:42:01] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[12:42:04] Bob Ross<STEAM_0:1:54818617> spawned sent rp_leaves
+[12:42:17] Bob Ross<STEAM_0:1:54818617> spawned sent rp_caustic
+[12:42:27] Bob Ross<STEAM_0:1:54818617> spawned sent rp_barrel
+[12:42:56] Griff: /buykeg
+[12:43:58] Bob Ross: rp_sixpack
+[12:44:01] Bob Ross<STEAM_0:1:54818617> spawned sent rp_sixpack
+[12:44:13] Bob Ross: rp_weed_plant
+[12:45:03] Bob Ross<STEAM_0:1:54818617> spawned sent rp_weed
+[12:45:06] Bob Ross<STEAM_0:1:54818617> spawned sent rp_stove
+[12:45:42] Griff<STEAM_0:0:51599729> spawned sent rp_keg
+
+
+
+[12:47:54] New map: rp_downtown_v4_exl
+[12:47:55] Client "Griff" connected.
+[12:48:10] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[12:48:10] Client "Bob Ross" connected.
+[12:48:31] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 21 seconds).
+[12:49:59] Griff<STEAM_0:0:51599729> spawned sent rp_dealer
+
+
+
+[12:57:07] New map: rp_downtown_v4_exl
+[12:57:11] Client "Griff" connected.
+[12:57:48] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 37 seconds).
+[12:58:07] Griff<STEAM_0:0:51599729> spawned sent durgz_alcohol
+[12:58:08] Griff: waitt, wait. guysss. i need to tells u abuot micrsfoft excel!11!
+[12:58:11] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[12:58:14] Griff<STEAM_0:0:51599729> spawned sent durgz_weed
+[12:58:15] Griff: hi how do i type in chat i cant figure it out
+[12:58:25] Griff<STEAM_0:0:51599729> spawned sent durgz_cocaine
+[12:58:25] Griff: MYNOSEISDRIBBLINGISANYONEELSESNOSEDRIBBLINGTHATSREALLYWEIRDIHOPEIDONTHAVEACOLD
+[12:58:34] Griff<STEAM_0:0:51599729> spawned sent durgz_heroine
+[12:58:34] Griff: It's my arm man! My fuckin' arm!
+[12:58:41] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[12:58:47] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[12:58:48] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[12:58:49] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[12:58:50] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[12:58:50] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[12:58:52] Griff<STEAM_0:0:51599729> spawned sent durgz_heroine
+[12:58:52] Griff: It's my arm man! My fuckin' arm!
+[12:58:55] Griff<STEAM_0:0:51599729> spawned sent durgz_heroine
+[12:58:55] Griff: It's my arm man! My fuckin' arm!
+[12:58:56] Griff<STEAM_0:0:51599729> spawned sent durgz_heroine
+[12:58:56] Griff: It's my arm man! My fuckin' arm!
+[12:58:57] Griff<STEAM_0:0:51599729> spawned sent durgz_heroine
+[12:58:57] Griff: It's my arm man! My fuckin' arm!
+[12:59:02] Griff<STEAM_0:0:51599729> spawned sent durgz_heroine
+[12:59:02] Griff: It's my arm man! My fuckin' arm!
+[12:59:03] Griff<STEAM_0:0:51599729> spawned sent durgz_heroine
+[12:59:03] Griff: It's my arm man! My fuckin' arm!
+[12:59:04] Griff<STEAM_0:0:51599729> spawned sent durgz_heroine
+[12:59:04] Griff: It's my arm man! My fuckin' arm!
+[12:59:04] Griff<STEAM_0:0:51599729> spawned sent durgz_heroine
+[12:59:05] Griff: It's my arm man! My fuckin' arm!
+[12:59:05] Griff<STEAM_0:0:51599729> spawned sent durgz_heroine
+[12:59:06] Griff suicided!
+[12:59:06] Client "Bob Ross" connected.
+[12:59:57] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 51 seconds).
+[13:00:13] Griff<STEAM_0:0:51599729> spawned sent durgz_weed
+[13:00:14] Bob Ross<STEAM_0:1:54818617> spawned sent durgz_alcohol
+[13:00:14] Griff: hi how do i type in chat i cant figure it out
+[13:00:16] Bob Ross<STEAM_0:1:54818617> spawned sent durgz_pcp
+[13:00:17] Dropped "Griff" from server<STEAM_0:0:51599729>
+[13:00:18] Client "Griff" connected.
+[13:00:18] Bob Ross<STEAM_0:1:54818617> spawned sent durgz_water
+[13:00:21] Bob Ross<STEAM_0:1:54818617> spawned sent durgz_pcp
+[13:00:22] Bob Ross: REEEED! MENOS TRES
+[13:00:33] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[13:00:36] Bob Ross<STEAM_0:1:54818617> spawned sent durgz_mushroom
+[13:00:39] Bob Ross: what
+[13:00:47] Griff<STEAM_0:0:51599729> spawned sent durgz_cocaine
+[13:00:50] Griff<STEAM_0:0:51599729> spawned sent durgz_weed
+[13:00:53] Griff<STEAM_0:0:51599729> spawned sent durgz_heroine
+[13:00:53] Bob Ross<STEAM_0:1:54818617> spawned sent durgz_aspirin
+[13:00:54] Griff<STEAM_0:0:51599729> spawned sent durgz_lsd
+[13:00:55] Bob Ross<STEAM_0:1:54818617> spawned sent durgz_cigarette
+[13:00:56] Griff<STEAM_0:0:51599729> spawned sent durgz_pcp
+[13:00:56] Bob Ross: I am COOL.
+[13:00:56] Griff: MY ARMS ARE LIKE FUCKING CANNONS
+[13:01:00] Bob Ross<STEAM_0:1:54818617> spawned sent durgz_cocaine
+[13:01:00] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:01:00] Bob Ross: MYNOSEISDRIBBLINGISANYONEELSESNOSEDRIBBLINGTHATSREALLYWEIRDIHOPEIDONTHAVEACOLD
+[13:01:06] Griff<STEAM_0:0:51599729> spawned sent durgz_mushroom
+[13:01:07] Griff: what
+[13:01:10] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:01:12] Griff<STEAM_0:0:51599729> spawned sent durgz_meth
+[13:01:13] Griff: I <3 METH
+[13:01:16] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:01:20] Griff<STEAM_0:0:51599729> spawned sent durgz_aspirin
+[13:01:22] Griff<STEAM_0:0:51599729> spawned sent durgz_cigarette
+[13:01:22] Griff: I am COOL.
+[13:01:26] Griff<STEAM_0:0:51599729> spawned sent durgz_heroine
+[13:01:27] Griff: It's my arm man! My fuckin' arm!
+[13:01:47] Griff suicided!
+[13:01:50] Bob Ross<STEAM_0:1:54818617> spawned sent durgz_lsd
+[13:01:51] Bob Ross: I WONDER WHAT HAPPENS WHEN I POUR GASOLINE ALL OVER MYSELF? THAT MUST BE THE CURE FOR CANCER, DUDE
+[13:01:59] Bob Ross<STEAM_0:1:54818617> spawned sent durgz_meth
+[13:02:00] Bob Ross: I <3 METH
+[13:02:00] Griff<STEAM_0:0:51599729> spawned sent durgz_aspirin
+[13:02:01] Griff<STEAM_0:0:51599729> spawned sent durgz_cigarette
+[13:02:01] Griff: I am COOL.
+[13:02:01] Griff<STEAM_0:0:51599729> spawned sent durgz_cocaine
+[13:02:02] Griff: MYNOSEISDRIBBLINGISANYONEELSESNOSEDRIBBLINGTHATSREALLYWEIRDIHOPEIDONTHAVEACOLD
+[13:02:16] Bob Ross<STEAM_0:1:54818617> spawned sent durgz_weed
+[13:02:17] Bob Ross: duuuuuuuuuuudeeeeeeee
+[13:02:21] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:02:22] Griff<STEAM_0:0:51599729> spawned sent durgz_weed
+[13:02:22] Griff: My eyes aren't red. What are you talking about?
+[13:02:22] Griff<STEAM_0:0:51599729> spawned sent durgz_weed
+[13:02:27] Griff<STEAM_0:0:51599729> spawned sent durgz_weed
+[13:02:27] Griff: hi how do i type in chat i cant figure it out
+[13:02:30] Griff<STEAM_0:0:51599729> spawned sent durgz_weed
+[13:02:32] Griff: duuuuuuuuuuudeeeeeeee
+[13:02:32] Griff<STEAM_0:0:51599729> spawned sent durgz_weed
+[13:02:33] Griff<STEAM_0:0:51599729> spawned sent durgz_weed
+[13:02:33] Griff: does any1 hav goldfish!?1 i want goldfish plz thx
+[13:02:34] Griff<STEAM_0:0:51599729> spawned sent durgz_weed
+[13:02:34] Griff<STEAM_0:0:51599729> spawned sent durgz_weed
+[13:02:34] Griff suicided!
+[13:02:34] Griff: My eyes aren't red. What are you talking about?
+[13:02:44] Griff<STEAM_0:0:51599729> spawned sent durgz_mushroom
+[13:02:44] Griff: what
+[13:02:47] Griff<STEAM_0:0:51599729> spawned sent durgz_pcp
+[13:02:47] Griff: MY ARMS ARE LIKE FUCKING CANNONS
+[13:02:48] Griff<STEAM_0:0:51599729> spawned sent durgz_meth
+[13:02:49] Griff: I <3 METH
+[13:02:50] Griff<STEAM_0:0:51599729> spawned sent durgz_weed
+[13:02:51] Griff: does any1 hav goldfish!?1 i want goldfish plz thx
+[13:02:51] Griff<STEAM_0:0:51599729> spawned sent durgz_lsd
+[13:02:51] Griff: OH MY GOD I JUST DEFLATED
+[13:03:00] Griff<STEAM_0:0:51599729> spawned sent durgz_cocaine
+[13:03:00] Griff: MYNOSEISDRIBBLINGISANYONEELSESNOSEDRIBBLINGTHATSREALLYWEIRDIHOPEIDONTHAVEACOLD
+[13:03:11] Bob Ross<STEAM_0:1:54818617> spawned sent st_drugpot
+[13:03:13] Bob Ross<STEAM_0:1:54818617> spawned sent st_druglab
+[13:03:18] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:19] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:19] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:20] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:20] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:20] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:20] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:20] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:21] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:21] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:21] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:21] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:21] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:22] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:22] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:22] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:22] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:22] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:22] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:22] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:22] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:23] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:23] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:23] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:23] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:23] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:23] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:24] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:24] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:24] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:28] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:28] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:28] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:28] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:28] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:29] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:29] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:29] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:29] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:29] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:29] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:29] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:30] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:30] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:30] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:30] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:30] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:30] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:30] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:03:30] Griff<STEAM_0:0:51599729> spawned sent durgz_water
+[13:06:34] Client "Jordan Phillipz" connected.
+
+
+
+[13:08:20] New map: rp_downtown_v4_exl
+[13:08:26] Client "Griff" connected.
+[13:08:43] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 17 seconds).
+[13:09:55] Client "Bob Ross" connected.
+[13:10:23] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 28 seconds).
+[13:11:08] Griff<STEAM_0:0:51599729> spawned sent bitcoinminertwo
+[13:11:23] Griff<STEAM_0:0:51599729> spawned sent bitcoinminertwo
+[13:11:34] Bob Ross<STEAM_0:1:54818617> spawned sent bitcoinminertwo
+[13:18:05] Dropped "Bob Ross" from server<STEAM_0:1:54818617>
+[13:18:05] Client "Bob Ross" connected.
+[13:18:27] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 22 seconds).
+[13:19:01] Dropped "Griff" from server<STEAM_0:0:51599729>
+[13:19:02] Client "Griff" connected.
+[13:19:18] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 16 seconds).
+[13:19:22] Dropped "Bob Ross" from server<STEAM_0:1:54818617>
+[13:19:22] Client "Bob Ross" connected.
+[13:19:44] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 22 seconds).
+[13:29:22] Griff: 31SDelKZpmcjKHiMdqVKjTARLXunJTvryVm
+[13:37:11] Client "Carter Ⓡ" connected.
+[13:38:29] Client "Carter Ⓡ" spawned in server <STEAM_0:1:106384805> (took 78 seconds).
+
+
+
+[13:38:52] New map: rp_downtown_v4_exl
+[13:38:55] Client "Griff" connected.
+[13:39:13] Client "Bob Ross" connected.
+[13:39:23] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 28 seconds).
+[13:39:25] Client "Carter Ⓡ" connected.
+[13:39:40] Griff<STEAM_0:0:51599729> spawned sent gd_shrooms
+[13:39:45] Griff<STEAM_0:0:51599729> spawned sent gd_redwine
+[13:39:49] Griff<STEAM_0:0:51599729> spawned sent gd_ket
+[13:39:49] Client "Carter Ⓡ" spawned in server <STEAM_0:1:106384805> (took 24 seconds).
+[13:39:49] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 36 seconds).
+[13:40:10] Bob Ross<STEAM_0:1:54818617> spawned sent gd_beer
+[13:40:15] Dropped "Griff" from server<STEAM_0:0:51599729>
+[13:40:15] Client "Griff" connected.
+[13:40:37] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 22 seconds).
+[13:40:38] Dropped "Carter Ⓡ" from server<STEAM_0:1:106384805>
+[13:40:48] Bob Ross<STEAM_0:1:54818617> spawned sent gd_buyer
+[13:41:02] Griff<STEAM_0:0:51599729> spawned sent gd_coke
+[13:41:09] Griff<STEAM_0:0:51599729> spawned sent gd_coke
+[13:41:25] Bob Ross<STEAM_0:1:54818617> spawned sent gd_dealer
+[13:43:01] Dropped "Griff" from server<STEAM_0:0:51599729>
+[13:43:02] Client "Griff" connected.
+[13:43:16] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 14 seconds).
+[13:48:51] Bob Ross<STEAM_0:1:54818617> spawned sent gmod_test_panel_adv
+[13:51:52] Bob Ross: t3printer
+[13:52:41] Griff changed the map to rp_downtown_v4_exl
+[13:52:41] Server is shutting down/changing levels.
+
+
+
+[13:52:45] New map: rp_downtown_v4_exl
+[13:53:10] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 28 seconds).
+[13:53:33] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 51 seconds).
+[13:54:03] Griff: /setmoney griff 2000000
+[13:55:05] Griff<STEAM_0:0:51599729> spawned sent gd_buyer
+[13:58:51] Griff changed the map to rp_downtown_v4_exl
+[13:58:51] Server is shutting down/changing levels.
+
+
+
+[13:58:55] New map: rp_downtown_v4_exl
+[13:59:16] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 24 seconds).
+[13:59:21] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 29 seconds).
+
+
+
+[14:00:10] New map: rp_downtown_v4_exl
+[14:00:29] Client "Griff" connected.
+[14:00:44] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[14:02:21] Griff changed the map to rp_downtown_v4_exl
+[14:02:21] Server is shutting down/changing levels.
+
+
+
+[14:02:25] New map: rp_downtown_v4_exl
+[14:02:46] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 24 seconds).
+[14:03:49] Griff<STEAM_0:0:51599729> spawned sent gd_buyer
+[14:03:52] Griff<STEAM_0:0:51599729> spawned sent gd_buyer
+[14:03:56] Griff<STEAM_0:0:51599729> spawned sent gd_dealer
+[14:04:04] Griff<STEAM_0:0:51599729> spawned sent gd_dealer
+[14:04:13] Griff<STEAM_0:0:51599729> spawned sent gd_dealer
+
+
+
+[14:05:31] New map: rp_downtown_v4_exl
+[14:06:27] Client "Bob Ross" connected.
+[14:06:45] Client "Griff" connected.
+[14:06:45] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 18 seconds).
+[14:07:00] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[14:16:23] Griff changed the map to rp_downtown_v4_exl
+[14:16:23] Server is shutting down/changing levels.
+
+
+
+[14:16:27] New map: rp_downtown_v4_exl
+[14:16:48] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 25 seconds).
+[14:16:53] Client "[NWA] Zombieman 428" connected.
+[14:16:55] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 32 seconds).
+[14:17:28] Griff: /drug
+[14:18:00] Client "[NWA] Zombieman 428" spawned in server <STEAM_0:1:82399471> (took 67 seconds).
+[14:18:37] Griff: !menu
+[14:18:45] Griff changed the map to rp_downtown_v4_exl
+[14:18:45] Server is shutting down/changing levels.
+
+
+
+[14:18:49] New map: rp_downtown_v4_exl
+[14:19:10] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 24 seconds).
+[14:19:12] Client "[NWA] Zombieman 428" spawned in server <STEAM_0:1:82399471> (took 26 seconds).
+[14:19:18] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 32 seconds).
+[14:20:01] Bob Ross: hey
+[14:20:33] Bob Ross: we're adding new stuff rn you might want to come back a little later
+[14:20:36] Dropped "[NWA] Zombieman 428" from server<STEAM_0:1:82399471>
+[14:20:41] Dropped "Griff" from server<STEAM_0:0:51599729>
+[14:20:42] Client "Griff" connected.
+[14:20:57] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[14:22:21] Dropped "Griff" from server<STEAM_0:0:51599729>
+[14:22:21] Client "Griff" connected.
+[14:22:27] Client "Griff" connected.
+[14:22:43] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 16 seconds).
+[14:25:32] Griff: !menu
+[14:25:39] Griff changed the map to rp_downtown_v4_exl
+[14:25:39] Server is shutting down/changing levels.
+
+
+
+[14:25:43] New map: rp_downtown_v4_exl
+[14:26:04] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 24 seconds).
+[14:26:10] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 30 seconds).
+[14:28:54] Griff changed the map to rp_downtown_v4_exl
+[14:28:54] Server is shutting down/changing levels.
+
+
+
+[14:28:58] New map: rp_downtown_v4_exl
+[14:29:20] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 25 seconds).
+[14:29:26] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 31 seconds).
+[14:32:11] Bob Ross: /forceunlock
+
+
+
+[14:32:31] New map: rp_downtown_v4_exl
+[14:32:31] Client "Griff" connected.
+[14:32:31] Client "Griff" connected.
+[14:32:41] Client "Bob Ross" connected.
+[14:32:46] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 15 seconds).
+[14:33:00] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 19 seconds).
+[14:33:38] Bob Ross<STEAM_0:1:54818617> spawned sent gd_dealer
+[14:34:30] Bob Ross<STEAM_0:1:54818617> spawned sent gd_dealer
+[14:34:39] Bob Ross<STEAM_0:1:54818617> spawned sent gd_dealer
+[14:34:52] Griff changed the map to rp_downtown_v4_exl
+[14:34:52] Server is shutting down/changing levels.
+
+
+
+[14:34:56] New map: rp_downtown_v4_exl
+[14:35:17] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 24 seconds).
+[14:35:22] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 29 seconds).
+[14:35:43] Bob Ross<STEAM_0:1:54818617> spawned sent gd_dealer
+
+
+
+[14:43:59] New map: rp_downtown_v4_exl
+[14:44:04] Client "Bob Ross" connected.
+[14:44:30] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 26 seconds).
+[14:44:50] Client "Griff" connected.
+[14:45:11] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 21 seconds).
+[14:45:45] Bob Ross<STEAM_0:1:54818617> spawned sent gd_dealer
+[14:46:12] Griff<STEAM_0:0:51599729> spawned sent gd_dealer
+[14:47:09] Bob Ross<STEAM_0:1:54818617> spawned sent gd_dealer
+[14:47:31] Griff changed the map to rp_downtown_v4_exl
+[14:47:31] Server is shutting down/changing levels.
+
+
+
+[14:47:35] New map: rp_downtown_v4_exl
+[14:47:57] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 25 seconds).
+[14:48:03] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 31 seconds).
+
+
+
+[14:50:19] New map: rp_downtown_v4_exl
+[14:50:21] Client "Griff" connected.
+[14:50:30] Client "Bob Ross" connected.
+[14:50:41] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 20 seconds).
+[14:50:54] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 24 seconds).
+[14:53:17] Dropped "Griff" from server<STEAM_0:0:51599729>
+[14:53:19] Client "Griff" connected.
+[14:53:35] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 16 seconds).
+[14:53:55] Griff: /forceunlock
+[14:54:33] Client "SPONGEBOOB" connected.
+[14:54:55] Client "TrueRealx(Moon Is fake)" connected.
+[14:55:32] Client "SPONGEBOOB" spawned in server <STEAM_0:1:207543799> (took 59 seconds).
+[14:56:03] Bob Ross suicided!
+[14:56:38] Griff: /drop
+[14:56:42] Griff: /drop
+[14:58:30] Dropped "SPONGEBOOB" from server<STEAM_0:1:207543799>
+[14:59:43] Griff: /drop
+[14:59:58] Bob Ross killed Griff using player
+[15:02:54] Bob Ross<STEAM_0:1:54818617> spawned effect models/weapons/c_stunstick.mdl
+[15:02:57] Bob Ross<STEAM_0:1:54818617> spawned model models/weapons/w_stunbaton.mdl
+[15:03:04] Griff<STEAM_0:0:51599729> spawned model models/weapons/w_stunbaton.mdl
+[15:03:56] Bob Ross: /setmoney bob 1000
+[15:04:30] Client "Kim Josh Un" connected.
+[15:04:49] Bob Ross<STEAM_0:1:54818617> spawned model models/weapons/w_c4.mdl
+[15:04:51] Bob Ross<STEAM_0:1:54818617> spawned model models/weapons/w_c4_planted.mdl
+[15:05:26] Dropped "Griff" from server<STEAM_0:0:51599729>
+[15:05:26] Client "Griff" connected.
+[15:05:30] Dropped "Bob Ross" from server<STEAM_0:1:54818617>
+[15:05:31] Client "Bob Ross" connected.
+[15:05:43] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 17 seconds).
+[15:05:54] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 23 seconds).
+[15:06:13] Client "Kim Josh Un" spawned in server <STEAM_0:1:46746400> (took 103 seconds).
+[15:06:22] Griff: /setmoney 10000
+[15:06:27] Griff: /setmoney griff 10000
+[15:06:30] Bob Ross: /setmoney 1000
+[15:06:38] Griff: discord
+[15:06:58] Bob Ross: /setmoney bob 1000
+[15:08:12] Dropped "Kim Josh Un" from server<STEAM_0:1:46746400>
+[15:08:16] Client "Kim Josh Un" connected.
+[15:08:19] Griff: /dropmoney 1000
+[15:08:30] Client "Kim Josh Un" spawned in server <STEAM_0:1:46746400> (took 14 seconds).
+[15:09:01] Bob Ross<STEAM_0:1:54818617> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:09:43] Bob Ross<STEAM_0:1:54818617> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:10:22] Bob Ross<STEAM_0:1:54818617> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:11:59] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:12:34] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:12:57] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:14:02] Griff: /setmoney josh 10000
+[15:14:38] Kim Josh Un: /dropmoney 5000
+[15:16:14] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[15:17:22] Client "$crim" connected.
+[15:17:36] Client "ThunderPanda" connected.
+[15:18:05] Client "$crim" spawned in server <STEAM_0:0:92881884> (took 43 seconds).
+[15:18:21] Client "ThunderPanda" spawned in server <STEAM_0:0:87381926> (took 45 seconds).
+[15:19:01] Bob Ross<STEAM_0:1:54818617> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:19:46] Bob Ross<STEAM_0:1:54818617> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:21:14] (SILENT) Bob Ross began spectating ThunderPanda
+[15:21:36] (SILENT) Bob Ross stopped spectating ThunderPanda
+[15:22:11] Griff: /forcelock
+[15:22:12] Griff: /forceunlock
+[15:22:14] Griff: /forceunlock
+[15:22:18] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate2x2.mdl
+[15:22:27] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x3.mdl
+[15:24:17] $crim<STEAM_0:0:92881884> spawned model models/props_c17/fence03a.mdl
+[15:24:30] $crim<STEAM_0:0:92881884> spawned model models/props_c17/fence02a.mdl
+[15:24:35] $crim<STEAM_0:0:92881884> spawned model models/props_c17/fence01a.mdl
+[15:25:05] $crim<STEAM_0:0:92881884> spawned model models/props_c17/fence01a.mdl
+[15:25:33] $crim: how does bit coin work
+[15:25:36] Bob Ross: .add Griff
+[15:25:52] Bob Ross: .add Kim Josh Un
+[15:29:16] $crim: are the error signs for guns a me problem or a server thing
+[15:29:26] $crim: it worked fine last time
+[15:29:53] Bob Ross: /setmoney bob 3000
+[15:33:43] $crim<STEAM_0:0:92881884> spawned model models/props_wasteland/interior_fence002d.mdl
+[15:34:19] $crim<STEAM_0:0:92881884> spawned model models/props_lab/blastdoor001c.mdl
+[15:34:20] Kim Josh Un: /dropmoney 33
+[15:35:30] Kim Josh Un: !menu
+[15:35:46] Bob Ross: i want to buy guns
+[15:36:21] $crim: are the guns error signs for the server
+[15:36:23] $crim: or for me
+[15:36:27] Griff: you
+[15:36:31] Griff: want me to link you to workshop?
+[15:36:38] Griff: it should of downloaded tho
+[15:36:48] $crim: what guns are you lookin for
+[15:37:03] Bob Ross: ak-47
+[15:37:05] Griff: http://steamcommunity.com/sharedfiles/filedetails/?id=182440362
+[15:37:08] Griff: there is our workshop
+[15:37:16] Griff: and ak for me too
+[15:37:18] $crim: btw for the shotguns it saids content of scars
+[15:37:20] Griff: /y http://steamcommunity.com/sharedfiles/filedetails/?id=182440362
+[15:38:02] Bob Ross: /moneydrop 5964
+[15:38:31] Griff: /dropmoney 2000
+[15:42:45] $crim: ree
+[15:43:06] $crim: do i need to reset my gmod nowa?
+[15:43:52] Griff: /drop
+[15:44:30] $crim<STEAM_0:0:92881884> spawned model models/props_junk/wood_crate001a.mdl
+[15:44:31] $crim<STEAM_0:0:92881884> spawned model models/props_junk/wood_crate001a.mdl
+[15:44:31] $crim<STEAM_0:0:92881884> spawned model models/props_junk/wood_crate001a.mdl
+[15:48:23] $crim<STEAM_0:0:92881884> spawned model models/props_vehicles/tire001a_tractor.mdl
+[15:48:38] $crim<STEAM_0:0:92881884> spawned model models/props_vehicles/tire001a_tractor.mdl
+[15:48:51] $crim<STEAM_0:0:92881884> spawned model models/props_vehicles/apc_tire001.mdl
+[15:49:13] $crim<STEAM_0:0:92881884> spawned model models/props_c17/furniturecupboard001a.mdl
+[15:49:25] $crim<STEAM_0:0:92881884> spawned model models/props_c17/furnituredrawer001a.mdl
+[15:49:50] $crim killed ThunderPanda using player
+[15:50:29] $crim killed ThunderPanda using player
+[15:50:57] $crim killed ThunderPanda using player
+[15:51:43] $crim<STEAM_0:0:92881884> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+[15:51:55] $crim<STEAM_0:0:92881884> spawned model models/props_c17/pulleywheels_small01.mdl
+[15:52:05] $crim<STEAM_0:0:92881884> spawned model models/props_c17/oildrum001.mdl
+[15:52:16] $crim<STEAM_0:0:92881884> spawned model models/props_c17/oildrum001.mdl
+[15:52:25] $crim<STEAM_0:0:92881884> spawned model models/props_c17/oildrum001.mdl
+[15:52:55] $crim<STEAM_0:0:92881884> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[15:53:07] $crim<STEAM_0:0:92881884> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[15:53:15] $crim<STEAM_0:0:92881884> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[15:53:25] $crim<STEAM_0:0:92881884> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[15:53:39] $crim<STEAM_0:0:92881884> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[15:53:48] $crim<STEAM_0:0:92881884> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[15:55:13] Griff: /setmonmey griff 3500
+[15:55:18] Griff: /setmoney griff 3500
+[15:55:18] $crim: /noclip
+[15:55:28] $crim: oo ooo
+[15:55:47] $crim<STEAM_0:0:92881884> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[15:56:09] $crim: ok
+[15:56:11] $crim: ok
+[15:56:13] $crim: no
+[15:56:15] $crim: ok
+[15:56:16] $crim: ok
+[15:57:17] $crim killed ThunderPanda using player
+[15:57:26] ThunderPanda killed $crim using player
+[15:58:06] $crim killed ThunderPanda using player
+[15:58:41] $crim<STEAM_0:0:92881884> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[15:58:58] Griff: /drop
+[15:59:05] Bob Ross killed ThunderPanda using player
+[15:59:11] Kim Josh Un killed $crim using player
+[15:59:25] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:59:37] Bob Ross set the hp for Themself to 100
+[15:59:38] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:59:49] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[15:59:56] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[16:00:26] Griff: /drop
+[16:01:06] Dropped "$crim" from server<STEAM_0:0:92881884>
+[16:01:11] Client "$crim" connected.
+[16:01:32] Client "$crim" spawned in server <STEAM_0:0:92881884> (took 21 seconds).
+[16:02:03] Dropped "$crim" from server<STEAM_0:0:92881884>
+[16:02:10] ThunderPanda<STEAM_0:0:87381926> spawned model models/props_vehicles/generatortrailer01.mdl
+[16:02:11] ThunderPanda<STEAM_0:0:87381926> spawned model models/props_vehicles/generatortrailer01.mdl
+[16:02:11] ThunderPanda<STEAM_0:0:87381926> spawned model models/props_vehicles/generatortrailer01.mdl
+[16:02:11] ThunderPanda<STEAM_0:0:87381926> spawned model models/props_vehicles/generatortrailer01.mdl
+[16:02:45] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[16:02:50] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[16:02:55] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[16:03:00] Kim Josh Un<STEAM_0:1:46746400> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[16:03:58] Client "$crim" connected.
+[16:04:28] Client "$crim" spawned in server <STEAM_0:0:92881884> (took 30 seconds).
+[16:08:04] Kim Josh Un: /drop
+[16:14:05] Griff killed ThunderPanda using player
+[16:15:31] Kim Josh Un: !menu
+[16:16:05] $crim: this lsd is goofed bruh
+[16:16:26] $crim suicided!
+[16:17:03] Griff: /setmoney griff 11000
+[16:17:29] Griff: /setmoney griff 5000
+[16:18:00] Griff killed $crim using player
+[16:18:15] Griff killed $crim using player
+[16:19:27] $crim: /advert kill yourself
+[16:21:10] Bob Ross: /drop
+[16:22:24] Dropped "ThunderPanda" from server<STEAM_0:0:87381926>
+[16:23:11] Client "ThunderPanda" connected.
+[16:23:32] $crim<STEAM_0:0:92881884> spawned model models/props_junk/plasticcrate01a.mdl
+[16:23:41] Client "ThunderPanda" spawned in server <STEAM_0:0:87381926> (took 30 seconds).
+[16:23:57] $crim<STEAM_0:0:92881884> spawned model models/props_junk/plasticcrate01a.mdl
+[16:23:59] Dropped "ThunderPanda" from server<STEAM_0:0:87381926>
+[16:24:18] $crim<STEAM_0:0:92881884> spawned model models/props_junk/plasticcrate01a.mdl
+[16:25:19] Client "ThunderPanda" connected.
+[16:25:38] $crim<STEAM_0:0:92881884> spawned model models/props_junk/plasticcrate01a.mdl
+[16:25:39] Client "ThunderPanda" spawned in server <STEAM_0:0:87381926> (took 20 seconds).
+[16:26:47] $crim killed Griff using player
+[16:26:59] $crim<STEAM_0:0:92881884> spawned model models/props_junk/plasticcrate01a.mdl
+[16:27:10] $crim<STEAM_0:0:92881884> spawned model models/props_junk/plasticcrate01a.mdl
+[16:27:51] Client "Hell Fire" connected.
+[16:28:02] $crim<STEAM_0:0:92881884> spawned model models/props_junk/plasticcrate01a.mdl
+[16:28:04] Griff killed Kim Josh Un using player
+[16:28:19] (TEAM) Kim Josh Un: @ admin
+[16:28:19] Kim Josh Un to admins: admin
+[16:28:23] Client "Hell Fire" spawned in server <STEAM_0:1:20129756> (took 32 seconds).
+[16:28:25] (TEAM) Kim Josh Un: @ i got rdmed
+[16:28:25] Kim Josh Un to admins: i got rdmed
+[16:28:31] $crim<STEAM_0:0:92881884> spawned model models/props_junk/plasticcrate01a.mdl
+[16:28:51] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[16:28:52] Dropped "ThunderPanda" from server<STEAM_0:0:87381926>
+[16:29:23] Bob Ross: .add Griff
+[16:29:30] $crim<STEAM_0:0:92881884> spawned model models/props_junk/plasticcrate01a.mdl
+[16:29:30] $crim<STEAM_0:0:92881884> spawned model models/props_junk/plasticcrate01a.mdl
+[16:29:31] $crim<STEAM_0:0:92881884> spawned model models/props_junk/plasticcrate01a.mdl
+[16:29:34] Hell Fire<STEAM_0:1:20129756> spawned model models/props_borealis/bluebarrel001.mdl
+[16:30:30] Hell Fire: !stop
+[16:30:57] Client "ThunderPanda" connected.
+[16:31:36] Client "ThunderPanda" spawned in server <STEAM_0:0:87381926> (took 39 seconds).
+[16:31:59] Hell Fire: /w 3CUVgr6iNrdaKBForregXNdyDNHvcFxCfzK
+[16:32:51] Dropped "Kim Josh Un" from server<STEAM_0:1:46746400>
+[16:37:10] Hell Fire<STEAM_0:1:20129756> spawned model models/props_interiors/refrigeratordoor02a.mdl
+[16:37:13] $crim<STEAM_0:0:92881884> spawned model models/props_c17/furniturecupboard001a.mdl
+[16:37:23] $crim<STEAM_0:0:92881884> spawned model models/props_c17/furniturecupboard001a.mdl
+[16:37:35] $crim<STEAM_0:0:92881884> spawned model models/props_c17/furniturecupboard001a.mdl
+[16:37:45] $crim<STEAM_0:0:92881884> spawned model models/props_c17/furniturestove001a.mdl
+[16:37:50] Hell Fire<STEAM_0:1:20129756> spawned model models/props_junk/harpoon002a.mdl
+[16:38:08] $crim killed Bob Ross using player
+[16:38:17] $crim suicided!
+[16:38:17] Bob Ross slayed $crim
+[16:38:57] $crim<STEAM_0:0:92881884> spawned model models/props_c17/furniturestove001a.mdl
+[16:39:11] $crim<STEAM_0:0:92881884> spawned model models/props_c17/furniturestove001a.mdl
+[16:39:48] Griff killed $crim using player
+[16:40:22] Bob Ross killed Griff using player
+[16:40:54] Dropped "ThunderPanda" from server<STEAM_0:0:87381926>
+[16:41:01] $crim killed Bob Ross using player
+[16:41:22] $crim suicided!
+[16:41:24] $crim suicided!
+[16:41:26] $crim: wot m8
+[16:41:32] $crim: i'm goofed
+[16:41:51] $crim suicided!
+[16:41:56] $crim: well that's not very nice
+[16:43:16] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate2x2.mdl
+[16:43:26] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x3.mdl
+[16:43:48] Client "ThunderPanda" connected.
+[16:44:18] Client "ThunderPanda" spawned in server <STEAM_0:0:87381926> (took 30 seconds).
+[16:44:41] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x3.mdl
+[16:45:07] Hell Fire<STEAM_0:1:20129756> spawned model models/props_interiors/furniture_desk01a.mdl
+[16:45:17] $crim: /advert pee pee
+[16:45:32] $crim killed ThunderPanda using player
+[16:45:49] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate3x3.mdl
+[16:46:03] Griff killed $crim using player
+[16:47:18] Bob Ross: #add Griff
+[16:47:26] Bob Ross: add Bob Ross
+[16:47:27] Griff killed $crim using player
+[16:47:36] Bob Ross: #add bob
+[16:47:52] Bob Ross: add Bob Ross
+[16:49:17] $crim<STEAM_0:0:92881884> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[16:49:26] Bob Ross: #add bob
+[16:49:27] $crim<STEAM_0:0:92881884> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[16:49:40] $crim<STEAM_0:0:92881884> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[16:49:43] ThunderPanda killed Hell Fire using player
+[16:49:49] $crim killed Griff using player
+[16:50:01] ThunderPanda killed Griff using player
+[16:50:03] $crim killed Hell Fire using player
+[16:50:09] $crim killed Hell Fire using player
+[16:50:16] $crim killed Hell Fire using player
+[16:50:23] Griff: /dro
+[16:50:25] Griff: /drop
+[16:50:25] ThunderPanda suicided!
+[16:50:36] $crim killed Hell Fire using player
+[16:50:52] Griff killed ThunderPanda using player
+[16:50:52] Hell Fire<STEAM_0:1:20129756> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[16:51:03] Bob Ross: .add Griff
+[16:51:11] Hell Fire<STEAM_0:1:20129756> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[16:51:14] Hell Fire<STEAM_0:1:20129756> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[16:52:36] Griff killed $crim using player
+[16:55:12] ThunderPanda killed Bob Ross using player
+[16:56:03] $crim killed Griff using player
+[16:57:06] $crim: how does one get the other weapons
+
+
+
+[16:58:33] New map: rp_downtown_v4_exl
+[16:58:36] Client "Griff" connected.
+[16:58:56] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 20 seconds).
+[16:58:59] Client "$crim" connected.
+[16:59:25] Client "$crim" spawned in server <STEAM_0:0:92881884> (took 26 seconds).
+[16:59:25] Dropped "$crim" from server<STEAM_0:0:92881884>
+[16:59:56] Client "Hell Fire" connected.
+[17:00:16] Griff: tt
+[17:00:16] Client "Hell Fire" spawned in server <STEAM_0:1:20129756> (took 20 seconds).
+[17:00:19] Griff: /dropmoney 2
+[17:00:37] Dropped "Griff" from server<STEAM_0:0:51599729>
+[17:00:37] Client "Griff" connected.
+[17:00:54] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 17 seconds).
+[17:01:23] Dropped "Griff" from server<STEAM_0:0:51599729>
+[17:01:24] Client "Griff" connected.
+[17:01:40] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 16 seconds).
+[17:03:36] Dropped "Hell Fire" from server<STEAM_0:1:20129756>
+[17:03:36] Client "Hell Fire" connected.
+[17:03:52] Client "Hell Fire" spawned in server <STEAM_0:1:20129756> (took 16 seconds).
+[17:09:32] Dropped "Griff" from server<STEAM_0:0:51599729>
+[17:10:01] Client "Bob Ross" connected.
+[17:10:10] Dropped "Hell Fire" from server<STEAM_0:1:20129756>
+[17:10:29] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 28 seconds).
+[17:15:51] Client "Griff" connected.
+[17:16:18] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 27 seconds).
+[17:18:48] Griff changed the map to rp_downtown_v4_exl
+[17:18:48] Server is shutting down/changing levels.
+
+
+
+[17:18:53] New map: rp_downtown_v4_exl
+[17:19:18] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 29 seconds).
+[17:19:23] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 34 seconds).
+[17:21:53] Client "Hell Fire" connected.
+[17:22:10] Client "Hell Fire" spawned in server <STEAM_0:1:20129756> (took 17 seconds).
+[17:22:32] Bob Ross<STEAM_0:1:54818617> spawned model models/props_borealis/door_wheel001a.mdl
+[17:23:15] Hell Fire suicided!
+[17:23:15] Bob Ross slayed Hell Fire
+[17:23:16] Hell Fire suicided!
+[17:23:16] Bob Ross slayed Hell Fire
+[17:27:17] Dropped "Bob Ross" from server<STEAM_0:1:54818617>
+[17:27:24] Client "Bob Ross" connected.
+[17:27:46] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 22 seconds).
+[17:28:41] Bob Ross: /dance
+[17:30:49] Hell Fire<STEAM_0:1:20129756> spawned model models/props_junk/garbage_glassbottle001a.mdl
+[17:30:56] Hell Fire<STEAM_0:1:20129756> spawned model models/props_junk/garbage_plasticbottle002a.mdl
+[17:31:00] Bob Ross suicided!
+[17:31:14] Dropped "Griff" from server<STEAM_0:0:51599729>
+[17:31:14] Client "Griff" connected.
+[17:31:31] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 17 seconds).
+[17:31:34] Dropped "Bob Ross" from server<STEAM_0:1:54818617>
+[17:31:35] Client "Bob Ross" connected.
+[17:31:58] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 23 seconds).
+[17:33:29] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/suitcase_passenger_physics.mdl
+
+
+
+[17:35:05] New map: rp_downtown_v4_exl
+[17:35:05] Client "Griff" connected.
+[17:35:22] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 17 seconds).
+[17:35:23] Client "Hell Fire" connected.
+[17:35:38] Client "Bob Ross" connected.
+[17:35:40] Client "Hell Fire" spawned in server <STEAM_0:1:20129756> (took 17 seconds).
+[17:36:01] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 23 seconds).
+[17:36:02] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/door01_left.mdl
+[17:37:38] Client "ford.67.jm" connected.
+[17:38:57] Griff: /setmoney griff 100000
+[17:39:12] Client "ford.67.jm" spawned in server <STEAM_0:1:422960685> (took 94 seconds).
+[17:40:28] Dropped "ford.67.jm" from server<STEAM_0:1:422960685>
+[17:42:33] Bob Ross suicided!
+[17:45:31] Bob Ross killed Hell Fire using gmod_dynamite
+[17:45:37] Bob Ross killed Griff using gmod_dynamite
+[17:45:38] Bob Ross suicided!
+[17:46:20] Bob Ross suicided!
+[17:46:28] Bob Ross suicided!
+[17:46:38] Bob Ross killed Hell Fire using gmod_dynamite
+
+
+
+[17:48:12] New map: rp_downtown_v4_exl
+[17:48:29] Client "Griff" connected.
+[17:48:32] Client "Bob Ross" connected.
+[17:48:45] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 16 seconds).
+[17:48:54] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 22 seconds).
+[17:49:11] Griff changed the map to rp_maddarkrp_edition
+[17:49:11] Server is shutting down/changing levels.
+
+
+
+[17:49:20] New map: rp_maddarkrp_edition
+[17:50:00] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 43 seconds).
+[17:50:17] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 60 seconds).
+[17:50:31] Griff: ITS SO DIFFERENT
+[17:50:39] Griff: LOK AT THE TOWER
+[17:50:44] Griff: // LOOK AT THE TOWER
+[17:51:11] Griff changed the map to rp_retribution_v2
+[17:51:11] Server is shutting down/changing levels.
+
+
+
+[17:51:24] New map: rp_retribution_v2
+[17:52:06] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 46 seconds).
+[17:52:58] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 98 seconds).
+[17:53:05] Griff was killed by trigger_hurt
+[17:54:42] Griff: !menu
+[17:54:50] Griff changed the map to rp_bangclaw_russia
+[17:54:50] Server is shutting down/changing levels.
+
+
+
+[17:54:57] New map: rp_bangclaw_russia
+[17:55:26] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 33 seconds).
+[17:55:43] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 50 seconds).
+[17:56:46] Griff changed the map to rp_california_r
+[17:56:46] Server is shutting down/changing levels.
+
+
+
+[17:56:56] New map: rp_california_r
+[17:57:37] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 45 seconds).
+[17:58:08] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 76 seconds).
+[17:59:49] Griff: !menu
+[18:00:30] Griff changed the map to rp_retribution_v2
+[18:00:30] Server is shutting down/changing levels.
+
+
+
+[18:00:39] New map: rp_retribution_v2
+[18:01:07] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 32 seconds).
+[18:01:18] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 43 seconds).
+[18:01:31] Griff changed the map to rp_retricity
+[18:01:31] Server is shutting down/changing levels.
+
+
+
+[18:01:41] New map: rp_retricity
+[18:02:27] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 51 seconds).
+[18:02:57] Griff changed the map to rp_townsend_v2
+[18:02:57] Server is shutting down/changing levels.
+
+
+
+[18:03:05] New map: rp_townsend_v2
+[18:03:35] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 34 seconds).
+[18:03:49] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 48 seconds).
+[18:04:59] Client "Hell Fire" connected.
+[18:05:34] Client "Hell Fire" spawned in server <STEAM_0:1:20129756> (took 35 seconds).
+[18:06:28] Griff changed the map to rp_downtown_v4c
+[18:06:28] Server is shutting down/changing levels.
+
+
+
+[18:06:35] New map: rp_downtown_v4c
+[18:07:00] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 28 seconds).
+[18:07:05] Client "Hell Fire" spawned in server <STEAM_0:1:20129756> (took 33 seconds).
+[18:07:15] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 43 seconds).
+[18:07:40] Griff changed the map to rp_downtown_v4c_v2
+[18:07:40] Server is shutting down/changing levels.
+
+
+
+[18:07:46] New map: rp_downtown_v4c_v2
+[18:08:11] Client "Griff" spawned in server <STEAM_0:0:51599729> (took 28 seconds).
+[18:08:14] Client "Hell Fire" spawned in server <STEAM_0:1:20129756> (took 31 seconds).
+[18:08:21] Client "Bob Ross" spawned in server <STEAM_0:1:54818617> (took 38 seconds).
+[18:09:44] Bob Ross killed Griff using player
+[18:09:48] Hell Fire killed Bob Ross using player
+[18:10:46] Griff killed Hell Fire using player
+[18:12:18] Hell Fire killed Griff using crossbow_bolt
+[18:12:26] Hell Fire killed Bob Ross using crossbow_bolt
+[18:13:17] Bob Ross: /forceunlock
+[18:13:19] Bob Ross: /forcelock
+[18:13:20] Bob Ross: /forcelock
+[18:14:03] Hell Fire killed Bob Ross using rpg_missile
+[18:14:17] Client "_yunomi" connected.
+[18:15:00] Client "_yunomi" spawned in server <STEAM_0:1:28404604> (took 43 seconds).
+[18:15:15] _yunomi<STEAM_0:1:28404604> spawned model models/props/de_train/lockers_long.mdl
+[18:15:34] Bob Ross: /forceunlock
+[18:15:52] Bob Ross: /forceunlock
+[18:16:20] Client "connor mccrabber" connected.
+[18:16:25] Bob Ross<STEAM_0:1:54818617> spawned sent gd_dealer
+[18:16:46] Hell Fire<STEAM_0:1:20129756> spawned model models/props_borealis/bluebarrel001.mdl
+[18:17:07] Client "connor mccrabber" spawned in server <STEAM_0:0:42760088> (took 47 seconds).
+[18:17:20] Hell Fire<STEAM_0:1:20129756> spawned model models/props_borealis/bluebarrel001.mdl
+[18:17:20] _yunomi<STEAM_0:1:28404604> spawned model models/props_phx/construct/metal_angle360.mdl
+[18:17:22] _yunomi<STEAM_0:1:28404604> spawned model models/props/de_train/lockers_long.mdl
+[18:17:22] _yunomi<STEAM_0:1:28404604> spawned model models/props/de_train/lockers_long.mdl
+[18:17:39] connor mccrabber: // CAN I TALK 2 DA DEVLEOPER
+[18:17:49] Hell Fire: // Are you a hacker?
+[18:17:51] _yunomi: // yes
+[18:17:55] connor mccrabber: // yes
+[18:18:00] Hell Fire: // Im a super hacker and super geniuse as well
+[18:18:02] _yunomi: // what are YOU going to do about it
+[18:18:11] Hell Fire: // My mom tells me im very smart
+[18:18:32] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_canal/canal_bars004.mdl
+[18:18:36] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_canal/canal_bars004.mdl
+[18:18:36] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_canal/canal_bars004.mdl
+[18:18:37] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[18:19:31] _yunomi<STEAM_0:1:28404604> spawned model models/props/cs_militia/refrigerator01.mdl
+[18:19:42] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_phx/wheels/moped_tire.mdl
+[18:19:43] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_phx/wheels/moped_tire.mdl
+[18:19:44] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_phx/wheels/moped_tire.mdl
+[18:19:46] connor mccrabber<STEAM_0:0:42760088> spawned model models/hunter/misc/cone2x05.mdl
+[18:19:47] connor mccrabber<STEAM_0:0:42760088> spawned model models/hunter/misc/cone2x05.mdl
+[18:19:47] connor mccrabber<STEAM_0:0:42760088> spawned model models/hunter/misc/cone2x05.mdl
+[18:19:52] connor mccrabber<STEAM_0:0:42760088> spawned model models/props/cs_militia/skylight_glass_p13.mdl
+[18:20:09] Bob Ross: /setjailpos
+[18:20:19] Bob Ross: /addjailpos
+[18:20:28] Bob Ross: /addjailpos
+[18:21:05] Griff: /forcelock
+[18:21:06] Bob Ross: /forceunlock
+[18:21:07] Griff: /forceunlock
+[18:21:19] Bob Ross: /forceunlock
+[18:21:42] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[18:23:24] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[18:23:26] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x8.mdl
+[18:23:27] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate2x2.mdl
+[18:24:24] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate2x2.mdl
+[18:25:28] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x2.mdl
+[18:25:47] Hell Fire killed _yunomi using player
+[18:26:03] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[18:26:28] _yunomi: // im a hacker
+[18:26:34] Griff: // heckerman
+[18:26:45] _yunomi: hi
+[18:27:08] _yunomi: /medic
+[18:27:11] Hell Fire<STEAM_0:1:20129756> spawned model models/props_interiors/furniture_vanity01a.mdl
+[18:28:06] _yunomi: uh
+[18:28:08] _yunomi: what do you mean
+[18:28:11] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate05x1.mdl
+[18:28:11] _yunomi: im not his friend
+[18:28:15] _yunomi: i dont know him
+[18:28:38] Hell Fire<STEAM_0:1:20129756> spawned ragdoll models/props_junk/cardboard_box004a_gib01.mdl
+[18:29:12] _yunomi<STEAM_0:1:28404604> spawned model models/props_phx/construct/metal_angle360.mdl
+[18:29:14] Griff<STEAM_0:0:51599729> spawned sent gd_ket
+[18:29:32] Griff<STEAM_0:0:51599729> spawned sent gd_ket
+[18:29:34] Griff<STEAM_0:0:51599729> spawned sent gd_lsd
+[18:29:35] Griff<STEAM_0:0:51599729> spawned sent gd_lsd
+[18:29:48] _yunomi<STEAM_0:1:28404604> spawned model models/props_phx/construct/metal_angle360.mdl
+[18:29:53] Hell Fire<STEAM_0:1:20129756> spawned model models/props_junk/trashdumpster01a.mdl
+[18:29:59] Griff<STEAM_0:0:51599729> spawned sent gd_redwine
+[18:30:00] Griff<STEAM_0:0:51599729> spawned sent gd_shrooms
+[18:30:00] Griff suicided!
+[18:30:05] Griff<STEAM_0:0:51599729> spawned sent gd_shrooms
+[18:30:08] Griff<STEAM_0:0:51599729> spawned sent gd_vodka
+[18:30:10] Griff<STEAM_0:0:51599729> spawned sent gd_mdma
+[18:30:13] Griff<STEAM_0:0:51599729> spawned sent gd_buyer
+[18:30:15] Griff<STEAM_0:0:51599729> spawned sent gd_coke
+[18:30:18] Griff<STEAM_0:0:51599729> spawned sent gd_meth
+[18:30:18] Griff suicided!
+[18:30:32] Griff killed Bob Ross using player
+[18:31:11] _yunomi: period blood
+[18:31:13] _yunomi<STEAM_0:1:28404604> spawned model models/props/de_train/lockers_long.mdl
+[18:32:29] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[18:32:29] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[18:32:31] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[18:32:43] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x2.mdl
+[18:32:47] _yunomi suicided!
+[18:33:02] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x2.mdl
+[18:34:16] connor mccrabber<STEAM_0:0:42760088> spawned model models/props/cs_militia/skylight_glass_p13.mdl
+[18:34:19] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[18:34:20] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[18:34:20] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_phx/wheels/moped_tire.mdl
+[18:34:21] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_phx/wheels/moped_tire.mdl
+[18:34:44] connor mccrabber: /chief
+[18:34:52] connor mccrabber: /chief
+[18:35:53] _yunomi suicided!
+[18:35:54] connor mccrabber: /setjailpos
+[18:36:18] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[18:36:19] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[18:36:20] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[18:36:22] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[18:36:23] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[18:36:23] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[18:36:26] _yunomi<STEAM_0:1:28404604> spawned model models/props/cs_militia/refrigerator01.mdl
+[18:36:50] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x2.mdl
+[18:36:56] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[18:37:13] _yunomi<STEAM_0:1:28404604> spawned model models/props_phx/construct/metal_angle360.mdl
+[18:37:40] connor mccrabber: /setjailpos
+[18:38:00] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x2.mdl
+[18:38:01] connor mccrabber suicided!
+[18:38:08] Griff: /dro
+[18:38:10] Griff: /drop
+[18:38:14] Griff: /drop
+[18:38:20] Hell Fire: shshshs
+[18:38:23] _yunomi<STEAM_0:1:28404604> spawned model models/props/cs_militia/refrigerator01.mdl
+[18:38:31] connor mccrabber: /sleep
+[18:38:46] Griff: /unarrest *
+[18:38:58] Griff: /setjailpos
+[18:39:01] (TEAM) Griff: /addjailpos
+[18:39:05] Griff: /addjailpos
+[18:39:09] Griff: /addjailpos
+[18:39:15] _yunomi: /setjailpos
+[18:39:25] connor mccrabber: /SLEEP
+[18:39:31] Griff: /unarrest *
+[18:39:32] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_c17/lockers001a.mdl
+[18:39:34] _yunomi<STEAM_0:1:28404604> spawned model models/props/de_train/lockers_long.mdl
+[18:39:38] _yunomi<STEAM_0:1:28404604> spawned model models/props/de_train/lockers_long.mdl
+[18:39:39] _yunomi<STEAM_0:1:28404604> spawned model models/props/de_train/lockers_long.mdl
+[18:39:39] connor mccrabber<STEAM_0:0:42760088> spawned model models/props/de_tides/gate_large.mdl
+[18:39:40] _yunomi<STEAM_0:1:28404604> spawned model models/props/de_train/lockers_long.mdl
+[18:39:45] connor mccrabber: /SLEEP
+[18:39:45] connor mccrabber<STEAM_0:0:42760088> spawned model models/hunter/misc/cone2x05.mdl
+[18:40:00] Griff: /unarrest *
+[18:40:14] Hell Fire killed connor mccrabber using player
+[18:40:45] _yunomi to admins: admin 2 me
+[18:40:45] _yunomi: @ admin 2 me
+[18:41:31] Griff: /drop
+[18:41:49] _yunomi<STEAM_0:1:28404604> spawned model models/props_phx/construct/metal_angle360.mdl
+[18:42:25] connor mccrabber<STEAM_0:0:42760088> spawned model models/hunter/misc/cone2x05.mdl
+[18:42:50] _yunomi<STEAM_0:1:28404604> spawned model models/props_phx/construct/metal_angle360.mdl
+[18:42:52] Client "ThunderPanda" connected.
+[18:42:54] _yunomi<STEAM_0:1:28404604> spawned model models/props_c17/furnitureradiator001a.mdl
+[18:42:56] _yunomi<STEAM_0:1:28404604> spawned model models/props_c17/furniturefridge001a.mdl
+[18:42:56] _yunomi<STEAM_0:1:28404604> spawned model models/props_phx/construct/metal_angle360.mdl
+[18:43:01] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate2x3.mdl
+[18:43:09] Griff: /forceunlock
+[18:43:11] Griff: /forceunlock
+[18:43:11] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate2x2.mdl
+[18:43:12] Hell Fire: !stop
+[18:43:16] Griff: /forcelock
+[18:43:20] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate2x3.mdl
+[18:43:38] Griff: /setmoney griff 1000000
+[18:43:43] Griff: /setmoney griff 100000
+[18:43:52] Client "ThunderPanda" spawned in server <STEAM_0:0:87381926> (took 60 seconds).
+[18:43:57] Hell Fire: did you pee your self a little?
+[18:43:57] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_phx/wheels/moped_tire.mdl
+[18:43:58] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_phx/wheels/moped_tire.mdl
+[18:44:02] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_phx/wheels/moped_tire.mdl
+[18:44:03] _yunomi: yes
+[18:44:03] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_phx/wheels/moped_tire.mdl
+[18:44:05] Hell Fire: cheese
+[18:44:08] _yunomi: chees
+[18:44:10] _yunomi: fuck
+[18:44:11] _yunomi: cheese
+[18:44:13] connor mccrabber<STEAM_0:0:42760088> spawned model models/hunter/misc/cone2x05.mdl
+[18:44:16] Hell Fire: So do i!
+[18:44:18] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_canal/canal_bars004.mdl
+[18:44:26] Hell Fire: lol
+[18:44:27] _yunomi: not as much as me
+[18:44:28] connor mccrabber<STEAM_0:0:42760088> spawned model models/props/cs_militia/skylight_glass_p13.mdl
+[18:44:55] Hell Fire: do you enjoy penis?
+[18:44:59] _yunomi: yes
+[18:45:00] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/blocks/cube025x1x025.mdl
+[18:45:01] Hell Fire: yes
+[18:45:02] _yunomi: do u
+[18:45:03] Hell Fire: Yes
+[18:45:06] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/blocks/cube025x150x025.mdl
+[18:45:07] _yunomi: o
+[18:45:14] Hell Fire: Do you want to see if connor likes penis?
+[18:45:19] _yunomi: he doesnt
+[18:45:23] Hell Fire: He might like mine
+[18:45:26] Hell Fire: its something special
+[18:45:39] _yunomi suicided!
+[18:46:11] _yunomi<STEAM_0:1:28404604> spawned model models/props/de_train/lockers_long.mdl
+[18:46:16] _yunomi<STEAM_0:1:28404604> spawned model models/props/cs_militia/refrigerator01.mdl
+[18:46:20] _yunomi<STEAM_0:1:28404604> spawned model models/props/cs_militia/refrigerator01.mdl
+[18:46:34] _yunomi<STEAM_0:1:28404604> spawned model models/props/cs_militia/refrigerator01.mdl
+[18:46:37] connor mccrabber: /sleep
+[18:46:40] _yunomi<STEAM_0:1:28404604> spawned model models/props/cs_militia/refrigerator01.mdl
+[18:46:41] _yunomi<STEAM_0:1:28404604> spawned model models/props/cs_militia/refrigerator01.mdl
+[18:46:43] _yunomi suicided!
+[18:46:55] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/blocks/cube025x2x025.mdl
+[18:47:05] connor mccrabber<STEAM_0:0:42760088> spawned model models/props/cs_militia/skylight_glass_p13.mdl
+[18:47:50] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/blocks/cube025x2x025.mdl
+[18:47:55] connor mccrabber<STEAM_0:0:42760088> spawned model models/props/cs_militia/skylight_glass_p13.mdl
+[18:48:39] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/blocks/cube025x150x025.mdl
+[18:49:12] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/blocks/cube025x2x025.mdl
+[18:49:18] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/blocks/cube025x150x025.mdl
+[18:49:34] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/blocks/cube025x2x025.mdl
+[18:49:35] connor mccrabber<STEAM_0:0:42760088> spawned model models/props/cs_militia/skylight_glass_p13.mdl
+[18:49:51] connor mccrabber<STEAM_0:0:42760088> spawned model models/props/cs_militia/skylight_glass_p13.mdl
+[18:50:08] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[18:50:54] connor mccrabber<STEAM_0:0:42760088> spawned model models/hunter/misc/cone2x05.mdl
+[18:51:20] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x2.mdl
+[18:52:32] Bob Ross: /moneydrop 1
+[18:52:44] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/lift2x2.mdl
+[18:52:59] _yunomi<STEAM_0:1:28404604> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:53:07] _yunomi: /setjailpos
+[18:53:25] Hell Fire<STEAM_0:1:20129756> spawned model models/props_interiors/furniture_couch01a.mdl
+[18:53:34] _yunomi<STEAM_0:1:28404604> spawned model models/props_c17/fence01b.mdl
+[18:53:36] _yunomi<STEAM_0:1:28404604> spawned model models/props_c17/fence01b.mdl
+[18:53:37] Hell Fire<STEAM_0:1:20129756> spawned model models/props_interiors/furniture_couch02a.mdl
+[18:53:40] _yunomi<STEAM_0:1:28404604> spawned model models/props_c17/fence01b.mdl
+[18:53:45] _yunomi<STEAM_0:1:28404604> spawned model models/props_c17/fence01b.mdl
+[18:53:49] _yunomi<STEAM_0:1:28404604> spawned model models/props/de_train/lockers_long.mdl
+[18:53:50] _yunomi<STEAM_0:1:28404604> spawned model models/props/de_train/lockers_long.mdl
+[18:53:51] _yunomi<STEAM_0:1:28404604> spawned model models/props/de_train/lockers_long.mdl
+[18:53:51] _yunomi<STEAM_0:1:28404604> spawned model models/props/de_train/lockers_long.mdl
+[18:53:53] _yunomi<STEAM_0:1:28404604> spawned model models/props/de_train/lockers_long.mdl
+[18:53:55] _yunomi: /setjailpos
+[18:53:59] _yunomi suicided!
+[18:54:23] _yunomi<STEAM_0:1:28404604> spawned model models/props_phx/wheels/moped_tire.mdl
+[18:54:45] _yunomi: are
+[18:54:48] _yunomi: you 
+[18:54:49] _yunomi: gay?
+[18:54:52] Hell Fire: no
+[18:54:55] Hell Fire: cheese
+[18:54:55] _yunomi: wow u lied
+[18:55:02] Hell Fire: I can be
+[18:55:04] Hell Fire: somethiemes
+[18:55:09] _yunomi killed Hell Fire using player
+[18:56:01] Hell Fire<STEAM_0:1:20129756> spawned model models/nova/airboat_seat.mdl
+[18:56:50] _yunomi<STEAM_0:1:28404604> spawned model models/props_phx/construct/metal_angle360.mdl
+[18:56:52] _yunomi<STEAM_0:1:28404604> spawned model models/props_phx/construct/metal_angle360.mdl
+[18:56:54] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_phx/wheels/moped_tire.mdl
+[18:57:01] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x2.mdl
+[18:57:06] _yunomi<STEAM_0:1:28404604> spawned model models/props_phx/construct/metal_angle360.mdl
+[18:57:10] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_phx/wheels/moped_tire.mdl
+[18:57:22] connor mccrabber: +walk;+use
+[18:57:23] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[18:57:48] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x3.mdl
+[18:58:03] connor mccrabber<STEAM_0:0:42760088> spawned model models/xqm/coastertrack/slope_225_3.mdl
+[18:58:04] _yunomi: /setjailpos
+[18:58:08] _yunomi: /setjailpos
+[18:58:08] _yunomi suicided!
+[18:58:27] connor mccrabber<STEAM_0:0:42760088> spawned model models/props/cs_militia/skylight_glass_p13.mdl
+[18:58:28] Griff: /unarrest *
+[18:58:34] connor mccrabber<STEAM_0:0:42760088> spawned model models/props/cs_militia/skylight_glass_p13.mdl
+[18:58:45] Hell Fire<STEAM_0:1:20129756> spawned model models/nova/airboat_seat.mdl
+[18:58:45] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[18:58:48] connor mccrabber<STEAM_0:0:42760088> spawned model models/props/cs_militia/skylight_glass_p13.mdl
+[18:58:50] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_phx/wheels/moped_tire.mdl
+[18:58:50] connor mccrabber<STEAM_0:0:42760088> spawned model models/props/cs_militia/skylight_glass_p13.mdl
+[18:58:51] connor mccrabber<STEAM_0:0:42760088> spawned model models/props/cs_militia/skylight_glass_p13.mdl
+[18:58:53] connor mccrabber<STEAM_0:0:42760088> spawned model models/props/cs_militia/skylight_glass_p13.mdl
+[18:58:55] _yunomi: /wanted ross printers
+[18:59:34] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[18:59:35] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[18:59:45] Client "Zeus" connected.
+[18:59:48] _yunomi: /wannat
+[18:59:49] Griff: t
+[18:59:50] _yunomi: /warrant
+[18:59:54] _yunomi: /warrant rob printers
+[18:59:55] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[18:59:59] Client "bib" connected.
+[19:00:00] _yunomi: /warrant ross printers
+[19:00:07] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[19:00:08] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[19:00:10] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[19:00:22] Client "Zeus" spawned in server <STEAM_0:1:109375778> (took 37 seconds).
+[19:00:44] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[19:00:50] _yunomi: /wanted ross printers
+[19:00:56] connor mccrabber<STEAM_0:0:42760088> spawned model models/props/cs_militia/skylight_glass_p13.mdl
+[19:00:57] _yunomi: /warrant bob ross printers
+[19:00:58] _yunomi<STEAM_0:1:28404604> spawned model models/props_canal/canal_bars002.mdl
+[19:01:06] connor mccrabber<STEAM_0:0:42760088> spawned model models/hunter/misc/cone2x05.mdl
+[19:01:07] connor mccrabber<STEAM_0:0:42760088> spawned model models/hunter/misc/cone2x05.mdl
+[19:01:15] Client "bib" spawned in server <STEAM_0:1:72638680> (took 76 seconds).
+[19:01:31] Zeus: wUT
+[19:01:34] Zeus: // wut
+[19:01:39] Zeus: // Why was i arrested
+[19:01:42] _yunomi<STEAM_0:1:28404604> spawned model models/props/cs_militia/refrigerator01.mdl
+[19:01:44] Griff: /unarrest *
+[19:01:50] _yunomi<STEAM_0:1:28404604> spawned model models/props/cs_militia/refrigerator01.mdl
+[19:01:52] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_interiors/radiator01a.mdl
+[19:02:03] _yunomi killed Hell Fire using player
+[19:02:15] _yunomi: // wow
+[19:02:20] Zeus<STEAM_0:1:109375778> spawned model models/props_combine/breendesk.mdl
+[19:02:33] Bob Ross: // stop being a fucking idiot
+[19:02:42] connor mccrabber: // ya bob fuck u stop being retarded
+[19:03:08] _yunomi: /gun dealer
+[19:03:10] _yunomi: /
+[19:03:10] _yunomi: /g
+[19:03:11] _yunomi: /gd
+[19:03:26] _yunomi: /citizen
+[19:03:42] Hell Fire<STEAM_0:1:20129756> spawned model models/nova/airboat_seat.mdl
+[19:03:47] _yunomi<STEAM_0:1:28404604> spawned model models/props/de_train/lockers_long.mdl
+[19:03:48] _yunomi<STEAM_0:1:28404604> spawned model models/props/de_train/lockers_long.mdl
+[19:04:40] _yunomi<STEAM_0:1:28404604> spawned model models/props/de_train/lockers_long.mdl
+[19:04:48] connor mccrabber<STEAM_0:0:42760088> spawned model models/hunter/misc/cone2x05.mdl
+[19:05:13] _yunomi<STEAM_0:1:28404604> spawned model models/weapons/w_crowbar.mdl
+[19:05:17] Zeus<STEAM_0:1:109375778> spawned model models/props_combine/breendesk.mdl
+[19:05:22] Zeus<STEAM_0:1:109375778> spawned model models/props_combine/breendesk.mdl
+[19:05:24] Zeus<STEAM_0:1:109375778> spawned model models/props_combine/breendesk.mdl
+[19:05:25] Zeus<STEAM_0:1:109375778> spawned model models/props_combine/breendesk.mdl
+[19:05:37] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_rooftop/parliament_dome_destroyed_exterior.mdl
+[19:05:40] Zeus<STEAM_0:1:109375778> spawned model models/gibs/hgibs.mdl
+[19:05:41] Zeus<STEAM_0:1:109375778> spawned model models/gibs/hgibs.mdl
+[19:05:43] Zeus<STEAM_0:1:109375778> spawned model models/gibs/hgibs.mdl
+[19:05:44] Zeus<STEAM_0:1:109375778> spawned model models/gibs/hgibs.mdl
+[19:05:46] Zeus<STEAM_0:1:109375778> spawned model models/gibs/hgibs.mdl
+[19:05:49] Zeus<STEAM_0:1:109375778> spawned model models/gibs/hgibs.mdl
+[19:05:50] Zeus<STEAM_0:1:109375778> spawned model models/gibs/hgibs.mdl
+[19:05:52] bib: cloak
+[19:05:59] _yunomi suicided!
+[19:06:09] Zeus<STEAM_0:1:109375778> spawned model models/gibs/hgibs.mdl
+[19:06:17] bib: /name Cheezit
+[19:06:18] bib<STEAM_0:1:72638680> changed their name to Cheezit
+[19:06:20] Cheezit: /job Cheezit
+[19:06:36] _yunomi killed Bob Ross using player
+[19:07:19] _yunomi: yes
+[19:07:39] Zeus<STEAM_0:1:109375778> spawned model models/props_combine/breendesk.mdl
+[19:07:59] _yunomi<STEAM_0:1:28404604> spawned model models/props/cs_militia/refrigerator01.mdl
+[19:08:05] _yunomi<STEAM_0:1:28404604> spawned model models/props/cs_militia/refrigerator01.mdl
+[19:08:43] _yunomi<STEAM_0:1:28404604> spawned model models/props/cs_militia/refrigerator01.mdl
+[19:08:43] _yunomi<STEAM_0:1:28404604> spawned model models/hunter/misc/shell2x2a.mdl
+[19:08:47] Cheezit: cloak
+[19:08:50] Zeus: // bob
+[19:09:00] Zeus: // My expression took some time just like your art
+[19:09:05] (TEAM) Zeus: // I hope you like it
+[19:09:08] Griff kicked Cheezit (Invis)
+[19:09:08] Dropped "Cheezit" from server<STEAM_0:1:72638680>
+[19:09:38] Client "bib" connected.
+[19:09:51] Dropped "_yunomi" from server<STEAM_0:1:28404604>
+[19:10:16] Client "bib" spawned in server <STEAM_0:1:72638680> (took 38 seconds).
+[19:11:45] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_c17/lockers001a.mdl
+[19:11:48] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_phx/wheels/moped_tire.mdl
+[19:11:50] connor mccrabber<STEAM_0:0:42760088> spawned model models/props_phx/wheels/moped_tire.mdl
+[19:14:24] Zeus killed Cheezit using gmod_wire_turret
+[19:14:55] Griff: !ban zues
+[19:15:01] Griff: !ban zues Troll
+[19:15:06] Griff: !menu
+[19:15:15] Griff banned Zeus permanently (Troll)
+[19:15:15] Dropped "Zeus" from server<STEAM_0:1:109375778>
+[19:15:56] Cheezit was killed by gmod_wire_turret
+[19:16:03] Dropped "connor mccrabber" from server<STEAM_0:0:42760088>
+[19:16:53] Hell Fire: !stop
+[19:18:35] Hell Fire: /advert hi welcome to chillies
+[19:19:41] Bob Ross<STEAM_0:1:54818617> spawned model models/hunter/plates/plate1x1.mdl
+[19:19:49] Cheezit suicided!
+[19:19:52] Dropped "Cheezit" from server<STEAM_0:1:72638680>
+[19:20:02] Hell Fire<STEAM_0:1:20129756> spawned model models/nova/airboat_seat.mdl
+[19:21:11] ThunderPanda: how much money yall have
+[19:22:32] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/playground_swingset_seat01a.mdl
+[19:24:22] Hell Fire: /advert IM GAY
+[19:25:16] Hell Fire: /advert I enjoy Anal sex
+[19:27:22] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:27:29] Hell Fire<STEAM_0:1:20129756> spawned model models/props_c17/furniturestove001a.mdl
+[19:28:16] Griff: /me spits
+[19:28:25] Griff: /cheque
+[19:28:29] Griff: /cheque bob 1000
+[19:29:32] Griff: // [DarkRP] Hitman Hell Fire accepted a hit on Griff, ordered by Bob Ross for $200
+[19:31:43] Hell Fire killed Griff using player
+[19:32:28] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:32:33] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[19:32:36] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[19:32:43] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x2.mdl
+[19:32:55] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x3.mdl
+[19:33:05] Griff<STEAM_0:0:51599729> spawned model models/props_c17/door01_left.mdl
+[19:33:17] Hell Fire killed Bob Ross using crossbow_bolt
+[19:33:38] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:34:03] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:34:19] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:34:30] Griff<STEAM_0:0:51599729> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:36:05] Bob Ross: /me Knocks
+[19:36:12] Griff<STEAM_0:0:51599729> spawned model models/props_combine/breendesk.mdl
+[19:36:28] Bob Ross: /yell hello
+[19:36:32] Griff<STEAM_0:0:51599729> spawned model models/props_interiors/furniture_couch01a.mdl
+[19:36:37] Bob Ross: /y hello
+[19:36:38] Griff<STEAM_0:0:51599729> spawned model models/props_combine/breenchair.mdl
+[19:38:04] Dropped "ThunderPanda" from server<STEAM_0:0:87381926>
+[19:38:05] Bob Ross: /cheque Griff 60000 Bitcoin miners
+[19:38:54] Hell Fire killed Bob Ross using crossbow_bolt
+[19:38:59] Hell Fire killed Griff using crossbow_bolt
+[19:39:05] Client "$crim" connected.
+[19:39:15] Client "ThunderPanda" connected.
+[19:39:24] Griff killed Hell Fire using player
+[19:39:45] Client "ThunderPanda" spawned in server <STEAM_0:0:87381926> (took 30 seconds).
+[19:39:56] Client "$crim" spawned in server <STEAM_0:0:92881884> (took 51 seconds).
+[19:40:16] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x6.mdl
+[19:40:18] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x4.mdl
+[19:40:31] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x1.mdl
+[19:40:39] Griff<STEAM_0:0:51599729> spawned model models/hunter/blocks/cube025x1x025.mdl
+[19:40:57] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x1.mdl
+[19:41:05] $crim killed ThunderPanda using player
+[19:41:06] Griff<STEAM_0:0:51599729> spawned model models/hunter/blocks/cube025x1x025.mdl
+[19:41:23] $crim killed ThunderPanda using player
+[19:41:35] $crim killed ThunderPanda using player
+[19:41:49] ThunderPanda killed $crim using player
+[19:42:52] $crim killed ThunderPanda using player
+[19:42:54] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x1.mdl
+[19:42:59] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/metal_wire1x1.mdl
+[19:43:24] $crim killed ThunderPanda using player
+[19:44:02] $crim killed ThunderPanda using player
+[19:44:02] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/metal_wire2x2.mdl
+[19:44:06] ThunderPanda killed $crim using player
+[19:44:29] Dropped "Hell Fire" from server<STEAM_0:1:20129756>
+[19:44:34] $crim suicided!
+[19:44:44] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate2x2.mdl
+[19:44:45] $crim killed ThunderPanda using player
+[19:45:17] $crim killed ThunderPanda using player
+[19:45:30] $crim killed ThunderPanda using player
+[19:45:41] $crim killed ThunderPanda using player
+[19:45:42] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/metal_wire1x1.mdl
+[19:45:46] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x1.mdl
+[19:47:14] $crim killed ThunderPanda using player
+[19:47:57] ThunderPanda killed $crim using player
+[19:48:23] $crim killed ThunderPanda using player
+[19:48:43] ThunderPanda killed $crim using player
+[19:48:55] $crim killed ThunderPanda using player
+[19:49:06] $crim killed ThunderPanda using player
+[19:49:39] $crim killed ThunderPanda using player
+[19:49:58] $crim killed ThunderPanda using player
+[19:50:11] $crim killed ThunderPanda using player
+[19:50:28] $crim killed ThunderPanda using player
+[19:50:36] $crim killed ThunderPanda using player
+[19:52:23] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/metal_wire1x2b.mdl
+[19:52:25] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/metal_wire1x2.mdl
+[19:52:32] Griff<STEAM_0:0:51599729> spawned model models/hunter/plates/plate1x2.mdl
+[19:52:57] ThunderPanda killed $crim using player
+[19:53:37] $crim killed ThunderPanda using player
+[19:53:53] $crim: no
+[19:54:00] $crim: no
+[19:54:03] $crim: no
+[19:54:05] $crim: no
+[19:54:07] $crim killed ThunderPanda using player
+[19:54:16] $crim: /advert penis IN MY ASS
+[19:55:05] $crim killed ThunderPanda using player
+[19:56:00] ThunderPanda: /kill
+[19:56:05] ThunderPanda: /kill
+[19:57:44] ThunderPanda killed $crim using player
+[19:58:26] ThunderPanda: /arrest
+[19:58:51] ThunderPanda: /arrest $crim
+[20:00:05] ThunderPanda killed $crim using player
+[20:00:25] ThunderPanda killed $crim using player
+[20:00:49] ThunderPanda killed $crim using player
+[20:01:10] ThunderPanda killed $crim using player
+[20:01:56] Dropped "ThunderPanda" from server<STEAM_0:0:87381926>
+[20:02:26] Dropped "$crim" from server<STEAM_0:0:92881884>
+[20:08:13] Griff: trrrrrrrrrrrrrrrrr3.
+[20:10:07] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/watermelon01.mdl
+[20:10:10] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/watermelon01.mdl
+[20:10:11] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/watermelon01.mdl
+[20:10:12] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/watermelon01.mdl
+[20:10:13] Griff<STEAM_0:0:51599729> spawned model models/props_phx/construct/metal_tube.mdl
+[20:10:14] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/watermelon01.mdl
+[20:10:15] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/watermelon01.mdl
+[20:10:16] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/watermelon01.mdl
+[20:10:18] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/watermelon01.mdl
+[20:10:19] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/watermelon01.mdl
+[20:10:20] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/watermelon01.mdl
+[20:10:21] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/watermelon01.mdl
+[20:10:22] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/watermelon01.mdl
+[20:10:23] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/watermelon01.mdl
+[20:10:24] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/watermelon01.mdl
+[20:10:25] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/watermelon01.mdl
+[20:10:26] Bob Ross<STEAM_0:1:54818617> spawned model models/props_junk/watermelon01.mdl
+[20:10:53] Bob Ross<STEAM_0:1:54818617> spawned model models/props_c17/statue_horse.mdl
+[20:11:21] Dropped "Bob Ross" from server<STEAM_0:1:54818617>
+[20:11:29] Dropped "Griff" from server<STEAM_0:0:51599729>

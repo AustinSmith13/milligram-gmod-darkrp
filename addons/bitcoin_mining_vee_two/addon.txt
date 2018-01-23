@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"BitCoin Mining 2"
+	"version"			"1"
+	"up_date"			"00/00/00"
+	"author_name"			""
+	"author_email"			"N\A"
+	"author_url"			"N\A"
+	"info"				""
+	"override"			"0"
+}
