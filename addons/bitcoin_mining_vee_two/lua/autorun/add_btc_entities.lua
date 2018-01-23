@@ -4,6 +4,7 @@ timer.Simple(4, function()
 		model = "models/props_c17/consolebox01a.mdl",
 		price = BitCoins_CFG.MinerCost,
 		max = BitCoins_CFG.Max,
-		cmd = "buybtcminer"
+		cmd = "buybtcminer",
+		category = "Bitcoin Mining"
 	})
 end)

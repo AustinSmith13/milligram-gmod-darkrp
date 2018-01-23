@@ -37,3 +37,30 @@ DarkRP.createCategory{
 	canSee = function(ply) return true end, -- OPTIONAL: whether the player can see this category AND EVERYTHING IN IT.
 	sortOrder = 100, -- OPTIONAL: With this you can decide where your category is. Low numbers to put it on top, high numbers to put it on the bottom. It's 100 by default.
 }
+
+DarkRP.createCategory{
+    name = "Money Printers",
+    categorises = "entities",
+    startExpanded = true,
+    color = Color(0, 107, 0, 255),
+    canSee = function(ply) return true end,
+    sortOrder = 1
+}
+
+DarkRP.createCategory{
+    name = "Bitcoin Mining",
+    categorises = "entities",
+    startExpanded = true,
+    color = Color(17, 85, 51, 255),
+    canSee = function(ply) return true end,
+    sortOrder = 1
+}
+
+DarkRP.createCategory{
+    name = "Owning A Shop",
+    categorises = "entities",
+    startExpanded = true,
+    color = Color(17, 85, 51, 255),
+    canSee = function(ply) return true end,
+    sortOrder = 3
+}
