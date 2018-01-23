@@ -17,6 +17,16 @@ http://wiki.darkrp.com/index.php/DarkRP:CustomEntityFields
 Add entities under the following line:
 ---------------------------------------------------------------------------]]
 
+DarkRP.createEntity("Card Machine", {
+	ent = "sent_arc_pinmachine",
+	model = "models/arc/atm_cardmachine.mdl",
+	price = 150,
+	max = 10,
+	cmd = "buycardmachine",
+	allowTools = true,
+})
+
+
 DarkRP.createEntity("T0 Printer", {
     ent = "t0printer",
     model = "models/props_c17/consolebox01a.mdl",
