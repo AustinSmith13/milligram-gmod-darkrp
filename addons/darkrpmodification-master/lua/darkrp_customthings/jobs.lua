@@ -47,7 +47,8 @@ TEAM_HITMAN = DarkRP.createJob("Hitman", {
     admin = 0,
     vote = false,
     hasLicense = false,
-    candemote = true
+    candemote = true,
+    category = "Crime"
 })
 DarkRP.addHitmanTeam(TEAM_HITMAN)
 
@@ -62,7 +63,8 @@ TEAM_THIEF = DarkRP.createJob("Thief", {
     admin = 0,
     vote = false,
     hasLicense = false,
-    candemote = true
+    candemote = true,
+    category = "Crime"
 })
 
 TEAM_GUARD = DarkRP.createJob("Guard", {
@@ -76,7 +78,8 @@ TEAM_GUARD = DarkRP.createJob("Guard", {
     admin = 0,
     vote = true,
     hasLicense = true,
-    candemote = true
+    candemote = true,
+    category = "Citizens"
 })
 
 TEAM_HOTEL = DarkRP.createJob("Hotel Manager", {
@@ -90,7 +93,8 @@ TEAM_HOTEL = DarkRP.createJob("Hotel Manager", {
     admin = 0,
     vote = false,
     hasLicense = true,
-    candemote = true
+    candemote = true,
+    category = "Citizens"
 })
 
 TEAM_KINGHOBO = DarkRP.createJob("King Hobo", {
@@ -105,7 +109,8 @@ TEAM_KINGHOBO = DarkRP.createJob("King Hobo", {
     vote = false,
     hasLicense = false,
     candemote = false,
-    NeedToChangeFrom = TEAM_HOBO
+    NeedToChangeFrom = TEAM_HOBO,
+    category = "Citizens"
 })
 
 TEAM_ETOO = DarkRP.createJob("E2 Contractor", {
@@ -119,7 +124,8 @@ TEAM_ETOO = DarkRP.createJob("E2 Contractor", {
     admin = 0,
     vote = false,
     hasLicense = false,
-    candemote = false
+    candemote = false,
+    category = "Citizens"
 })
 
 TEAM_BLACK = DarkRP.createJob("Black Market Dealer", {
@@ -133,7 +139,8 @@ TEAM_BLACK = DarkRP.createJob("Black Market Dealer", {
     admin = 0,
     vote = false,
     hasLicense = true,
-    candemote = true
+    candemote = true,
+    category = "Citizens"
 })
 
 TEAM_POLICE = DarkRP.createJob("Civil Protection", {
@@ -195,7 +202,8 @@ TEAM_DRUG = DarkRP.createJob("Drug Lord", {
     admin = 0,
     vote = false,
     hasLicense = false,
-    candemote = true
+    candemote = true,
+    category = "Crime"
 })
 
 TEAM_BITCOIN = DarkRP.createJob("Bitcoin Miner", {
@@ -209,5 +217,6 @@ TEAM_BITCOIN = DarkRP.createJob("Bitcoin Miner", {
     admin = 0,
     vote = false,
     hasLicense = false,
-    candemote = true
+    candemote = true,
+    category = "Citizens"
 })
