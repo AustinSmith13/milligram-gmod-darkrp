@@ -40,7 +40,7 @@ TEAM_HITMAN = DarkRP.createJob("Hitman", {
     color = Color(173, 8, 8, 255),
     model = {"models/player/Group01/male_04.mdl"},
     description = [[Take hits, carry them out. Don't RDM.]],
-    weapons = {"m9k_hk45_drp"},
+    weapons = {"lite_usp"},
     command = "hitman",
     max = 3,
     salary = 75,
@@ -69,7 +69,7 @@ TEAM_GUARD = DarkRP.createJob("Guard", {
     color = Color(0, 223, 255, 255),
     model = {"models/player/odessa.mdl"},
     description = [[Be hired to guard other players, illegally or legally.]],
-    weapons = {"weaponchecker", "m9k_m3_drp"},
+    weapons = {"weaponchecker", "lite_usp"},
     command = "guard",
     max = 2,
     salary = 110,
@@ -97,7 +97,7 @@ TEAM_KINGHOBO = DarkRP.createJob("King Hobo", {
     color = Color(133, 0, 32, 255),
     model = {"models/player/charple.mdl"},
     description = [[Lead the hobo army]],
-    weapons = {"m9k_dbarrel_drp"},
+    weapons = {"lite_xm1014"},
     command = "hoboleader",
     max = 1,
     salary = 10,
@@ -146,7 +146,7 @@ TEAM_POLICE = DarkRP.createJob("Civil Protection", {
         The Battering Ram can break down the door of a criminal, with a warrant for their arrest.
         The Battering Ram can also unfreeze frozen props (if enabled).
         Type /wanted <name> to alert the public to the presence of a criminal.]],
-    weapons = {"arrest_stick", "unarrest_stick", "m9k_hk45_drp", "stunstick", "door_ram", "weaponchecker"},
+    weapons = {"arrest_stick", "unarrest_stick", "lite_fiveseven", "stunstick", "door_ram", "weaponchecker"},
     command = "cp",
     max = 4,
     salary = GAMEMODE.Config.normalsalary * 1.45,
@@ -169,7 +169,7 @@ TEAM_CHIEF = DarkRP.createJob("Civil Protection Chief", {
         The Battering Ram can break down the door of a criminal, with a warrant for his/her arrest.
         Type /wanted <name> to alert the public to the presence of a criminal.
         Type /jailpos to set the Jail Position]],
-    weapons = {"arrest_stick", "unarrest_stick", "m9k_scar_drp", "stunstick", "door_ram", "weaponchecker"},
+    weapons = {"arrest_stick", "unarrest_stick", "lite_aug", "stunstick", "door_ram", "weaponchecker", "weapon_breachingram"},
     command = "chief",
     max = 1,
     salary = GAMEMODE.Config.normalsalary * 1.67,
@@ -188,7 +188,7 @@ TEAM_DRUG = DarkRP.createJob("Drug Lord", {
     color = Color(125, 86, 86, 255),
     model = {"models/player/soldier_stripped.mdl"},
     description = [[Cook and make hard drugs.]],
-    weapons = {"m9k_m29satan_drp"},
+    weapons = {"lite_fiveseven"},
     command = "drugdealer",
     max = 4,
     salary = 60,
